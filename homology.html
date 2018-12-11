@@ -98,7 +98,7 @@
                         <option value="76116237.pdb">gi|76116237 (built on 1PK8)</option>
                     </select>
                 </form>
-                <div id="viewport" style="width:1600px; height:1200px;"></div>
+                <div id="viewport" style="width:800px; height:600px;"></div>
             </div>
             <div class="col-3"></div>
         </div>
@@ -110,6 +110,9 @@
                 stage.removeAllComponents();    // clear the stage for the next structure
                 stage.loadFile("pdb/" + hm.value, {defaultRepresentation: true});   // display structure
             });
+            window.addEventListener( "resize", function( event ){
+                stage.handleResize();
+                }, false );
         </script>
         
     </body>
