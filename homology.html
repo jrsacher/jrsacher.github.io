@@ -105,11 +105,9 @@
 
         <script>
             var hm = document.getElementById("models");
+            var stage = new NGL.Stage("viewport");
             hm.addEventListener("change", function () {
-                if (stage) {
-                    stage.dispose()
-                }
-                var stage = new NGL.Stage("viewport");
+                // var stage = new NGL.Stage("viewport");
                 stage.loadFile("pdb/" + hm.value, {defaultRepresentation: true});
             });
         </script>
