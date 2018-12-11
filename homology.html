@@ -98,7 +98,7 @@
                         <option value="76116237.pdb">gi|76116237 (built on 1PK8)</option>
                     </select>
                 </form>
-                <div id="viewport" style="width:800px; height:600px;"></div>
+                <div id="viewport" class="container-fluid"></div>
             </div>
             <div class="col-3"></div>
         </div>
@@ -106,6 +106,9 @@
         <script>
             var hm = document.getElementById("models");
             hm.addEventListener("change", function () {
+                if (stage) {
+                    stage.dispose()
+                }
                 var stage = new NGL.Stage("viewport");
                 stage.loadFile("pdb/" + hm.value, {defaultRepresentation: true});
             });
