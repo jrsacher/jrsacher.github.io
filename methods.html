@@ -11,12 +11,11 @@
         <title>BIOT E-100 FIND-A-GENE</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-        <<link rel="stylesheet" type="text/css" media="screen" href="static/styles.css" />
+        <<link rel="stylesheet" type="text/css" media="screen" href="/static/styles.css" />
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-        <!-- MSA Viewer-->
-        <script src=https://cdn.bio.sh/msa/1.0/msa.min.gz.js></script>
+        <!-- <script src="main.js"></script> -->
     </head>
 
     <body>
@@ -34,14 +33,14 @@
                 <ul class="navbar-nav mr-auto">
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                            Background Info
-                            </a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="methods.html">Methodology</a>
-                                <a class="dropdown-item" href="syn1a.html">Synapsin 1a</a>
-                            </div>
-                        </li>
+                        <a class="nav-link dropdown-toggle active" href="#" id="navbardrop" data-toggle="dropdown">
+                        Background Info
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="methods.html">Methodology</a>
+                            <a class="dropdown-item" href="syn1a.html">Synapsin 1a</a>
+                        </div>
+                    </li>
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
@@ -77,32 +76,36 @@
         </nav>
         
         <div class="jumbotron text-center">
-            <h1>Novel Sequence Alignment</h1>
+            <div class="container-fluid">
+                <h1>Novel Gene-Finding and Analysis Methods</h1>
+            </div>
         </div>
         
         <div class="container">
-            <div id="msa">
-            </div>
+            <div>
+                <h2>
+                    Building and using <code>find-a-gene.py</code>
+                </h2>
+                <p>
+                    For details on <code>find-a-gene.py</code>, please see <a href="https://github.com/jrsacher/find-a-gene">GitHub</a>
+                </p>
+                <p>
+                    Human <a href="syn1a.html">Synapsin 1a</a> was chosen as the starting gene. This was then used in a TBLASTN search of the NCBI EST database. Results from human, mouse, and rat were discarded due to the high likelihood of being "known."
+                </p>
+                <p>
+                    The results are then filtered based on identity, similarity, and gaps. The thought is that sequences too similar to the orignal (potentially well-studied) sequence are more likely to be annotated. While this theory was not empiracally validated, the results were good!
+                </p>
+                <p>
+                    The 50 top hits from the filtered results were checked for novelty by performing a BLAST search for them in the non-redundant database. By Pevsner's criteria, a gene is novel if there is not a 100% identitry match from the query organism. If the original gene of interest is not found in the results, the result is likely a false positive.
+                </p>
+                <p>
+                    Multiple sequence alignment was performed using Clustal Omega for both the full set of genes checked for novelty (regardless of the result) and the discovered novels only. In both cases, the original sequence and 3 comparitor sequences (Human synapsins IIa, IIb, and III). Phylogenetic trees were calculated from these alignments using PhyML with nonparametric bootstrapping for refinement.
+                </p>
+                <p>
+                    For synapsin Ia and the novel genes, homology modeling was performed using Prime (Schrödinger). Briefly, a BLASTP search on the protein sequence was performed, limiting to proteins with structures deposited in the PDB. The basis of the model was chosen by a combination of E-value and maximum overlap with the query sequence. After the model was generated, the structure was refined using constrained molecular dynamics and loops not directly fit to the PDB structure were further refined.
+                </p>
+            </div>            
+
         </div>
-
-        <script>
-            var opts = {
-                el: document.getElementById("msa"),
-                vis: {
-                    conserv: false,
-                    overviewbox: false,
-                    seqlogo: true
-                },
-                // smaller menu for JSBin
-                menu: "small",
-                bootstrapMenu: true,
-                
-                importURL: "https://raw.githubusercontent.com/jrsacher/find-a-gene/master/synapsin_2018-12-09/msa_novel_out.aln"
-            };
-
-            var m = new msa(opts);
-            m.render();
-        </script>
-
     </body>
 </html>

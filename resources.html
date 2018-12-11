@@ -31,8 +31,15 @@
             <!-- Navbar links -->
             <div class="collapse navbar-collapse justify-content-between" id="collapsibleNavbar">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Synapsin I A</a>
+                    <!-- Dropdown -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                        Background Info
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="methods.html">Methodology</a>
+                            <a class="dropdown-item" href="syn1a.html">Synapsin 1a</a>
+                        </div>
                     </li>
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
@@ -53,11 +60,12 @@
                             <a class="dropdown-item" href="novel_msa.html">Alignments</a>
                             <a class="dropdown-item" href="novel_tree.html">Phylogenetic Trees</a>
                             <a class="dropdown-item" href="novels.html">Details</a>
+                            <a class="dropdown-item" href="homology.html">Homology Models</a>
                         </div>
                     </li>
                 </ul>
                 <ul class="navbar-nav">
-                    <li class="nav-item">
+                    <li class="nav-item active">
                         <a class="nav-link" href="resources.html">Resources</a>
                     </li>
                     <li class="nav-item">
@@ -81,6 +89,8 @@
                     <li class="list-group-item"><a href="http://clustal.org/omega/">Clustal Omega</a> for multiple sequence alignment</li>
                     <li class="list-group-item"><a href="http://www.atgc-montpellier.fr/phyml/">PhyML</a> for tree building</li>
                     <li class="list-group-item"><a href="http://msa.biojs.net/">MSAViewer</a>, a JavaScript viewer for alignments</li>
+                    <li class="list-group-item"><a href="https://www.schrodinger.com">Schrodinger</a> molecular modeling suite (<a href="https://www.schrodinger.com/prime">Prime</a>)</li>
+                    <li class="list-group-item"><a href="http://nglviewer.org/ngl/api/">NGL Viewer</a>, an embeddable viewer for PDB files</li>
                 </ul>
             </div>
             <div class="col-3"></div>

@@ -21,7 +21,7 @@
     <body>
         <nav class="navbar navbar-expand-md bg-dark navbar-dark">
             <!-- Brand -->
-            <a class="navbar-brand" href="index.html">BIOT E-100 FIND-A-GENE</a>
+            <a class="navbar-brand" href="/index.html">BIOT E-100 FIND-A-GENE</a>
         
             <!-- Toggler/collapsibe Button -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -31,9 +31,16 @@
             <!-- Navbar links -->
             <div class="collapse navbar-collapse justify-content-between" id="collapsibleNavbar">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Synapsin I A</a>
-                    </li>
+                    <!-- Dropdown -->
+                    <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                            Background Info
+                            </a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="methods.html">Methodology</a>
+                                <a class="dropdown-item" href="syn1a.html">Synapsin 1a</a>
+                            </div>
+                        </li>
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
@@ -45,7 +52,7 @@
                         </div>
                     </li>
                     <!-- Dropdown -->
-                    <li class="nav-item dropdown active">
+                    <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                         Novel Genes
                         </a>
@@ -53,6 +60,7 @@
                             <a class="dropdown-item" href="novel_msa.html">Alignments</a>
                             <a class="dropdown-item" href="novel_tree.html">Phylogenetic Trees</a>
                             <a class="dropdown-item" href="novels.html">Details</a>
+                            <a class="dropdown-item" href="homology.html">Homology Models</a>
                         </div>
                     </li>
                 </ul>

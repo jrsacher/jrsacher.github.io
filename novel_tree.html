@@ -21,7 +21,7 @@
     <body>
         <nav class="navbar navbar-expand-md bg-dark navbar-dark">
             <!-- Brand -->
-            <a class="navbar-brand" href="index.html">BIOT E-100 FIND-A-GENE</a>
+            <a class="navbar-brand" href="/index.html">BIOT E-100 FIND-A-GENE</a>
         
             <!-- Toggler/collapsibe Button -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -31,9 +31,16 @@
             <!-- Navbar links -->
             <div class="collapse navbar-collapse justify-content-between" id="collapsibleNavbar">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Synapsin I A</a>
-                    </li>
+                    <!-- Dropdown -->
+                    <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                            Background Info
+                            </a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="methods.html">Methodology</a>
+                                <a class="dropdown-item" href="syn1a.html">Synapsin 1a</a>
+                            </div>
+                        </li>
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
@@ -45,14 +52,15 @@
                         </div>
                     </li>
                     <!-- Dropdown -->
-                    <li class="nav-item dropdown active">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle active" href="#" id="navbardrop" data-toggle="dropdown">
                         Novel Genes
                         </a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="novel_msa.html">Alignments</a>
                             <a class="dropdown-item" href="novel_tree.html">Phylogenetic Trees</a>
                             <a class="dropdown-item" href="novels.html">Details</a>
+                            <a class="dropdown-item" href="homology.html">Homology Models</a>
                         </div>
                     </li>
                 </ul>
@@ -69,6 +77,20 @@
         
         <div class="jumbotron text-center">
             <h1>Phylogenetic Tree of Novel Genes</h1>
+            <div class="row">
+                <div class="col-3"></div>
+                <div class="col-6">
+                    <table class="table table-borderless">
+                        <tr>
+                            <td class="blue">Synapsin Ia</td>
+                            <td class="green">Novel gene</td>
+                            <td class="black">Comparitor</td>
+                            <td class="red">Known gene</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="col-3"></div>
+            </div>
         </div>
         <div class="container-fluid">
             <img src="img/tree_novel_transparent.png" class="img-fluid mx-auto d-block" alt="phylogenetic tree"/>

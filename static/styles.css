@@ -1,3 +1,23 @@
 .right {
     text-align: "right"
 }
+
+.blue {
+    color: #006db6;
+    font-weight: bold
+}
+
+.red {
+    color: #e4002b;
+    font-weight: bold
+}
+
+.green {
+    color: #00bf71;
+    font-weight: bold
+}
+
+.black {
+    color: #000000;
+    font-weight: bold
+}
