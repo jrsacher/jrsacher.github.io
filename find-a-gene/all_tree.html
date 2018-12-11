@@ -11,18 +11,17 @@
         <title>BIOT E-100 FIND-A-GENE</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-        <!-- <link rel="stylesheet" type="text/css" media="screen" href="/static/styles.css" /> -->
+        <link rel="stylesheet" type="text/css" media="screen" href="static/styles.css" />
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-        <script src="https://unpkg.com/ngl"></script> <!-- 3D Protein Viewer -->
         <!-- <script src="main.js"></script> -->
     </head>
 
     <body>
         <nav class="navbar navbar-expand-md bg-dark navbar-dark">
             <!-- Brand -->
-            <a class="navbar-brand" href="/index.html">BIOT E-100 FIND-A-GENE</a>
+            <a class="navbar-brand" href="index.html">BIOT E-100 FIND-A-GENE</a>
         
             <!-- Toggler/collapsibe Button -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -34,17 +33,17 @@
                 <ul class="navbar-nav mr-auto">
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                            Background Info
-                            </a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="methods.html">Methodology</a>
-                                <a class="dropdown-item" href="syn1a.html">Synapsin 1a</a>
-                            </div>
-                        </li>
+                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                        Background Info
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="methods.html">Methodology</a>
+                            <a class="dropdown-item" href="syn1a.html">Synapsin 1a</a>
+                        </div>
+                    </li>
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                        <a class="nav-link dropdown-toggle active" href="#" id="navbardrop" data-toggle="dropdown">
                         Search Reults
                         </a>
                         <div class="dropdown-menu">
@@ -54,7 +53,7 @@
                     </li>
                     <!-- Dropdown -->
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle active" href="#" id="navbardrop" data-toggle="dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                         Novel Genes
                         </a>
                         <div class="dropdown-menu">
@@ -75,42 +74,27 @@
                 </ul>
             </div> 
         </nav>
-
+    
         <div class="jumbotron text-center">
-            <div class="container-fluid">
-                <h1>Homology Models</h1>
+            <h1>Phylogenetic Tree of All Searched Sequences</h1>
+            <div class="row">
+                <div class="col-3"></div>
+                <div class="col-6">
+                    <table class="table table-borderless">
+                        <tr>
+                            <td class="blue">Synapsin Ia</td>
+                            <td class="green">Novel gene</td>
+                            <td class="black">Comparitor</td>
+                            <td class="red">Known gene</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="col-3"></div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-2"></div>
-            <div class="col-auto center-block">
-                <form class="align-items-center">
-                    <select name="models" id="models" autofocus class="form-control">
-                        <option value="title" disabled selected>Choose a homology model</option>
-                        <option value="SYN1a.pdb">Synapsin Ia (built on 1AUX)</option>
-                        <option value="85457938.pdb">gi|85457938 (built on 1AUX)</option>
-                        <option value="335380901.pdb">gi|335380901 (built on 1I7L)</option>
-                        <option value="73494128.pdb">gi|73494128 (built on 1I7L)</option>
-                        <option value="25731315.pdb">gi|25731315 (built on 1I7L)</option>
-                        <option value="62090276.pdb">gi|62090276 (built on 1I7L)</option>
-                        <option value="76127805.pdb">gi|76127805 (built on 1I7N)</option>
-                        <option value="39737499.pdb">gi|39737499 (built on consensus 1AUX/1PK8)</option>
-                        <option value="76116237.pdb">gi|76116237 (built on 1PK8)</option>
-                    </select>
-                </form>
-                <div id="viewport" style="width:800px; height:600px;"></div>
-            </div>
-            <div class="col-2"></div>
+        <div class="container-fluid">
+            <img src="img/tree_all_transparent.png" class="img-fluid mx-auto d-block" alt="phylogenetic tree"/>
         </div>
-
-        <script>
-            var hm = document.getElementById("models");
-            var stage = new NGL.Stage("viewport");
-            hm.addEventListener("change", function () {
-                stage.removeAllComponents();    // clear the stage for the next structure
-                stage.loadFile("pdb/" + hm.value, {defaultRepresentation: true});   // display structure
-            });
-        </script>
         
     </body>
 </html>
