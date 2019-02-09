@@ -1,5 +1,7 @@
 # CSCI E-50 Spring 2019
 
+***
+
 ## Section 1
 
 ### From [**C**olorful **C**ats](scratch.mit.edu) to plain old `C`
