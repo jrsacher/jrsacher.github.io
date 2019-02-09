@@ -1,6 +1,0 @@
-permalink: pretty
-
-optional_front_matter:
-  remove_originals: true
-
-remote_theme: cs50/jekyll-theme-cs50
