@@ -21,6 +21,6 @@ Resources
 * [CS50 Reference](https://reference.cs50.net/): A simplified guide to `C` functions
 * [Discourse](https://discourse.cs50.net/c/cs50-2019-spring): the best place to get answers asynchronously
 
-Contact Josh at cs50@jrsacher.com
+[Contact Josh](mailto:cs50@jrsacher.com)
 
 Learn more about Josh by [googling](https://www.google.com/search?q=Joshua+Sacher) (I'm not the crossfit guy, so pretty much anyone that looks out of shape is me)
