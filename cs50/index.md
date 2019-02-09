@@ -1,4 +1,12 @@
+---
+title: CS50 Section Materials
+layout: post
+---
+
+
 # CSCI E-50 Spring 2019
+
+***
 
 ## Section 1
 
