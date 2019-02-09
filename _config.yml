@@ -1,2 +1,9 @@
 theme: jekyll-theme-hacker
-highlighter: rouge
+locale: en-US
+title: "Josh's pages"
+description: "A collection of resources"
+baseurl: ""
+url: https://jrsacher.github.io
+author:
+  name: Joshua Sacher
+  email: github_pages@jrsacher.com
