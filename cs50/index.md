@@ -2,6 +2,31 @@
 
 ***
 
+## Section 2
+
+### Arrays are awesome
+
+```C
+int main(void)
+{
+    string s = "Hello, section!";
+    for (int i = 0, len = strlen(s); i < len; i++)
+    {
+        printf("%c\n", s[i]);
+    }
+}
+```
+
+_-- Slides and Sandbox still under development --_
+
+[Slides](https://docs.google.com/presentation/d/1hctnYNQlqztHs8Xu4FXwrAmctZ1X7-XDuGBp5C3YkQk/edit?usp=sharing)
+
+[Sandbox](http://bit.ly/2S92c7w)
+
+[Attendance](https://docs.google.com/forms/d/e/1FAIpQLScB8yba6sMvsY1aItvE5n-8fwmQxLP9WfgJNNZgO5erzr-Cdw/viewform?usp=sf_link)
+
+***
+
 ## Section 1
 
 ### From [**C**olorful **C**ats](https://scratch.mit.edu) to plain old `C`
