@@ -17,8 +17,6 @@ int main(void)
 }
 ```
 
-_-- Slides and Sandbox still under development --_
-
 [Slides](https://docs.google.com/presentation/d/1hctnYNQlqztHs8Xu4FXwrAmctZ1X7-XDuGBp5C3YkQk/edit?usp=sharing)
 
 [Sandbox](http://bit.ly/2S92c7w)
