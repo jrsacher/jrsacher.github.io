@@ -2,6 +2,32 @@
 
 ***
 
+## Section 3
+
+### What’s the point(er)?
+
+```C
+int main(int argc, char *argv[])
+{
+    char *name = "section";
+    
+    if (argc == 2)
+    {
+        name = argv[1];
+    }
+
+    printf("Hello, %s!\n", name);
+}
+```
+
+[Slides](https://docs.google.com/presentation/d/15KseYAGGgPp9MuThNyhcCEWbYNDFOzcvUKZW2KSw60I/edit?usp=sharing)
+
+[Sandbox](http://bit.ly/2tyIMPs)
+
+[Attendance](https://docs.google.com/forms/d/e/1FAIpQLScxgwxd3X_XjBy2BsHBDkGI2K2YJOvt5uP3Iicg3xHyi4IirQ/viewform?usp=sf_link)
+
+***
+
 ## Section 2
 
 ### Arrays are awesome
