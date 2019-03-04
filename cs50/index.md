@@ -2,6 +2,12 @@
 
 ***
 
+## Section 3 part 2
+
+[Attendance](https://docs.google.com/forms/d/e/1FAIpQLSf725jcJcc9VqzuPmzmdUx8CCBUOCNGq8Ppr1wsriPqdoCevw/viewform?usp=sf_link)
+
+***
+
 ## Section 3
 
 ### What’s the point(er)?
