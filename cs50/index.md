@@ -2,6 +2,16 @@
 
 ***
 
+## Section 5
+
+### ...a series of tubes[?](https://en.wikipedia.org/wiki/Series_of_tubes)
+
+[Best resource for all things HTML/CSS](https://w3schools.com)
+
+[Attendance](https://docs.google.com/forms/d/e/1FAIpQLSd_y-wyzL2j-2LQ0XV0gVXBM5sgr8Yx3cPiSflNwtPAxTMthw/viewform?usp=sf_link)
+
+***
+
 ## Section 4
 
 ### C ya later!
