@@ -2,6 +2,23 @@
 
 ***
 
+## Section 6
+
+### [import this](https://en.wikipedia.org/wiki/Zen_of_Python)
+
+```python
+for person in section:
+    print(f"hello, {person}!")
+```
+
+[Slides](https://docs.google.com/presentation/d/1jxRUsDgHDGhAQjznlOPrJLs8jnW02y3gd4EwHYjJKmA/edit?usp=sharing)
+
+[Sandbox](http://bit.ly/2WDQHYp)
+
+[Attendance](https://docs.google.com/forms/d/e/1FAIpQLScrklxp-YDq7ykKf9GjzXhbEp4-XzaMXkPQ1WfkoycjeY_EoA/viewform?usp=sf_link)
+
+***
+
 ## Section 5
 
 ### ...a series of tubes[?](https://en.wikipedia.org/wiki/Series_of_tubes)
