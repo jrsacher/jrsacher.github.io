@@ -9,9 +9,9 @@
 [Slides](https://docs.google.com/presentation/d/1EE6zpD2FDUBrKAGla5XYOijsv7D1jlNc24JexEO-z4s/edit?usp=sharing)
 
 Sandboxes:  
-* [Mario revisited](https://sandbox.cs50.io/850513b9-3e69-4658-8e24-da095af35fe3)
-* [Telling time](https://sandbox.cs50.io/c8fb8ab7-82f7-4258-b443-1108f3311c21)
-* [Decorators](https://sandbox.cs50.io/5cfd83d6-eb86-4292-947c-cc0eeee3d137)
+* [Mario revisited](http://bit.ly/2IjGBb3)
+* [Telling time](http://bit.ly/2ImJEiL)
+* [Decorators](http://bit.ly/2G7fYoh)
 
 [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSeQHfBTSSGFKxj726zl3fyq8etc0oQmv-feSmmpqxJtPSyTLw/viewform?usp=sf_link)
 
