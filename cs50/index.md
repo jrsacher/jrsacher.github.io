@@ -2,6 +2,23 @@
 
 ***
 
+## Section 8
+
+### 
+
+```sql
+INSERT INTO cs50 (sections) VALUES (‘the end’)
+```
+
+[Slides](https://docs.google.com/presentation/d/1MMW2hq89d81PwHO18bFGo_J1fHvT0IAJ1aSAwryOp5A/edit?usp=sharing)
+
+No sandbox, but run the following in your IDE:  
+`wget https://cdn.cs50.net/hbs/2019/spring/classes/4/imdb.db`
+
+[Attendance](https://docs.google.com/forms/d/e/1FAIpQLSe_8tsCIalm9Pd1cP-fXNRXi8Tyf2d0oB55B9ZpIZ_m0yiOxw/viewform?usp=sf_link)
+
+***
+
 ## Section 7
 
 ### Writing HTML by hand is boring
