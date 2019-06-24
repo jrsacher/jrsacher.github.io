@@ -12,6 +12,11 @@
 
 ## Resources
 
+Popular code editors:  
+* [VS Code](https://code.visualstudio.com/)
+* [Atom](https://atom.io/)
+* [Sublime Text](https://www.sublimetext.com/)
+
 [Contact Josh](mailto:web50@jrsacher.com)
 
 Learn more about Josh by [googling](https://www.google.com/search?q=Joshua+Sacher) (I'm not the crossfit guy, so pretty much anyone that looks out of shape is me)
