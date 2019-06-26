@@ -4,7 +4,7 @@
 
 ## Section 0
 
-### Git, [GitHub](github.com), and HTML
+### [Git](https://git-scm.com/), [GitHub](github.com), [HTML](https://www.w3schools.com/html/), and [CSS](https://www.w3schools.com/css/)
 
 [Slides](https://docs.google.com/presentation/d/1UuT29ZhEdIQkeQ_C77Ky49GKOpMActrRdfR0fOOW-vk/edit?usp=sharing)
 
