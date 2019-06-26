@@ -6,7 +6,8 @@
 
 ### [Git](https://git-scm.com/), [GitHub](github.com), [HTML](https://www.w3schools.com/html/), and [CSS](https://www.w3schools.com/css/)
 
-[Slides](https://docs.google.com/presentation/d/1UuT29ZhEdIQkeQ_C77Ky49GKOpMActrRdfR0fOOW-vk/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1UuT29ZhEdIQkeQ_C77Ky49GKOpMActrRdfR0fOOW-vk/edit?usp=sharing)  
+[Here](https://jrsacher.github.io/project0-jrsacher/) is the not-so-pretty website we made during section  
 
 ***
 
