@@ -1,0 +1,35 @@
+<!-- Entirely local JS implementation 
+not sensitive to the server's timezone! -->
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+
+        <!-- Required meta tags -->
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+
+        <!-- Bootstrap CSS -->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" rel="stylesheet"/>
+
+        <title>What time is it?</title>
+        <script>
+        function get_time(){
+            document.querySelector('time').innerHTML = new Date().toLocaleTimeString();
+        }
+        </script>
+    </head>
+    <!-- NOTICE "onload" below -->
+    <body onload="get_time()">
+        <div class="container-fluid">
+            <div class="row">
+                  <div class="col">
+                      <h1>It is currently <time>x</time></h1>
+                  </div>
+              </div>
+              <form class="row" onsubmit="get_time()">
+                  <input type="submit" value="What about now?">
+              </form>
+        </div>
+    </body>
+</html>
