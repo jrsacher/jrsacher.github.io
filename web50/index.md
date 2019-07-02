@@ -2,6 +2,15 @@
 
 ***
 
+## Section 2
+
+###[Python](https://www.python.org/) and [Flask](http://flask.pocoo.org/)
+
+[Slides](https://docs.google.com/presentation/d/1Mo_x8txTkEnLGSljN5kDy0V1qnnCqI_ACgV5sYJ12N8/edit?usp=sharing)  
+[Examples](/2)
+
+***
+
 ## Section 0
 
 ### [Git](https://git-scm.com/), [GitHub](github.com), [HTML](https://www.w3schools.com/html/), and [CSS](https://www.w3schools.com/css/)
