@@ -7,7 +7,7 @@
 ### [Python](https://www.python.org/) and [Flask](http://flask.pocoo.org/)
 
 [Slides](https://docs.google.com/presentation/d/1Mo_x8txTkEnLGSljN5kDy0V1qnnCqI_ACgV5sYJ12N8/edit?usp=sharing)  
-[Examples](https://jrsacher.github.io/web50/section2/)
+[Examples](https://github.com/jrsacher/CSCI_S-33a_Summer2019/tree/master/section2)
 
 ***
 
