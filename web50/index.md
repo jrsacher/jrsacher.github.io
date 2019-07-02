@@ -4,7 +4,7 @@
 
 ## Section 2
 
-###[Python](https://www.python.org/) and [Flask](http://flask.pocoo.org/)
+### [Python](https://www.python.org/) and [Flask](http://flask.pocoo.org/)
 
 [Slides](https://docs.google.com/presentation/d/1Mo_x8txTkEnLGSljN5kDy0V1qnnCqI_ACgV5sYJ12N8/edit?usp=sharing)  
 [Examples](/ssection2)
