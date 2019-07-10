@@ -6,7 +6,7 @@
 
 ### ORM and APIs
 
-[slides](https://docs.google.com/presentation/d/1vcydNH-53hLqdr_fRqPqYO_nDLvITpVTWJFBExpS6b4/edit?usp=sharing)
+[slides](https://docs.google.com/presentation/d/1vcydNH-53hLqdr_fRqPqYO_nDLvITpVTWJFBExpS6b4/edit?usp=sharing)    
 [files](https://github.com/jrsacher/CSCI_S-33a_Summer2019/tree/master/section4)
 
 ***
