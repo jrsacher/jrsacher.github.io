@@ -2,6 +2,15 @@
 
 ***
 
+## Section 7
+
+### Django
+
+[slides](https://docs.google.com/presentation/d/1vOkKMA1JJMbeaXnCOSWS0xWaEBpE9WSIWeYI9aJiv0s/edit?usp=sharing)  
+[files](https://github.com/jrsacher/CSCI_S-33a_Summer2019/tree/master/section7)
+
+***
+
 ## Section 4
 
 ### ORM and APIs
