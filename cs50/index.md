@@ -26,7 +26,7 @@
 
 [Attendance](#)
 
-[Sandbox](https://sandbox.cs50.io/d6914fc1-2e90-423c-8b49-3fdd646aa8e7)
+[Sandbox](http://bit.ly/2UVljot)
 
 #### Housekeeping
 
@@ -72,7 +72,7 @@
 
 #### Hands on
 
-[Sandbox](#)
+[Sandbox](http://bit.ly/2UVljot)
 * A quick note on style
 * CLI practice, tips and tricks
 * Hangman
@@ -91,7 +91,7 @@
 
 ### Contact Josh
 
-[Email me!](mailto:joshuasacher@g.harvard.edu?subject=CS50:%20[your subject here])
+[Email me!](mailto:joshuasacher@g.harvard.edu?subject=CS50%3A%20%5Byour%20subject%20here%5D)
 
 ### About Josh
 
