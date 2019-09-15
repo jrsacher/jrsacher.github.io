@@ -25,6 +25,7 @@
 ### Week 2
 
 [Attendance](#)
+
 [Sandbox](https://sandbox.cs50.io/d6914fc1-2e90-423c-8b49-3fdd646aa8e7)
 
 #### Housekeeping
@@ -93,4 +94,6 @@
 
 ### About Josh
 
-Drug discovery chemist at [Broad Institute](https://www.broadinstitute.org/CDoT) by day, CS50 TF by night (and day). If you [search my name](https://www.google.com/search?q=Joshua+Sacher), most of what comes up should be me.
+Drug discovery chemist at [Broad Institute](https://www.broadinstitute.org/CDoT) by day, CS50 TF by night (and day). 
+
+If you [search my name](https://www.google.com/search?q=Joshua+Sacher), most of what comes up should be me.
