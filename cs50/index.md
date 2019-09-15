@@ -74,6 +74,7 @@
 
 [Sandbox](#)
 * A quick note on style
+* CLI practice, tips and tricks
 * Hangman
 
 ---
