@@ -26,7 +26,12 @@
 
 [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSfgilQK1cMerPQ-WI6luuuUMja2E1-E0kDZkRDJfdmydOIcLg/viewform?usp=sf_link)
 
-[Sandbox](http://bit.ly/2UVljot)
+[Sandbox](http://bit.ly/2UVljot)  
+
+[Hangman solutions](http://bit.ly/2UVljot):  
+* `hangman0.c` as in class
+* If you thought that solution was repetitive, you were right. See `hangman1.c` for some improvements
+* `hangman2.c` implements all features of traditional hangman (except drawing a person, sorry)
 
 #### Housekeeping
 
@@ -34,13 +39,13 @@
     * Class
         * Attend if at all possible!
         * Watch online if not
-        * Quizzes due Tuesday morning at 9:00 AM
+        * Quizzes due Tuesday morning at 10:30 AM
     * Section
-        * Attend watch/lecture before section
+        * Attend/watch lecture before section
         * Read through the PSet specifications (or, better, start them!)
         * Feel free to attend any section you'd like
         * General structure of my section:
-            * Housekeeping _<-- YOU ARE HERE_
+            * Housekeeping
             * Brief review of last week's PSet
             * This week's topics, Q and A
             * Hands-on practice
