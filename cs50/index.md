@@ -10,6 +10,7 @@
 
 ## [Sections](#sections)
 
+* [Week 3](#week-3)
 * [Week 2](#week-2)
 
 ## [Other Stuff](#other-stuff)
@@ -21,6 +22,39 @@
 ---
 
 ## Sections
+
+### Week 3
+
+[Attendance](https://docs.google.com/forms/d/e/1FAIpQLScrFuv1VxEFbMmyGjzanYx6kJ_ZL8FGmLRaRzKwxEZHtMIKRA/viewform?usp=sf_link)
+
+[Sandbox](https://sandbox.cs50.io/e7440ff8-e33a-4c59-abc5-937b93c83538)
+
+[Solutions](#) (Released after section)
+
+#### Housekeeping
+
+* Logistics questions?
+
+#### PSet 2 Postmortem
+
+* TBD
+
+#### Topics for Week 3
+
+* Structs
+* Searching
+* Sorting
+* Running Time (_O_, Ω, θ)
+* Recursion
+
+#### Hands on
+
+[Sandbox](https://sandbox.cs50.io/e7440ff8-e33a-4c59-abc5-937b93c83538)
+* Structs
+* Recursion
+* Sorting
+
+---
 
 ### Week 2
 
