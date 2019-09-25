@@ -27,7 +27,14 @@
 
 [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScrFuv1VxEFbMmyGjzanYx6kJ_ZL8FGmLRaRzKwxEZHtMIKRA/viewform?usp=sf_link)
 
-[Sandbox](https://sandbox.cs50.io/e7440ff8-e33a-4c59-abc5-937b93c83538)
+[Sandbox](https://sandbox.cs50.io/e7440ff8-e33a-4c59-abc5-937b93c83538) or download in your IDE:
+```bash
+mkdir week3
+cd week3
+wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week3.zip
+unzip week3.zip
+rm week3.zip
+```
 
 [Solutions](#) (Released after section)
 
@@ -36,10 +43,11 @@
 * Logistics questions?
 * Resources
    * [Shorts for week 3](https://cs50.harvard.edu/college/weeks/3/)
+   * Walkthrough videos!
 
 #### PSet 2 Postmortem
 
-* TBD
+* Looks pretty good!
 
 #### Topics for Week 3
 
@@ -51,7 +59,8 @@
 
 #### Hands on
 
-[Sandbox](https://sandbox.cs50.io/e7440ff8-e33a-4c59-abc5-937b93c83538)
+* Reading distribution code
+[Sandbox](https://sandbox.cs50.io/e7440ff8-e33a-4c59-abc5-937b93c83538) or `wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week3.zip`
 * Structs
 * Recursion
 * Sorting
