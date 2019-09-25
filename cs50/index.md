@@ -60,6 +60,7 @@ rm week3.zip
 #### Hands on
 
 * Reading distribution code
+
 [Sandbox](https://sandbox.cs50.io/e7440ff8-e33a-4c59-abc5-937b93c83538) or `wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week3.zip`
 * Structs
 * Recursion
