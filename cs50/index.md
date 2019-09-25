@@ -34,6 +34,8 @@
 #### Housekeeping
 
 * Logistics questions?
+* Resources
+   * [Shorts for week 3](https://cs50.harvard.edu/college/weeks/3/)
 
 #### PSet 2 Postmortem
 
