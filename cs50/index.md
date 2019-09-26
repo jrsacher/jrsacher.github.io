@@ -36,7 +36,7 @@ unzip week3.zip
 rm week3.zip
 ```
 
-[Solutions](#) (Released after section)
+[Solutions sandbox](https://sandbox.cs50.io/85d79102-0853-471a-b5cf-b7747365ba0c) or `wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week3_solutions.zip`
 
 #### Housekeeping
 
