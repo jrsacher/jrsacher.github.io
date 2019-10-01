@@ -10,6 +10,7 @@
 
 ## [Sections](#sections)
 
+* [Week 4](#week-4)
 * [Week 3](#week-3)
 * [Week 2](#week-2)
 
@@ -22,6 +23,40 @@
 ---
 
 ## Sections
+
+### Week 4
+
+
+[Attendance](https://docs.google.com/forms/d/e/1FAIpQLSf0bBZ7AG5157DEnJkPVsCddgcf9Tj6CtEuUxKwSK1JPYcieQ/viewform?usp=sf_link)
+
+[Sandbox](https://sandbox.cs50.io/830753c8-968e-4b82-ac98-1d4d0608804d) or download in your IDE: `wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week4.zip`
+
+[Solutions](#week-4) to be released after section
+
+#### Housekeeping
+
+* Logistics questions?
+* // TODO
+
+#### PSet 3 Postmortem
+
+* //TODO
+
+#### Topics for Week 4
+
+- Pointers
+- Hexadecimal
+- `malloc` and `free` (bonus: [`calloc`](https://man.cs50.io/3/calloc))
+- File I/O
+
+#### Hands on
+
+* segfault
+* concatenate
+* copy
+* gif
+
+---
 
 ### Week 3
 
