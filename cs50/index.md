@@ -44,8 +44,26 @@
 
 #### PSet 3 Postmortem
 
-* Observations:
 * Questions?
+* General things:
+  * COMMENT YOUR CODE
+  * Pick good variable names
+  * No need to store a variable if you're only going to use it once on the next line
+    * Completely reasonable to disagree with this for readability
+  * An `if` doesn't *have* to have an `else`
+  * If you're using `continue`, it might make sense to reorder things or check for the *opposite*
+  * Have an `if` inside another `if`? Consider using `&&`
+
+```C
+// Okay
+if (candidates[preferences[i][j]].eliminated == false)
+
+// Better
+if (!candidates[preferences[i][j]].eliminated)
+
+// Exception (my personal taste
+if (strcmp(candidates[i].name, name) == 0)
+```
 
 #### Topics for Week 4
 
