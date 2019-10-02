@@ -56,6 +56,7 @@
 
 #### Hands on
 
+* Q: Knowing what we learned this week, how can a function like `void bubble(int values[], int n)` sort values in `main()` without `return`ing anything?
 * segfault
 * concatenate
 * copy
