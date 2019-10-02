@@ -35,12 +35,17 @@
 
 #### Housekeeping
 
+* Reminders: 
+  * Go to any section you want. No permission needed.
+  * Code reviews with your TF or online (via Zoom)
+* Start (casually) thinking about tracks, final projects
 * Logistics questions?
-* // TODO
+* Quiz-related questions?
 
 #### PSet 3 Postmortem
 
-* //TODO
+* Observations:
+* Questions?
 
 #### Topics for Week 4
 
