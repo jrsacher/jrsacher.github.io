@@ -31,7 +31,7 @@
 
 [Sandbox](https://sandbox.cs50.io/830753c8-968e-4b82-ac98-1d4d0608804d) or download in your IDE: `wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week4.zip`
 
-[Solutions](http://bit.ly/2oBlvxg) or in your IDE: `wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week4_solutions.zip`
+[Solutions sandbox](http://bit.ly/2oBlvxg) or, in your IDE: `wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week4_solutions.zip`
 
 #### Housekeeping
 
