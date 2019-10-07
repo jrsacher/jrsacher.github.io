@@ -10,6 +10,7 @@
 
 ## [Sections](#sections)
 
+* [Week 5](#week-5)
 * [Week 4](#week-4)
 * [Week 3](#week-3)
 * [Week 2](#week-2)
@@ -23,6 +24,50 @@
 ---
 
 ## Sections
+
+### Week 5
+
+[Attendance](#) coming soon
+
+[Sandbox](https://sandbox.cs50.io/08a8ded0-4f31-4b54-b72c-3d4908325b80) or download in your IDE: `wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week5.zip`
+
+[Solutions sandbox](#week-5) available after section
+
+#### Housekeeping
+
+* No class, section, or homework next week -- get caught up on life!
+* Last section of C!
+  * A lot of material in next couple classes, but MUCH less difficult conceptually
+    * Python
+    * SQL
+    * Tracks
+* Logistics/quiz questions?
+
+#### PSet 4 Postmortem
+
+* Use helper functions where needed
+  * Can you write it as a tiny function? Consider `#define`ing a macro.
+
+#### Topics for week 5
+
+* Linked Lists
+* Hash Tables
+* Trees
+* Tries
+* Stacks, Queues
+
+#### PSet advice
+
+* If feeling competitive, hash tables (generally) perform better on the [Big Board](https://speller.cs50.io/cs50/problems/2019/fall/challenges/speller)
+  * DO NOT use the first letter as a hash function! It's horrible. See `hash1.c` for some free advice.
+* Tries are generally more elegant and more real-world applicable, but conceptually a bit more difficult.
+  * Don't forget about `'`
+
+#### Hands on
+
+* Linked lists gallore!
+
+---
 
 ### Week 4
 
