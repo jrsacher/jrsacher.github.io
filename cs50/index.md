@@ -27,7 +27,7 @@
 
 ### Week 5
 
-[Attendance](#) coming soon
+[Attendance](https://docs.google.com/forms/d/e/1FAIpQLScamPmNvNY5KpXHMJSZgXwgCWJB4mJ_S8ZWLWffVuUUermfJw/viewform?usp=sf_link)
 
 [Sandbox](https://sandbox.cs50.io/08a8ded0-4f31-4b54-b72c-3d4908325b80) or download in your IDE: `wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week5.zip`
 
