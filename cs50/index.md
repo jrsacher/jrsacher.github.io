@@ -50,11 +50,11 @@
 
 #### Topics for week 5
 
-* Linked Lists
-* Hash Tables
+* [Linked Lists](https://www.youtube.com/watch?v=zQI3FyWm144)
+* [Hash Tables](https://www.youtube.com/watch?v=nvzVHwrrub0)
 * Trees
-* Tries
-* Stacks, Queues
+* [Tries](https://www.youtube.com/watch?v=MC-iQHFdEDI)
+* Stacks, Queues, and other [data structures](https://www.youtube.com/watch?v=3uGchQbk7g8)
 
 #### PSet advice
 
