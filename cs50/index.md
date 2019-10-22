@@ -10,6 +10,7 @@
 
 ## [Sections](#sections)
 
+* [Week 6](#week-6)
 * [Week 5](#week-5)
 * [Week 4](#week-4)
 * [Week 3](#week-3)
@@ -24,6 +25,70 @@
 ---
 
 ## Sections
+
+
+### Week 6
+
+[Attendance](https://docs.google.com/forms/d/e/1FAIpQLSf1TQEQS7w7DlSkPJ6fZmq50Ji9bgP7kKVUtf60Duf1JMnjHA/viewform?usp=sf_link)
+
+[Sandbox](https://sandbox.cs50.io/18386063-a5de-4791-b7d6-b7b82ad7b44c) or download in your IDE: `wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week6.zip`
+
+[Solutions sandbox](#) released after lecture
+
+#### Housekeeping
+
+* A test is on the horizon!
+  * Released Mon 11/4, 7:30pm
+  * Due Fri 11/8, 11:59pm
+* Tracks
+  * Questions?
+* I know it feels early, but start thinking about projects!
+  * Pre-Proposal due Sun 11/10, 11:59pm <-- *before the first Track PSet is due!*
+  * Happy to chat about potential projects ahead of time
+* [Documentation](https://docs.python.org/3/index.html) is your friend!
+  * I have the [Library Reference](https://docs.python.org/3/library/index.html) bookmarked
+* Google and StackOverflow are your friends
+  * CAUTION: Python 3 != Python 2
+    * `print("Hello!")` is Python 3
+    * `print "Hello!"` is Python 2
+
+#### PSet 5 Postmortem
+
+* Questions?
+* Tricky parts you'd like explained?
+
+#### Topics for week 6
+
+* Interpreted vs. compiled
+  * Drawbacks?
+  * Benefits?
+* Python syntax
+* Python data types
+  * Mutable
+    * List
+    * Dict
+    * Set
+  * Immutable
+    * String
+    * Tuple
+* Useful [python operators](https://www.tutorialspoint.com/python/python_basic_operators.htm)
+  * Division: 
+    * `5 / 2` = 2.5 (as expected!)
+    * `5 // 2` = 2 (like C)
+  * Exponent
+    * `5 ** 2` = 25
+    * NOT `5 ^ 2`! (binary XOR)
+* [Object-oriented vs procedural programming](https://medium.com/@LiliOuakninFelsen/functional-vs-object-oriented-vs-procedural-programming-a3d4585557f3)
+  * Most things in python are *objects*
+    * "Attributes" -- think data in a C struct
+    * "Methods" -- functions that "belong" to the object
+  * A *class* is a template for a specific *object*
+  * An *object* is an instance of a *class*
+
+#### Hands on
+
+* String manipulation in `string.py`
+* CSV file manipulation with NFL data in `pats.py`
 
 ### Week 5
 
