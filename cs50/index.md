@@ -85,10 +85,21 @@
   * A *class* is a template for a specific *object*
   * An *object* is an instance of a *class*
 
+#### PSet advice
+
+* Think "pythonically," don't just translate exactly
+
 #### Hands on
 
+* Demos:
+  * `do while` alternatives in `while.py`
+  * Removing the training wheels (optional)
+    * Using `input()` in `input.py`
+    * Error handling with `try` and `except` in `get_int0.py` and `get_int1.py`
 * String manipulation in `string.py`
-* CSV file manipulation with NFL data in `pats.py`
+* CSV file manipulation with 2018 NFL data in `pats.py`
+
+---
 
 ### Week 5
 
