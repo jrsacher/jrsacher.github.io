@@ -63,6 +63,7 @@
   * Drawbacks?
   * Benefits?
 * Python syntax
+  * String slicing (covered in demo)
 * Python data types
   * Mutable
     * List
@@ -88,6 +89,7 @@
 #### PSet advice
 
 * Think "pythonically," don't just translate exactly
+  * See [Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python) or, in the python interpreter, `import this`
 
 #### Hands on
 
