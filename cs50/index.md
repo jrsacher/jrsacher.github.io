@@ -10,6 +10,7 @@
 
 ## [Sections](#sections)
 
+* [Week 7](#week-7)
 * [Week 6](#week-6)
 * [Week 5](#week-5)
 * [Week 4](#week-4)
@@ -26,6 +27,17 @@
 
 ## Sections
 
+### Week 7
+
+[Attendance](#)
+
+[Sandbox](#)
+
+[Solutions](#)
+
+More to come ...
+
+---
 
 ### Week 6
 
@@ -33,7 +45,7 @@
 
 [Sandbox](https://sandbox.cs50.io/18386063-a5de-4791-b7d6-b7b82ad7b44c) or download in your IDE: `wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week6.zip`
 
-[Solutions sandbox](#) released after lecture
+[Solutions sandbox](https://sandbox.cs50.io/cb2ad216-655c-40c4-a4fc-5993e78e996c) or download `wget https://github.com/jrsacher/cs50-2019-fall/raw/master/week5_solutions.zip`
 
 #### Housekeeping
 
