@@ -29,13 +29,56 @@
 
 ### Week 7
 
-[Attendance](#)
+[Attendance](https://docs.google.com/forms/d/e/1FAIpQLSfXwpqMNNiGdS1DmDxaklWUC_c32PdtLQj7WHk8gFTuc_6RIQ/viewform?usp=sf_link)
 
-[Sandbox](#)
+[SQLite Download](http://sqlitebrowser.org/dl/)
 
-[Solutions](#)
+[Questions for today](https://github.com/jrsacher/cs50-2019-fall/blob/master/queries.sql)
 
-More to come ...
+[Demo DB zip file](https://github.com/jrsacher/cs50-2019-fall/blob/master/chinook.zip) (or from the original source, https://www.sqlitetutorial.net/sqlite-sample-database/)
+
+[Solutions](#) posted after section
+
+#### Housekeeping
+
+* Last lecture on Privacy is Friday, 11/1, 10:30am–11:45am
+  * If you can't attend, watch online!
+* Test next week
+  * NO HUMAN HELP
+    * No TFs/CAs
+    * No sections, tutorials, office hours
+    * Q&A Forum shut down
+  * Contact heads@cs50.harvard.edu if you have questions
+* One more section 11/19 and 11/20
+  * Wrap-up, next steps, final questions, etc.
+
+#### PSet 6 Postmortem
+
+* [Sandbox](https://sandbox.cs50.io/77f25172-68e9-46dd-a388-937071dab58e)
+  * List comprehension
+  * "Pythonic" implementation of C propgrams
+
+#### Topics for week 7
+
+* Databases
+* Types
+* `CREATE TABLE`
+* `INSERT`
+* `SELECT`
+* `UPDATE`
+* `DELETE`
+* SQL built-in functions
+* Indexes
+* SQL Injection, race conditions
+
+#### Hands On
+
+* Build some SQL!
+* Advice:
+  * Write queries backward -- especially `INSERT`, `UPDATE`, and `DELETE`
+  * `DELETE` should make you nervous in the real world
+
+#### Test review questions?
 
 ---
 
