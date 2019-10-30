@@ -31,7 +31,7 @@
 
 [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSfXwpqMNNiGdS1DmDxaklWUC_c32PdtLQj7WHk8gFTuc_6RIQ/viewform?usp=sf_link)
 
-[SQLite Download](http://sqlitebrowser.org/dl/)
+[SQLite Browser Download](http://sqlitebrowser.org/dl/)
 
 [Questions for today](https://github.com/jrsacher/cs50-2019-fall/blob/master/queries.sql)
 
