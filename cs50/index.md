@@ -37,7 +37,7 @@
 
 [Demo DB zip file](https://github.com/jrsacher/cs50-2019-fall/blob/master/chinook.zip) (or from the original source, https://www.sqlitetutorial.net/sqlite-sample-database/)
 
-[Solutions](#) posted after section
+[Solutions](https://github.com/jrsacher/cs50-2019-fall/blob/master/queries_solutions.sql) on Github
 
 #### Housekeeping
 
