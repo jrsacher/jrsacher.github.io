@@ -10,6 +10,7 @@
 
 ## [Sections](#sections)
 
+* [Week 8](#week-8)
 * [Week 7](#week-7)
 * [Week 6](#week-6)
 * [Week 5](#week-5)
@@ -26,6 +27,24 @@
 ---
 
 ## Sections
+
+### Week 8
+
+[Attendance](https://docs.google.com/forms/d/e/1FAIpQLSeWEzvjFhyuhQTPnrqs7wrDcIUibUyEwPBbmbpy9ObFVu0XpQ/viewform?usp=sf_link)
+
+* [CS50 Seminars 2018](https://cs50.harvard.edu/college/2018/fall/seminars/) -- Useful videos on a number of topics
+  * Also see links to 2017 and 2016 videos at the bottom
+  * One of the most useful is [Brian's Github Seminar](https://www.youtube.com/watch?v=MJUJ4wbFm_A&list=PLhQjrBD2T382IHcDBSQYC4ZG4C2aTiA6C&index=7). 
+    * If you plan to do _any_ coding in the future, LEARN GIT/GITHUB!
+
+- Life After 50
+    - Classes to take after CS50: e.g. CS20, CS51, CS61, CS121, CS124, CS181, CS182, etc.
+    - Concentration requirements: [https://harvardcs.info/concentration/requirements/](https://harvardcs.info/concentration/requirements/)
+    - Secondary requirements: [https://harvardcs.info/secondary/](https://harvardcs.info/secondary/)
+    - Research opportunities: [https://harvardcs.info/research/](https://harvardcs.info/research/)
+    - Internship preparation (e.g. [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/), [HackerRank](https://www.hackerrank.com/))
+
+---
 
 ### Week 7
 
