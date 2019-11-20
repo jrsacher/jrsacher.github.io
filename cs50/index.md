@@ -39,7 +39,7 @@ Resources
     * If you plan to do _any_ coding in the future, LEARN GIT/GITHUB!
 
 CS @ Harvard: Life After CS50
-  - Classes to take after CS50: e.g. CS20, CS51, CS61, CS121, CS124, CS181, CS182, etc.
+  - Classes to take after CS50: CS20, CS51, CS61, CS121, CS124, CS181, CS182
   - Concentration requirements: [https://harvardcs.info/concentration/requirements/](https://harvardcs.info/concentration/requirements/)
   - Secondary requirements: [https://harvardcs.info/secondary/](https://harvardcs.info/secondary/)
   - Research opportunities: [https://harvardcs.info/research/](https://harvardcs.info/research/)
