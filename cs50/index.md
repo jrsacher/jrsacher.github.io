@@ -32,17 +32,44 @@
 
 [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSeWEzvjFhyuhQTPnrqs7wrDcIUibUyEwPBbmbpy9ObFVu0XpQ/viewform?usp=sf_link)
 
+Resources
 * [CS50 Seminars 2018](https://cs50.harvard.edu/college/2018/fall/seminars/) -- Useful videos on a number of topics
   * Also see links to 2017 and 2016 videos at the bottom
   * One of the most useful is [Brian's Github Seminar](https://www.youtube.com/watch?v=MJUJ4wbFm_A&list=PLhQjrBD2T382IHcDBSQYC4ZG4C2aTiA6C&index=7). 
     * If you plan to do _any_ coding in the future, LEARN GIT/GITHUB!
 
-- Life After 50
-    - Classes to take after CS50: e.g. CS20, CS51, CS61, CS121, CS124, CS181, CS182, etc.
-    - Concentration requirements: [https://harvardcs.info/concentration/requirements/](https://harvardcs.info/concentration/requirements/)
-    - Secondary requirements: [https://harvardcs.info/secondary/](https://harvardcs.info/secondary/)
-    - Research opportunities: [https://harvardcs.info/research/](https://harvardcs.info/research/)
-    - Internship preparation (e.g. [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/), [HackerRank](https://www.hackerrank.com/))
+CS @ Harvard: Life After CS50
+  - Classes to take after CS50: e.g. CS20, CS51, CS61, CS121, CS124, CS181, CS182, etc.
+  - Concentration requirements: [https://harvardcs.info/concentration/requirements/](https://harvardcs.info/concentration/requirements/)
+  - Secondary requirements: [https://harvardcs.info/secondary/](https://harvardcs.info/secondary/)
+  - Research opportunities: [https://harvardcs.info/research/](https://harvardcs.info/research/)
+  - Internship preparation (e.g. [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/), [HackerRank](https://www.hackerrank.com/))
+
+Interested in teaching yourself?
+* CS50 has a [YouTube channel](https://www.youtube.com/user/cs50tv) with courses on:
+  * [Web Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5) with Brian Yu
+  * [Mobile App Development](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR) using React Native (platform independent!!!) with Jordan Hayashi
+  * [Game Development](https://www.youtube.com/playlist?list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh) with Colton Ogden
+* Interested in biology/bioinformatics? [Rosalind](http://rosalind.info/) will teach you through problem solving.
+* Like puzzles? Dig Python? [Python challenge](http://www.pythonchallenge.com/) will entertain and infuriate you.
+
+Want to learn useful programming languages?
+* Check out Stack Overflow's [survey data](https://insights.stackoverflow.com/survey/2019#most-loved-dreaded-and-wanted)
+* Python is a must
+* JavaScript is both loved and hated, but is important
+* [C++](https://en.wikipedia.org/wiki/C%2B%2B) and/or [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), as compiled languages are _much_ faster
+* [R](https://www.r-project.org/) for data science, statistics, and data analysis
+* All modern information lives in databases, so SQL is a must!
+  * (Slightly) different implementations depending on the database software
+* [Web Assembly](https://webassembly.org/) is a really neat, relatively new thing to look into
+  * Get the speed of compiled languages in a web page
+  * Different way of compiling C++, Rust, etc.
+
+If you haven't already, get a full-featured stand-alone IDE!
+* [VS Code](https://code.visualstudio.com/) is one of the most popular (and my personal choice)
+* [Atom](https://atom.io/)
+* [SublimeText](https://www.sublimetext.com/)
+* And many others
 
 ---
 
