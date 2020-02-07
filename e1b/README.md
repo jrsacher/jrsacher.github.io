@@ -2,6 +2,8 @@
 
 ## Spring 2020
 
+## http://jrsacher.github.io/e1b
+
 + [General Info](general_info)
 + [Computational Thinking](computational_thinking)
 
@@ -9,9 +11,7 @@
 
 [Course Website](https://cs50.harvard.edu/extension/business/2020/spring/)
 
-Contact Josh at josh@cs50.harvard.edu
-
-Contact all course staff at business@cs50.harvard.edu
+Contact [Josh](mailto:josh@cs50.harvard.edu) or [all course staff](mailto:business@cs50.harvard.edu)
 
 Sections (_feel free to attend whichever is convenient_):
 + [Zoom link](https://vault.cs50.io/5841eb19-32a4-436c-a9f3-33fd2e7c6cc1) -- the same for all sections
