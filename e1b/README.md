@@ -2,6 +2,9 @@
 
 ## Spring 2020
 
++ [General Info](general_info)
++ [Computational Thinking](computational_thinking)
+
 ### General Info
 
 [Course Website](https://cs50.harvard.edu/extension/business/2020/spring/)
@@ -25,6 +28,14 @@ Office hours:
 
 ### Computational Thinking
 
+#### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScKh5zjjaSBO8BYR2gfJCMxx8KuCS9Hb1kbfFVwSufyW99C0A/viewform?usp=sf_link)
+#### [Slides](https://docs.google.com/presentation/d/1r7yA4kITfc8U72nVRyZ1Eumsalo9dQdzvzE5waBWLSQ/edit?usp=sharing)
+
+#### Housekeeping
+
++ Read the [syllabus](https://cs50.harvard.edu/extension/business/2020/spring/syllabus/)!
++ General questions, comments, or concerns?
+
 #### Topics
 
 + Binary
@@ -41,4 +52,8 @@ Office hours:
   + Linked lists
   + Hash tables
   
-#### More to come
+#### Mini Quiz
+
+1) With what actual form of input is a modern computer storing the 0s and 1s of binary?
+1) What is pseudocode?
+1) As described in lecture, a hash table is typically a combination of what two other data structures?
