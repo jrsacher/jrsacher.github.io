@@ -54,6 +54,6 @@ Office hours:
   
 #### Mini Quiz
 
-1) With what actual form of input is a modern computer storing the 0s and 1s of binary?
-1) What is pseudocode?
-1) As described in lecture, a hash table is typically a combination of what two other data structures?
+1. With what actual form of input is a modern computer storing the 0s and 1s of binary?
+1. What is pseudocode?
+1. As described in lecture, a hash table is typically a combination of what two other data structures?
