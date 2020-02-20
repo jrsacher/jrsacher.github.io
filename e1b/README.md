@@ -87,3 +87,7 @@ Office hours:
 
 + [Scratch](https://scratch.mit.edu/)
 + Questions (that I can carefully try to answer)?
+
+#### Bonus
+
+[Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY to much time on!
