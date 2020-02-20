@@ -5,8 +5,8 @@
 ## http://jrsacher.github.io/e1b
 
 + [General Info](general_info)
-+ [Computational Thinking](computational_thinking)
-+ [Programming Languages](programming_languages)
++ [Computational Thinking](#computational-thinking)
++ [Programming Languages](#programming-languages)
 
 ### General Info
 
