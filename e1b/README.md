@@ -6,6 +6,7 @@
 
 + [General Info](general_info)
 + [Computational Thinking](computational_thinking)
++ [Programming Languages](programming_languages)
 
 ### General Info
 
@@ -57,3 +58,32 @@ Office hours:
 1. With what actual form of input is a modern computer storing the 0s and 1s of binary?
 1. What is pseudocode?
 1. As described in lecture, a hash table is typically a combination of what two other data structures?
+
+### Programming Languages
+
+#### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScKC6lpUFlRQpmmEbihcUkP4SBtGI_zEqMa9CnYT5yUeFK_aQ/viewform?usp=sf_link)
+
+#### [Slides](https://docs.google.com/presentation/d/1mPEl15WoJnJoRLDoNjYFXv_t8mA11UMBXfm33Hap9Z0/edit?usp=sharing)
+
+#### General
+
++ Questions, comments, or concerns?
+
+#### Topics
+
++ Variables
++ Conditionals
++ Loops
++ Functions
++ Compiled vs Interpreted languages
+
+#### Mini Quiz
+
+1. What is a sprite?
+1. What is a Boolean expression?
+1. What is bytecode?
+
+#### Assignment
+
++ [Scratch](https://scratch.mit.edu/)
++ Questions (that I can carefully try to answer)?
