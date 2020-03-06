@@ -44,6 +44,31 @@
 
 + Questions?
 
+#### Questions from Section
+
++ _How do you know what protocol is being used?_
+  + You can see all of your computer's internet connections by opening up a terminal (Mac) or command prompt (Windows) and running `netstat`. I was able to see a whole bunch of TCP and UDP connections and identify what some of them (but not all) were.
+  + There may be ways to more directly see what's happening for a specific application, etc., but I don't know them
++ _DNS hijacking and HTTPS?_
+  + It turns out security is only as good as its weakest link. If you're able to redirect traffic to your site _and_ get a valid certificate that says your site is "real," HTTPS won't protect you. ([Source](https://krebsonsecurity.com/2019/02/a-deep-dive-on-the-recent-widespread-dns-hijacking-attacks/))
+  + In the Wikileaks case, their use of HTTPS Strict Transport Security provided a bit of added security, but didn't prevent the hack from occurring
+  + People are coming up with new ways to make DNS more secure, such as [DNSSEC](https://www.cloudflare.com/learning/dns/dns-security/), [encyption methods](https://www.opendns.com/about/innovations/dnscrypt/) and mores
++ _How are people exploiting internet-related vulnerabilities in the real world?_
+  + DNS hijacking, as above and in the homework
+  + [Cross Site Scripting (XSS)](https://en.wikipedia.org/wiki/Cross-site_scripting), which allows people to add their code to the code sent by legitimate websites
+  + [CROSS-SITE REQUEST FORGERY (CSRF)](https://en.wikipedia.org/wiki/Cross-site_request_forgery), where a user ends up sending a request that wasn't intended
+  + [SQL injection attacks](https://en.wikipedia.org/wiki/SQL_injection) that gives an adversary access and/or modify information on your database.
+  + General lack of security practices (unencrypted passwords, unsecured databases, human error exposing credentials, etc.)
+  + **In the news**
+    + [Equifax - 2017](https://www.cnet.com/news/equifaxs-hack-one-year-later-a-look-back-at-how-it-happened-and-whats-changed/): vulnerability in the server's software
+    + [Facebook - 2018](https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html): Security tokens
+    + [US Government website - 2020](https://arstechnica.com/information-technology/2020/01/unpatched-us-government-website-gets-pwned-by-pro-iran-script-kiddie/): SQL injection
+    + [Twitter - 2010](https://www.theguardian.com/technology/blog/2010/sep/21/twitter-bug-malicious-exploit-xss): XSS
+    + [Facebook - 2019](https://latesthackingnews.com/2019/02/19/facebook-awarded-25000-bounty-for-reporting-a-csrf-vulnerability/): CSRF (identified before any known breach)
+    + [Indian Government - 2019](https://latesthackingnews.com/2019/02/19/facebook-awarded-25000-bounty-for-reporting-a-csrf-vulnerability/): Unsecured database
+  + David Malan on [security in general](https://youtu.be/QQmFyybzon0); Brian Yu with some [more in-depth details](https://youtu.be/bR1AZMk7SNs)
+
+
 ---
 
 ### Programming Languages
