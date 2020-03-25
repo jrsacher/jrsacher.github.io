@@ -4,10 +4,53 @@
 
 ## http://jrsacher.github.io/e1b
 
++ [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](general_info)
+
+### Web Development
+
+#### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScg_iIhxeTf8V66x_QfpK3UITzS3TkTx8x0h9hMR_c6KsrbzA/viewform?usp=sf_link)
+
+#### [Slides](https://docs.google.com/presentation/d/1n3yW6-etkvX9x9dSLbhOC29e4ZP4FdFGrdEBVPz32H8/edit?usp=sharing)
+
+#### [Sandbox](https://bit.ly/2QFKVoG) with example webpage
+
+#### General
+
+**Resources**
+
++ W3 Schools
+  + [HTML](https://www.w3schools.com/html/default.asp)
+  + [CSS](https://www.w3schools.com/css/default.asp)
+  + [JavaScript](https://www.w3schools.com/js/default.asp)
++ HTML dog (links from the assignment)
+  + [HTML](https://htmldog.com/guides/html/)
+  + [CSS](https://htmldog.com/guides/css/)
+  
+Questions?
+
+#### Mini-quiz
+
++ Uses for the inspector tab in your browser?
++ Purpose of CSS Selectors?
++ Why might you want to use JavaScript?
+
+#### Assignment
+
++ **Start ASAP**
++ Look things up online!
++ Be sure to use relative links so that it works on the Staff's computers
++ The Sandbox environment doesn't have a lot of the useful features of code editors. Alternatives:
+  + Full [CS50 IDE](ide.cs50.io) for online use
+  + [VS Code](https://code.visualstudio.com/)
+  + [Atom](https://atom.io)
+  + [SublimeText](https://sublimetext.com)
+  
+
+---
 
 ### Internet Technologies
 
