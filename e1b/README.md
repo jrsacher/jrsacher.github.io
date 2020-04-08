@@ -4,11 +4,26 @@
 
 ## http://jrsacher.github.io/e1b
 
++ [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](general_info)
+
+### Technology Stacks
+
+#### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScUIILWkSn3ATWeaKo-pUyEMAPHqPONWTWFi4WtlFmDUsoVgA/viewform?usp=sf_link)
+
+#### [Slides](https://docs.google.com/presentation/d/1f69NorkDb-KLgF6I5WtYlthBTzIVF_opHOFJfOqSYgo/edit?usp=sharing)
+
+#### Mini-quiz
+
++ What are CRUD operations?
++ In a few sentences, distinguish between a website's front end and its back end.
++ Distinguish between when one might use a SQL versus a NoSQL database.
+
+---
 
 ### Web Development
 
