@@ -17,6 +17,14 @@
 
 #### [Slides](https://docs.google.com/presentation/d/1f69NorkDb-KLgF6I5WtYlthBTzIVF_opHOFJfOqSYgo/edit?usp=sharing)
 
+#### General
+
++ Assignment due Thursday, April 16
+  + As always, look things up online!
++ *Cloud Computing* released Friday, April 17
++ Exam details coming soon
++ Questions?
+
 #### Mini-quiz
 
 + What are CRUD operations?
