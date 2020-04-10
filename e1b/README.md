@@ -31,6 +31,15 @@
 + In a few sentences, distinguish between a website's front end and its back end.
 + Distinguish between when one might use a SQL versus a NoSQL database.
 
+#### **Questions from Section**
+
++ Examples of cross-platform mobile apps?
+  + The Xamarin framework lets you build platform-independent mobile apps using C#. [Examples from their site](https://dotnet.microsoft.com/apps/xamarin/customers) include UPS, Alaska Airlines, and the American Cancer Society.
+  + React Native lets you develop in JavaScript for both iOS and Android. [Some React apps include](https://reactnative.dev/showcase) things Facebook owns (can't believe I didn't think of that!) -- Facebook, Instagram and more, Tesla, Pinterest, Delivery.com, etc.
++ Database "frameworks?"
+  + Not really "database frameworks," but there are [persistence frameworks](https://en.wikipedia.org/wiki/Persistence_framework) that help applications communicate with databases.
+  + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
+
 ---
 
 ### Web Development
