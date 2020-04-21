@@ -11,6 +11,18 @@
 + [Computational Thinking](#computational-thinking)
 + [General Info](general_info)
 
+### Cloud Computing
+
+#### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScSX9t0AGxViN7KiPrjZUfFUqa0Z00INFlYmu2tB71gcw0M9Q/viewform?usp=sf_link)
+
+#### [Slides](https://docs.google.com/presentation/d/1yOpvu2flk5HjJzlPZKtp1yxMHQWmn6X5PfeN1Dx-i_4/edit?usp=sharing)
+
+#### General
+
+_more to come_
+
+---
+
 ### Technology Stacks
 
 #### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScUIILWkSn3ATWeaKo-pUyEMAPHqPONWTWFi4WtlFmDUsoVgA/viewform?usp=sf_link)
