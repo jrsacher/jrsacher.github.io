@@ -32,8 +32,6 @@
 + Distinguish between IaaS, PaaS, and SaaS.
 + What is the difference between vertical and horizontal scaling?
 
-_more to come_
-
 ---
 
 ### Technology Stacks
