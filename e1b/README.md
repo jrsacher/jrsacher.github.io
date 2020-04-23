@@ -4,6 +4,7 @@
 
 ## http://jrsacher.github.io/e1b
 
++ [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
@@ -18,6 +19,18 @@
 #### [Slides](https://docs.google.com/presentation/d/1yOpvu2flk5HjJzlPZKtp1yxMHQWmn6X5PfeN1Dx-i_4/edit?usp=sharing)
 
 #### General
+
++ Exam details were sent in an email
+  + Released 5/11 @ noon EDT
+  + Due 5/14 @ 11:59 PM EDT
+  + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu)
++ Questions/comments/concerns?
+ 
+#### Mini-quiz
+
++ Provide some examples of "single points of failure".
++ Distinguish between IaaS, PaaS, and SaaS.
++ What is the difference between vertical and horizontal scaling?
 
 _more to come_
 
