@@ -12,19 +12,20 @@
 ## Sections
 
 1. [Hardware](#hardware)
+<!-- for later 
 2. [Internet](#internet)
 3. [Multimedia](#multimedia)
 4. [Security](#security)
 5. [Web Development](#web-development)
 6. [Programming](#programming)
-
+-->
 ## Hardware
 
 ### [Slides](https://docs.google.com/presentation/d/1NgdX-Ea1ueZo34U8N_HrCrfUCcwBGnMJJn3ockmNbiM/edit?usp=sharing)
 
 ### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSdYKXi9soG9izXjSb6Gr9TXx-L0h7egELIHq8_iQkMPgEWqQg/viewform?usp=sf_link)
 
-
+<!-- for later
 ## Internet
 
 ### [Slides](#)
@@ -49,11 +50,13 @@
 
 ### [Attendance](#)
 
-# Programming
+## Programming
 
 ### [Slides](#)
 
 ### [Attendance](#)
+
+-->
 
 ## General Info
 
