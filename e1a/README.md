@@ -27,6 +27,17 @@
 
 ### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSdYKXi9soG9izXjSb6Gr9TXx-L0h7egELIHq8_iQkMPgEWqQg/viewform?usp=sf_link)
 
+### Quiz questions
+
++ How would we represent the number "28" in binary?
+
+| 16 | 8 | 4 | 2 | 1 |
+|:--:|:-:|:-:|:-:|:-:|
+|  1 | 1 | 1 | 0 | 0 |
+
++ Describe at least one key difference between RAM and hard disk
++ What is an operating system? 
+
 <!-- for later
 ## Internet
 
