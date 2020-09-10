@@ -12,6 +12,7 @@
 ## Sections
 
 1. [Hardware](#hardware)
+
 <!-- for later 
 2. [Internet](#internet)
 3. [Multimedia](#multimedia)
@@ -19,6 +20,7 @@
 5. [Web Development](#web-development)
 6. [Programming](#programming)
 -->
+
 ## Hardware
 
 ### [Slides](https://docs.google.com/presentation/d/1NgdX-Ea1ueZo34U8N_HrCrfUCcwBGnMJJn3ockmNbiM/edit?usp=sharing)
