@@ -11,15 +11,70 @@
 
 ## Sections
 
-1. [Hardware](#hardware)
-
-<!-- for later 
-2. [Internet](#internet)
-3. [Multimedia](#multimedia)
-4. [Security](#security)
-5. [Web Development](#web-development)
-6. [Programming](#programming)
+<!-- for later
++ [Programming](#programming)
++ [Web Development](#web-development)
++ [Security](#security)
++ [Multimedia](#multimedia)
 -->
++ [Internet](#internet)
++ [Hardware](#hardware)
+
+--- 
+<!-- for later
+## Programming
+
+### [Slides](#)
+
+### [Attendance](#)
+
+---
+
+## Security
+
+### [Slides](#)
+
+### [Attendance](#)
+
+---
+
+## Web Development
+
+### [Slides](#)
+
+### [Attendance](#)
+
+---
+
+## Multimedia
+
+### [Slides](#)
+
+### [Attendance](#)
+
+---
+-->
+## Internet
+
+### [Slides](https://docs.google.com/presentation/d/1uhPK4pLTZK1YECoIQqiEMULDfMldyk4FGD--KzHJsbY/edit?usp=sharing)
+
+### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScpg3NoOSXMAkYoDcgFq2IfU5AUHg8zlkoWQoHEpHJESQKTnQ/viewform?usp=sf_link)
+
+### Quiz questions
+
++ Describe the difference between a cable modem and a router, in the context of home networking.
+
+A router (wireless or otherwise) connects your devices to the modem. The modem is responsible for sending/receiving information. The two are sometimes housed in the same unit. 
+
++ Identify two port numbers that are commonly used, and what services/protocols use them.
+
+See [here](https://en.wikipedia.org/wiki/Port_(computer_networking)) and links therein.
+
++ Why do we have multiple versions of the Internet Protocol?
+
+We thought we had enough addresses for all the devices ever. It turns out we were wrong -- internet connected refrigerators weren't a thing when IPV4 was implemented.
+
+---
 
 ## Hardware
 
@@ -36,40 +91,14 @@
 |  1 | 1 | 1 | 0 | 0 |
 
 + Describe at least one key difference between RAM and hard disk
+
+RAM is faster at data transfer and has less storage capacity. A disk will maintain its state when power is removed, but RAM is _volatile_ -- it can't store anything without constant power.
+
 + What is an operating system? 
 
-<!-- for later
-## Internet
+Software that sits between the user and hardware. Runs programs, manages resources, provides a user interface.
 
-### [Slides](#)
-
-### [Attendance](#)
-
-## Multimedia
-
-### [Slides](#)
-
-### [Attendance](#)
-
-## Security
-
-### [Slides](#)
-
-### [Attendance](#)
-
-## Web Development
-
-### [Slides](#)
-
-### [Attendance](#)
-
-## Programming
-
-### [Slides](#)
-
-### [Attendance](#)
-
--->
+---
 
 ## General Info
 
