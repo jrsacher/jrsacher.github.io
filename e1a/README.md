@@ -15,8 +15,8 @@
 + [Programming](#programming)
 + [Web Development](#web-development)
 + [Security](#security)
-+ [Multimedia](#multimedia)
 -->
++ [Multimedia](#multimedia)
 + [Internet](#internet)
 + [Hardware](#hardware)
 
@@ -45,15 +45,33 @@
 ### [Attendance](#)
 
 ---
-
+-->
 ## Multimedia
 
-### [Slides](#)
+### [Slides](https://docs.google.com/presentation/d/1pcx8CL2B4xjF7pcJOYJrYftQdlUOGBQA_QVrZz8YhBc/edit?usp=sharing)
 
-### [Attendance](#)
+### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSe5UplaphyQ3ZaRQQ-AhujK6bo4PNyaaSJGmhtnfV3B9HlkxQ/viewform?usp=sf_link)
+
+### Quiz questions
+
++ How are MIDI files different from MP3 files for the same song?
+
+While MP3 files are recordings of the song, MIDI files are instructions for a computer to play a song -- similar to sheet music.
+
++ In the context of digital audio, what are the sample rate and bit depth?
+
+Sample rate is the number of audio snapshots/slices taken per second. Bit depth is a measure of how many bits are used to store each sample.
+
++ In the context of RGB color, what is ff00ff, most likely?
+
+<strong style="color:#ff00ff">Magenta!</strong> See [here](https://www.colorhexa.com/ff00ff), for instance
+
++ In the context of video compression, what are (and why might we want to use) keyframes? 
+
+Keyframes are complete images stored at regular intervals. After that, only the _changes_ to the image(s) have to be recorded until the next keyframe. This allows us to use less data to store the same information.
 
 ---
--->
+
 ## Internet
 
 ### [Slides](https://docs.google.com/presentation/d/1uhPK4pLTZK1YECoIQqiEMULDfMldyk4FGD--KzHJsbY/edit?usp=sharing)
