@@ -14,8 +14,8 @@
 <!-- for later
 + [Programming](#programming)
 + [Web Development](#web-development)
-+ [Security](#security)
 -->
++ [Security](#security)
 + [Multimedia](#multimedia)
 + [Internet](#internet)
 + [Hardware](#hardware)
@@ -23,14 +23,6 @@
 --- 
 <!-- for later
 ## Programming
-
-### [Slides](#)
-
-### [Attendance](#)
-
----
-
-## Security
 
 ### [Slides](#)
 
@@ -46,6 +38,29 @@
 
 ---
 -->
+
+## Security
+
+### [Slides](https://docs.google.com/presentation/d/1gqQEVrDoSaJRzWLd7N9pzY99Vm6whAYtjEcnHV-Mwvs/edit?usp=sharing)
+
+### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSdSW6Y4rFPv1DgNwhR4jZIOTBRagpJjlJc0rg0Nwm54b-yahg/viewform?usp=sf_link)
+
+### Quiz questions
+
++ What is incognito mode? What privacy features might it offer?
+
+The browser starts "clean" and any cookies, history, or information acquired during that session is removed on exit.
+
++ How does a password manager work?
+
+One master password protects a "vault" of other passwords, meaning you only have to remember a single password to access all login info for all sites.
+
++ Why is it not a problem for me to release my public key, in a cryptography context?
+
+The public key only allows data to be encrypted. The private key is needed for decryption.
+
+---
+
 ## Multimedia
 
 ### [Slides](https://docs.google.com/presentation/d/1pcx8CL2B4xjF7pcJOYJrYftQdlUOGBQA_QVrZz8YhBc/edit?usp=sharing)
