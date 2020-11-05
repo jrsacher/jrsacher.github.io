@@ -13,8 +13,8 @@
 
 <!-- for later
 + [Programming](#programming)
-+ [Web Development](#web-development)
 -->
++ [Web Development](#web-development)
 + [Security](#security)
 + [Multimedia](#multimedia)
 + [Internet](#internet)
@@ -29,15 +29,57 @@
 ### [Attendance](#)
 
 ---
+-->
 
 ## Web Development
 
-### [Slides](#)
+### [Slides](https://docs.google.com/presentation/d/1-YtW8ek0QSHrmxZYhhKyAn2IdaD7KMhm9TkaPsJsXpc/edit?usp=sharing)
 
-### [Attendance](#)
+### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSfw9w7iItVRjhzrA0NvgngkDe8ixdguLcV8e2Uctq-_e3GUVQ/viewform?usp=sf_link)
 
+### [Sandbox](https://bit.ly/2QFKVoG) with example webpage
+
+**Resources**
+
++ W3 Schools
+  + [HTML](https://www.w3schools.com/html/default.asp)
+  + [CSS](https://www.w3schools.com/css/default.asp)
+  + [JavaScript](https://www.w3schools.com/js/default.asp)
++ HTML dog (links from the assignment)
+  + [HTML](https://htmldog.com/guides/html/)
+  + [CSS](https://htmldog.com/guides/css/)
+
+### Quiz questions
+
++ What is a web server and what is a web client? 
+
+
+
++ Identify three different HTTP status codes and describe what they mean/represent.
+
+See [here](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) for a list of codes
+
++ What is a CSS selector?
+
+A way of grabbing a particular piece of HTML and applying style to it
+
++ In your own words, what is the action attribute of an HTML form used for?
+
+The [action](https://www.w3schools.com/tags/att_form_action.asp) attribute tells the webpage what to do on form submission
+
++ What is the DOM? What might we use it for?
+
+The [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model) is a tree-like structure for a webpage. It's useful for CSS selectors, JavaScript, and more.
+
+### Assignment
+
++ **Start ASAP**
++ Look things up online!
++ Be sure to use relative links so that it works on the Staff's computers
+
+  
 ---
--->
+
 
 ## Security
 
