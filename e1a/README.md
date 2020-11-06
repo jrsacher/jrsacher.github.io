@@ -53,7 +53,7 @@
 
 + What is a web server and what is a web client? 
 
-
+A _web server_ is a computer that can listen for requests and then send websites back to a user. The _client_ is your web browser (or another application) that makes the requests.
 
 + Identify three different HTTP status codes and describe what they mean/represent.
 
