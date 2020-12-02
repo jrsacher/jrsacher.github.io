@@ -11,9 +11,7 @@
 
 ## Sections
 
-<!-- for later
 + [Programming](#programming)
--->
 + [Web Development](#web-development)
 + [Security](#security)
 + [Multimedia](#multimedia)
@@ -21,15 +19,40 @@
 + [Hardware](#hardware)
 
 --- 
-<!-- for later
+
 ## Programming
 
-### [Slides](#)
+### [Slides](https://docs.google.com/presentation/d/1zZKhSomzMlXl7IDmKNmQwQJDAQE1fNiiR4c98krwUqM/edit?usp=sharing)
 
-### [Attendance](#)
+### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSfnjSQUfZHBwuRNpMbUEh27FJhI1uUBdf3emYy1MUGSzNOA_w/viewform?usp=sf_link)
+
+### [Sandbox](http://bit.ly/2SIisQs)
+
+Demo of compiled vs. interpreted languages
+
+### Quiz questions
+
++ What is a Boolean expression?
+
+A yes/no true/false statement. Often used with _loops_ and _conditionals_ (below).
+
++ What is bytecode?
+
+An intermediate code created from _source code_ in interpreted languages such as Python which is then executed by a virtual machine
+
++ What are loops and conditions?
+
+Methods of controlling program flow. Loops let a chunk of code be repeated, while conditionals provide branching options.
+
++ What does it mean for a program to be multithreaded?
+
+More than one piece of code is being executed at the same time
+
++ What is an event, in the context of programming?
+
+A sort of notification sent from one thread to another
 
 ---
--->
 
 ## Web Development
 
