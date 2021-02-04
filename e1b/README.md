@@ -1,8 +1,11 @@
 # CSCI E-1b
 
-## Spring 2020
+## Spring 2021
 
 ## http://jrsacher.github.io/e1b
+
+---
+<!--
 
 ### [Review Session Topics](review.md)
 
@@ -13,9 +16,12 @@
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
+-->
 + [Computational Thinking](#computational-thinking)
 + [General Info](general_info)
 
+---
+<!--
 ### Cloud Computing
 
 #### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScSX9t0AGxViN7KiPrjZUfFUqa0Z00INFlYmu2tB71gcw0M9Q/viewform?usp=sf_link)
@@ -207,15 +213,14 @@ Questions?
 [Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY to much time on!
 
 ---
-
+-->
 ### Computational Thinking
 
-#### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScKh5zjjaSBO8BYR2gfJCMxx8KuCS9Hb1kbfFVwSufyW99C0A/viewform?usp=sf_link)
-#### [Slides](https://docs.google.com/presentation/d/1r7yA4kITfc8U72nVRyZ1Eumsalo9dQdzvzE5waBWLSQ/edit?usp=sharing)
+#### [Slides](https://docs.google.com/presentation/d/19fXVejCYs1TPLwi5zQknJwwHWs1PBsLjOM3ZimbwKzI/edit?usp=sharing)
 
 #### Housekeeping
 
-+ Read the [syllabus](https://cs50.harvard.edu/extension/business/2020/spring/syllabus/)!
++ Read the [syllabus](https://cs50.harvard.edu/extension/business/2021/spring/syllabus/)!
 + General questions, comments, or concerns?
 
 #### Topics
@@ -244,19 +249,22 @@ Questions?
 
 ### General Info
 
-[Course Website](https://cs50.harvard.edu/extension/business/2020/spring/)
+[Course Website](https://cs50.harvard.edu/extension/business/2021/spring/)
 
 Contact [Josh](mailto:josh@cs50.harvard.edu) or [all course staff](mailto:business@cs50.harvard.edu)
 
 Sections (_feel free to attend whichever is convenient_):
-+ [Zoom link](https://vault.cs50.io/5841eb19-32a4-436c-a9f3-33fd2e7c6cc1) -- the same for all sections
-+ Wed 8:00–9:15 pm ET with Greg
-+ Thur 7:00–8:15 pm ET with Josh
-+ Sun 12:30–1:45 pm ET with Spencer
++ [Zoom link](https://vault.cs50.io/9bc263cb-2012-4d4a-b008-3c08578db41c) -- the same for all sections
++ Wed 6:00–7:30 pm ET with Greg
++ Thur 6:00–7:30 pm ET with Josh
++ Thur 9:00–10:30 pm ET with Eric
+
 
 Office hours:
-+ [Office hours link](https://vault.cs50.io/b758e292-8a08-4ef5-beae-85e8814f3761)
-+ Sat 1:00–2:00 pm ET with Greg
-+ Sun 2:00–3:00 pm ET with Spencer
-+ Thu 9:00–10:00 pm ET with Josh
++ [Office hours link](https://vault.cs50.io/ab9370a8-8662-4e81-955f-c6e4eb88c77f)
++ Wed 8:00–9:30 pm ET with Josh
++ Fri 6:30–8:00 pm ET with Eric
++ Sun 12:00–1:30 pm ET with Greg
 + Potentially by appointment -- ask your assigned TF
+
+[Discussion forum](https://vault.cs50.io/c38f1766-22d5-4120-9a9b-91f12a8dcfb3)
