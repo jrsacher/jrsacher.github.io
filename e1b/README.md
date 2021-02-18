@@ -15,8 +15,8 @@
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
-+ [Programming Languages](#programming-languages)
 -->
++ [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](general_info)
 
@@ -178,12 +178,12 @@ Questions?
 
 
 ---
-
+-->
 ### Programming Languages
 
-#### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScKC6lpUFlRQpmmEbihcUkP4SBtGI_zEqMa9CnYT5yUeFK_aQ/viewform?usp=sf_link)
+#### [Slides](https://docs.google.com/presentation/d/17FPoSh48OUpYkepCQHZkZalDrtdGZM8bzVVGSUk2KZA/edit?usp=sharing)
 
-#### [Slides](https://docs.google.com/presentation/d/1mPEl15WoJnJoRLDoNjYFXv_t8mA11UMBXfm33Hap9Z0/edit?usp=sharing)
+#### [Sandbox](http://bit.ly/2SIisQs) example of compiled vs. interpreted languages
 
 #### General
 
@@ -213,7 +213,7 @@ Questions?
 [Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY to much time on!
 
 ---
--->
+
 ### Computational Thinking
 
 #### [Slides](https://docs.google.com/presentation/d/19fXVejCYs1TPLwi5zQknJwwHWs1PBsLjOM3ZimbwKzI/edit?usp=sharing)
