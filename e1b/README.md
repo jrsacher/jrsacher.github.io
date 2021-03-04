@@ -116,12 +116,10 @@ Questions?
   
 
 ---
-
+-->
 ### Internet Technologies
 
-#### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScZM-IBBt5iDC6eYMdoDb_1PkiwfT6BxmHoohdx6sRiAL5tLg/viewform?usp=sf_link)
-
-#### [Slides](https://docs.google.com/presentation/d/14Fq13Y7_VYvzvvLusDjO6wisQFY0Fx16UyfGOW__WFI/edit?usp=sharing)
+#### [Slides](https://docs.google.com/presentation/d/1d4cvm-vn-vnkFS8GiA3gcSw1ga3TR9gmqCeZuCjHrgI/edit?usp=sharing)
 
 #### General
 
@@ -129,7 +127,7 @@ Questions?
   + Start early!
   + Late work is generally not accepted
     + _If there are extenuating circumstances, contact business@cs50.harvard.edu_
-+ No sections/office hours for Spring Break (March 14 to 22)
++ No sections/office hours for "Spring Break"
 + Questions from the first homework assignment?
 + I'm grading assignment 2 -- hope to have it done this weekend!
 + Other questions or concerns?
@@ -178,7 +176,7 @@ Questions?
 
 
 ---
--->
+
 ### Programming Languages
 
 #### [Slides](https://docs.google.com/presentation/d/17FPoSh48OUpYkepCQHZkZalDrtdGZM8bzVVGSUk2KZA/edit?usp=sharing)
