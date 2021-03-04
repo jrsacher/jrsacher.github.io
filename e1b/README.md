@@ -14,8 +14,8 @@
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
-+ [Internet Technologies](#internet-technologies)
 -->
++ [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](general_info)
