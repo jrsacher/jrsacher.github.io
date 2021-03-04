@@ -150,7 +150,7 @@ Questions?
 
 + Questions?
 
-#### Questions from Section
+#### Questions from Previous Years
 
 + _How do you know what protocol is being used?_
   + You can see all of your computer's internet connections by opening up a terminal (Mac) or command prompt (Windows) and running `netstat`. I was able to see a whole bunch of TCP and UDP connections and identify what some of them (but not all) were.
