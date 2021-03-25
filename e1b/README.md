@@ -13,8 +13,8 @@
 
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
-+ [Web Development](#web-development)
 -->
++ [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
@@ -74,12 +74,10 @@
   + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
 
 ---
-
+-->
 ### Web Development
 
-#### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScg_iIhxeTf8V66x_QfpK3UITzS3TkTx8x0h9hMR_c6KsrbzA/viewform?usp=sf_link)
-
-#### [Slides](https://docs.google.com/presentation/d/1n3yW6-etkvX9x9dSLbhOC29e4ZP4FdFGrdEBVPz32H8/edit?usp=sharing)
+#### [Slides](https://docs.google.com/presentation/d/1TwSFrqmcP2U0ArFhpXlCjBE8KIdxWjt_AGOydRhwNNA/edit?usp=sharing)
 
 #### [Sandbox](https://bit.ly/2QFKVoG) with example webpage
 
@@ -116,7 +114,7 @@ Questions?
   
 
 ---
--->
+
 ### Internet Technologies
 
 #### [Slides](https://docs.google.com/presentation/d/1d4cvm-vn-vnkFS8GiA3gcSw1ga3TR9gmqCeZuCjHrgI/edit?usp=sharing)
