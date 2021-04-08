@@ -12,8 +12,8 @@
 ---
 
 + [Cloud Computing](#cloud-computing)
-+ [Technology Stacks](#technology-stacks)
 -->
++ [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
@@ -43,18 +43,16 @@
 + What is the difference between vertical and horizontal scaling?
 
 ---
-
+-->
 ### Technology Stacks
 
-#### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScUIILWkSn3ATWeaKo-pUyEMAPHqPONWTWFi4WtlFmDUsoVgA/viewform?usp=sf_link)
-
-#### [Slides](https://docs.google.com/presentation/d/1f69NorkDb-KLgF6I5WtYlthBTzIVF_opHOFJfOqSYgo/edit?usp=sharing)
+#### [Slides](https://docs.google.com/presentation/d/1yLhjVmpji3eKwtwwtIIJSfHoJBWFaOtuVPBE7YH5bI0/edit?usp=sharing)
 
 #### General
 
-+ Assignment due Thursday, April 16
++ Assignment due Sunday, April 18
   + As always, look things up online!
-+ *Cloud Computing* released Friday, April 17
++ *Cloud Computing* released Monday, April 19
 + Exam details coming soon
 + Questions?
 
@@ -64,17 +62,17 @@
 + In a few sentences, distinguish between a website's front end and its back end.
 + Distinguish between when one might use a SQL versus a NoSQL database.
 
-#### **Questions from Section**
+#### **Questions from previous Sections**
 
 + Examples of cross-platform mobile apps?
   + The Xamarin framework lets you build platform-independent mobile apps using C#. [Examples from their site](https://dotnet.microsoft.com/apps/xamarin/customers) include UPS, Alaska Airlines, and the American Cancer Society.
-  + React Native lets you develop in JavaScript for both iOS and Android. [Some React apps include](https://reactnative.dev/showcase) things Facebook owns (can't believe I didn't think of that!) -- Facebook, Instagram and more, Tesla, Pinterest, Delivery.com, etc.
-+ Database "frameworks?"
+  + React Native lets you develop in JavaScript for both iOS and Android. [Some React apps include](https://reactnative.dev/showcase) things Facebook owns (can't believe I didn't think of that!) -- Facebook, Instagram and more; Tesla; Pinterest; Delivery.com; etc.
++ Are there database "frameworks?"
   + Not really "database frameworks," but there are [persistence frameworks](https://en.wikipedia.org/wiki/Persistence_framework) that help applications communicate with databases.
   + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
 
 ---
--->
+
 ### Web Development
 
 #### [Slides](https://docs.google.com/presentation/d/1TwSFrqmcP2U0ArFhpXlCjBE8KIdxWjt_AGOydRhwNNA/edit?usp=sharing)
