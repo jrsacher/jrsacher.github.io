@@ -10,9 +10,8 @@
 ### [Review Session Topics](review.md)
 
 ---
-
-+ [Cloud Computing](#cloud-computing)
 -->
++ [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
@@ -21,19 +20,17 @@
 + [General Info](general_info)
 
 ---
-<!--
+
 ### Cloud Computing
 
-#### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScSX9t0AGxViN7KiPrjZUfFUqa0Z00INFlYmu2tB71gcw0M9Q/viewform?usp=sf_link)
-
-#### [Slides](https://docs.google.com/presentation/d/1yOpvu2flk5HjJzlPZKtp1yxMHQWmn6X5PfeN1Dx-i_4/edit?usp=sharing)
+#### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
 
 #### General
 
-+ Exam details were sent in an email
-  + Released 5/11 @ noon EDT
-  + Due 5/14 @ 11:59 PM EDT
-  + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu)
++ Additional exam details will likely go out soon
+  + Released Fri 5/7
+  + Due Wed 5/12 @ 11:59 PM EDT
+  + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu). Other staff will not reply
 + Questions/comments/concerns?
  
 #### Mini-quiz
@@ -43,7 +40,7 @@
 + What is the difference between vertical and horizontal scaling?
 
 ---
--->
+
 ### Technology Stacks
 
 #### [Slides](https://docs.google.com/presentation/d/1yLhjVmpji3eKwtwwtIIJSfHoJBWFaOtuVPBE7YH5bI0/edit?usp=sharing)
