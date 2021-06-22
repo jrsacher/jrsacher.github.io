@@ -17,7 +17,7 @@
 + [Programming Languages](#programming-languages)
 -->
 + [Computational Thinking](#computational-thinking)
-+ [General Info](general_info)
++ [General Info](#general_info)
 
 <!--
 ---
