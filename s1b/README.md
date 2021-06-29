@@ -14,8 +14,8 @@
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
-+ [Programming Languages](#programming-languages)
 -->
++ [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
 
@@ -168,7 +168,7 @@ Questions?
     + [Indian Government - 2019](https://latesthackingnews.com/2019/02/19/facebook-awarded-25000-bounty-for-reporting-a-csrf-vulnerability/): Unsecured database
   + David Malan on [security in general](https://youtu.be/QQmFyybzon0); Brian Yu with some [more in-depth details](https://youtu.be/bR1AZMk7SNs)
 
-
+-->
 ---
 
 ### Programming Languages
@@ -203,7 +203,7 @@ Questions?
 #### Bonus
 
 [Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY to much time on!
--->
+
 ---
 
 ### Computational Thinking
