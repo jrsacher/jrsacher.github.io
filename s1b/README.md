@@ -13,8 +13,8 @@
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
-+ [Internet Technologies](#internet-technologies)
 -->
++ [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
@@ -108,7 +108,7 @@ Questions?
   + [Atom](https://atom.io)
   + [SublimeText](https://sublimetext.com)
   
-
+-->
 ---
 
 ### Internet Technologies
@@ -119,11 +119,12 @@ Questions?
 
 + Homework reminders
   + Start early!
-  + Late work is generally not accepted
+  + Late work:  
+    + Late policy is 1% off per minute
+    + See the [syllabus](https://cs50.harvard.edu/summer/business/2021/syllabus/#extension-policy) for the extension policy
     + _If there are extenuating circumstances, contact business@cs50.harvard.edu_
-+ No sections/office hours for "Spring Break"
 + Questions from the first homework assignment?
-+ I'm grading assignment 2 -- hope to have it done this weekend!
++ I'm grading assignment 2 -- hope to have it done tomorrow night or Thursday morning
 + Other questions or concerns?
 
 #### Topics
@@ -168,7 +169,7 @@ Questions?
     + [Indian Government - 2019](https://latesthackingnews.com/2019/02/19/facebook-awarded-25000-bounty-for-reporting-a-csrf-vulnerability/): Unsecured database
   + David Malan on [security in general](https://youtu.be/QQmFyybzon0); Brian Yu with some [more in-depth details](https://youtu.be/bR1AZMk7SNs)
 
--->
+
 ---
 
 ### Programming Languages
