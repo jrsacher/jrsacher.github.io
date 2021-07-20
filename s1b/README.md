@@ -51,7 +51,8 @@
 
 + Assignment due Sun, Jul 25
   + As always, look things up online!
-+ Exam details likely coming soon
++ Exam August 3-6 
+  + details likely coming soon
   + Generally, like a bigger assignment
 + Questions?
 
