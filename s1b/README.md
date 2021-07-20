@@ -11,8 +11,8 @@
 ---
 
 + [Cloud Computing](#cloud-computing)
-+ [Technology Stacks](#technology-stacks)
 -->
++ [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
@@ -39,6 +39,7 @@
 + Provide some examples of "single points of failure".
 + Distinguish between IaaS, PaaS, and SaaS.
 + What is the difference between vertical and horizontal scaling?
+-->
 
 ---
 
@@ -48,10 +49,10 @@
 
 #### General
 
-+ Assignment due Sunday, April 18
++ Assignment due Sun, Jul 25
   + As always, look things up online!
-+ *Cloud Computing* released Monday, April 19
-+ Exam details coming soon
++ Exam details likely coming soon
+  + Generally, like a bigger assignment
 + Questions?
 
 #### Mini-quiz
@@ -69,7 +70,6 @@
   + Not really "database frameworks," but there are [persistence frameworks](https://en.wikipedia.org/wiki/Persistence_framework) that help applications communicate with databases.
   + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
 
--->
 ---
 
 ### Web Development
