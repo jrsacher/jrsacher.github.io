@@ -5,11 +5,11 @@
 ## http://jrsacher.github.io/s1b
 
 ---
+
 <!--
 
 ### [Review Session Topics](review.md)
 
----
 -->
 
 + [Cloud Computing](#cloud-computing)
