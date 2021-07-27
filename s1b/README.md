@@ -6,12 +6,9 @@
 
 ---
 
-<!--
-
 ### [Review Session Topics](review.md)
 
 ---
--->
 
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
