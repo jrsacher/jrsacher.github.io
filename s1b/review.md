@@ -1,5 +1,26 @@
 # Exam Review
 
++ [Overall themes](#overall-themes)
++ [Computational Thinking](#computational-thinking)
+  + [Building from the ground up](#building-from-the-ground-up)
+  + [Core concepts](#core-concepts)
+  + [Dealing with data](#dealing-with-data)
++ [Programming Languages](#programming-languages)
+  + [Constructs](#constructs)
+  + [Programming](#programming)
+  + [Algorithms again!](#algorithms-again)
++ [Internet Technologies](#internet-technologies)
+  + [Protocols that make the internet work](#protocols-that-make-the-internet-work)
++ [Web Development](#web-development)
++ [Technology Stacks](#technology-stacks)
+  + [Front end vs. Back end](#front-end-vs-back-end)
+  + [Frameworks](#frameworks)
+  + [Databases](#databases)
+  + [Mobile development](#mobile-development)
++ [Cloud Computing](#cloud-computing)
+  + [Scalability](#scalability)
+  + [[X] as a Service](#x-as-a-service)
+
 ## Overall themes
 
 + **Tradeoffs!** Everything comes at some kind of cost
@@ -52,7 +73,7 @@
   + text (source code) --> interpreter --> byte code --> virtual machine
   + Generally easier to work with, especially for prototyping
 
-### Algorithms again!
+### Algorithms again
 + If you have to create one, be _EXTREMELY_ precise
   + Note: "precise" does not equal verbose
 + Simple is generally better/easier
@@ -185,7 +206,7 @@
   + Replication -- multiple copies of the data
 + If possible, design to avoid having a _single point of failure_
   
-### \_\_\_\_\_ as a Service
+### [X] as a Service
 
 + Infrastructure (IaaS)
   + Purchase time/space on someone else's hardware
