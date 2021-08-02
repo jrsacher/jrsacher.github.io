@@ -137,10 +137,14 @@
   + Organizes data into tables
     + Think spreadsheet-like organization
   + _Relational_ database
-    + Uses _primary_ and _foreign keys_ to join data across multiple tables
+    + Uses _primary_ and _foreign keys_ to join data across multiple tables -- NORMALIZATION
     + Avoids duplication of data and means changes only need to be made in one place
   + Columns must be assigned a _data type_
-    + Specific names depent on database software, but include some form of text, number, and date fields, among others
+    + Specific names depent on database software, but include some form of:
+      + text (`CHAR`, `VARCHAR`)
+      + number (`INT`, `REAL`)
+      + date (`date`, `time`, `datetime`) 
+      + etc.
 + NoSQL
   + Non-tabular data storage
     + More like a document than a spreadsheet
