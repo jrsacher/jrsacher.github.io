@@ -46,11 +46,16 @@
 ### Programming
 
 + Compiled languages
-  + text --> compiler --> machine code
-  + Generally better performing
+  + text (source code) --> compiler --> machine code
+  + Generally better performing, consumer does not have access to source code
 + Interpreted languages
-  + text --> interpreter --> byte code --> virtual machine
+  + text (source code) --> interpreter --> byte code --> virtual machine
   + Generally easier to work with, especially for prototyping
+
+### Algorithms again!
++ If you have to create one, be _EXTREMELY_ precise
+  + Note: "precise" does not equal verbose
++ Simple is generally better/easier
 
 
 ## Internet Technologies
