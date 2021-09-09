@@ -192,7 +192,7 @@ Software that sits between the user and hardware. Runs programs, manages resourc
 
 ## General Info
 
-[Course Website](https://cs50.harvard.edu/extension/technology/2020/fall/)
+[Course Website](https://cs50.harvard.edu/extension/technology/2021/fall/)
 
 Contact [Josh](mailto:josh@cs50.harvard.edu) or [all course staff](mailto:technology@cs50.harvard.edu)
 
