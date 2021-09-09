@@ -1,6 +1,6 @@
 # CSCI E-1a
 
-## Fall 2020
+## Fall 2021
 
 ## http://jrsacher.github.io/e1a
 
@@ -11,20 +11,21 @@
 
 ## Sections
 
+<!--
 + [Programming](#programming)
 + [Web Development](#web-development)
 + [Security](#security)
 + [Multimedia](#multimedia)
 + [Internet](#internet)
+-->
 + [Hardware](#hardware)
 
 --- 
 
+<!--
 ## Programming
 
 ### [Slides](https://docs.google.com/presentation/d/1zZKhSomzMlXl7IDmKNmQwQJDAQE1fNiiR4c98krwUqM/edit?usp=sharing)
-
-### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSfnjSQUfZHBwuRNpMbUEh27FJhI1uUBdf3emYy1MUGSzNOA_w/viewform?usp=sf_link)
 
 ### [Sandbox](http://bit.ly/2SIisQs)
 
@@ -57,8 +58,6 @@ A sort of notification sent from one thread to another
 ## Web Development
 
 ### [Slides](https://docs.google.com/presentation/d/1-YtW8ek0QSHrmxZYhhKyAn2IdaD7KMhm9TkaPsJsXpc/edit?usp=sharing)
-
-### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSfw9w7iItVRjhzrA0NvgngkDe8ixdguLcV8e2Uctq-_e3GUVQ/viewform?usp=sf_link)
 
 ### [Sandbox](https://bit.ly/2QFKVoG) with example webpage
 
@@ -108,8 +107,6 @@ The [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model)
 
 ### [Slides](https://docs.google.com/presentation/d/1gqQEVrDoSaJRzWLd7N9pzY99Vm6whAYtjEcnHV-Mwvs/edit?usp=sharing)
 
-### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSdSW6Y4rFPv1DgNwhR4jZIOTBRagpJjlJc0rg0Nwm54b-yahg/viewform?usp=sf_link)
-
 ### Quiz questions
 
 + What is incognito mode? What privacy features might it offer?
@@ -129,8 +126,6 @@ The public key only allows data to be encrypted. The private key is needed for d
 ## Multimedia
 
 ### [Slides](https://docs.google.com/presentation/d/1pcx8CL2B4xjF7pcJOYJrYftQdlUOGBQA_QVrZz8YhBc/edit?usp=sharing)
-
-### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSe5UplaphyQ3ZaRQQ-AhujK6bo4PNyaaSJGmhtnfV3B9HlkxQ/viewform?usp=sf_link)
 
 ### Quiz questions
 
@@ -156,8 +151,6 @@ Keyframes are complete images stored at regular intervals. After that, only the 
 
 ### [Slides](https://docs.google.com/presentation/d/1uhPK4pLTZK1YECoIQqiEMULDfMldyk4FGD--KzHJsbY/edit?usp=sharing)
 
-### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLScpg3NoOSXMAkYoDcgFq2IfU5AUHg8zlkoWQoHEpHJESQKTnQ/viewform?usp=sf_link)
-
 ### Quiz questions
 
 + Describe the difference between a cable modem and a router, in the context of home networking.
@@ -173,12 +166,11 @@ See [here](https://en.wikipedia.org/wiki/Port_(computer_networking)) and links t
 We thought we had enough addresses for all the devices ever. It turns out we were wrong -- internet connected refrigerators weren't a thing when IPV4 was implemented.
 
 ---
+-->
 
 ## Hardware
 
 ### [Slides](https://docs.google.com/presentation/d/1NgdX-Ea1ueZo34U8N_HrCrfUCcwBGnMJJn3ockmNbiM/edit?usp=sharing)
-
-### [Attendance](https://docs.google.com/forms/d/e/1FAIpQLSdYKXi9soG9izXjSb6Gr9TXx-L0h7egELIHq8_iQkMPgEWqQg/viewform?usp=sf_link)
 
 ### Quiz questions
 
@@ -205,12 +197,12 @@ Software that sits between the user and hardware. Runs programs, manages resourc
 Contact [Josh](mailto:josh@cs50.harvard.edu) or [all course staff](mailto:technology@cs50.harvard.edu)
 
 Sections (_feel free to attend whichever is convenient_):
-+ [Zoom link](https://vault.cs50.io/84249c71-b3b3-4663-935f-cce46ca13356) -- the same for all sections
-+ Wed 6:00–7:30 pm ET with Greg
-+ Thur 8:00–9:30 pm ET with Josh
++ [Zoom link](https://vault.cs50.io/ef732b06-375b-4f53-bf52-4eb7f0ea00c3) -- the same for all sections
++ Wed 6:00 – 7:30 pm ET with Greg
++ Thur 7:00 – 8:30 pm ET with Josh
 
 Office hours:
-+ [Office hours link](https://vault.cs50.io/96a18191-95f6-4fde-9fd3-339dee9e64d2)
-+ Wed 8:30–10:00 pm ET with Greg
-+ Sun 1:00–2:30 pm ET with Greg
++ [Office hours link](https://vault.cs50.io/67af4cb1-dba5-4bf3-9488-e68c084be0f8)
++ Thur 6:00 – 7:30 pm ET with Josh
++ Sun 11:00 am - 12:30 pm ET with Greg
 + Potentially by appointment -- ask your assigned TF
