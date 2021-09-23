@@ -16,8 +16,8 @@
 + [Web Development](#web-development)
 + [Security](#security)
 + [Multimedia](#multimedia)
-+ [Internet](#internet)
 -->
++ [Internet](#internet)
 + [Hardware](#hardware)
 
 --- 
@@ -146,6 +146,7 @@ Sample rate is the number of audio snapshots/slices taken per second. Bit depth 
 Keyframes are complete images stored at regular intervals. After that, only the _changes_ to the image(s) have to be recorded until the next keyframe. This allows us to use less data to store the same information.
 
 ---
+-->
 
 ## Internet
 
@@ -166,7 +167,6 @@ See [here](https://en.wikipedia.org/wiki/Port_(computer_networking)) and links t
 We thought we had enough addresses for all the devices ever. It turns out we were wrong -- internet connected refrigerators weren't a thing when IPV4 was implemented.
 
 ---
--->
 
 ## Hardware
 
