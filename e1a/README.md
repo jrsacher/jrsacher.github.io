@@ -15,8 +15,8 @@
 + [Programming](#programming)
 + [Web Development](#web-development)
 + [Security](#security)
-+ [Multimedia](#multimedia)
 -->
++ [Multimedia](#multimedia)
 + [Internet](#internet)
 + [Hardware](#hardware)
 
@@ -122,6 +122,7 @@ One master password protects a "vault" of other passwords, meaning you only have
 The public key only allows data to be encrypted. The private key is needed for decryption.
 
 ---
+-->
 
 ## Multimedia
 
@@ -146,7 +147,6 @@ Sample rate is the number of audio snapshots/slices taken per second. Bit depth 
 Keyframes are complete images stored at regular intervals. After that, only the _changes_ to the image(s) have to be recorded until the next keyframe. This allows us to use less data to store the same information.
 
 ---
--->
 
 ## Internet
 
