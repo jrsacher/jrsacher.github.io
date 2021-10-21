@@ -14,8 +14,8 @@
 <!--
 + [Programming](#programming)
 + [Web Development](#web-development)
-+ [Security](#security)
 -->
++ [Security](#security)
 + [Multimedia](#multimedia)
 + [Internet](#internet)
 + [Hardware](#hardware)
@@ -101,7 +101,7 @@ The [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model)
 
   
 ---
-
+-->
 
 ## Security
 
@@ -122,7 +122,6 @@ One master password protects a "vault" of other passwords, meaning you only have
 The public key only allows data to be encrypted. The private key is needed for decryption.
 
 ---
--->
 
 ## Multimedia
 
