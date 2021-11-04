@@ -13,8 +13,8 @@
 
 <!--
 + [Programming](#programming)
-+ [Web Development](#web-development)
 -->
++ [Web Development](#web-development)
 + [Security](#security)
 + [Multimedia](#multimedia)
 + [Internet](#internet)
@@ -54,6 +54,7 @@ More than one piece of code is being executed at the same time
 A sort of notification sent from one thread to another
 
 ---
+-->
 
 ## Web Development
 
@@ -101,7 +102,6 @@ The [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model)
 
   
 ---
--->
 
 ## Security
 
