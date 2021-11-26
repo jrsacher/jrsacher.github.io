@@ -11,9 +11,7 @@
 
 ## Sections
 
-<!--
 + [Programming](#programming)
--->
 + [Web Development](#web-development)
 + [Security](#security)
 + [Multimedia](#multimedia)
@@ -22,7 +20,6 @@
 
 --- 
 
-<!--
 ## Programming
 
 ### [Slides](https://docs.google.com/presentation/d/1zZKhSomzMlXl7IDmKNmQwQJDAQE1fNiiR4c98krwUqM/edit?usp=sharing)
@@ -54,7 +51,6 @@ More than one piece of code is being executed at the same time
 A sort of notification sent from one thread to another
 
 ---
--->
 
 ## Web Development
 
