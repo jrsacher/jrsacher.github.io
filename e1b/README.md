@@ -1,9 +1,9 @@
 # CSCI E-1b
 
-## Spring 2021
+## Spring 2022
 
 ## http://jrsacher.github.io/e1b
-
+<!--
 ---
 
 ### [Review Session Topics](review.md)
@@ -15,11 +15,12 @@
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
+-->
 + [Computational Thinking](#computational-thinking)
 + [General Info](general_info)
 
 ---
-
+<!--
 ### Cloud Computing
 
 #### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
@@ -203,14 +204,14 @@ Questions?
 [Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY to much time on!
 
 ---
-
+-->
 ### Computational Thinking
 
 #### [Slides](https://docs.google.com/presentation/d/19fXVejCYs1TPLwi5zQknJwwHWs1PBsLjOM3ZimbwKzI/edit?usp=sharing)
 
 #### Housekeeping
 
-+ Read the [syllabus](https://cs50.harvard.edu/extension/business/2021/spring/syllabus/)!
++ Read the [syllabus](https://cs50.harvard.edu/extension/business/2022/spring/syllabus/)!
 + General questions, comments, or concerns?
 
 #### Topics
@@ -239,22 +240,24 @@ Questions?
 
 ### General Info
 
-[Course Website](https://cs50.harvard.edu/extension/business/2021/spring/)
+[Course Website](https://cs50.harvard.edu/extension/business/2022/spring/)
 
 Contact [Josh](mailto:josh@cs50.harvard.edu) or [all course staff](mailto:business@cs50.harvard.edu)
 
 Sections (_feel free to attend whichever is convenient_):
-+ [Zoom link](https://vault.cs50.io/9bc263cb-2012-4d4a-b008-3c08578db41c) -- the same for all sections
++ [Zoom link](https://vault.cs50.io/8065524e-cb23-4e6d-90ed-a8316454ec0c) -- the same for all sections
++ Tue 4:30–6:00 pm ET with Davey
 + Wed 6:00–7:30 pm ET with Greg
++ Wed 9:30–11 pm ET with Eric
 + Thur 6:00–7:30 pm ET with Josh
-+ Thur 9:00–10:30 pm ET with Eric
 
 
 Office hours:
-+ [Office hours link](https://vault.cs50.io/ab9370a8-8662-4e81-955f-c6e4eb88c77f)
-+ Wed 8:00–9:30 pm ET with Josh
-+ Fri 6:30–8:00 pm ET with Eric
-+ Sun 12:00–1:30 pm ET with Greg
++ [Office hours link](https://vault.cs50.io/b974dbc9-05be-4e8d-acab-837814351f3f)
++ Wed 7:30–9:00 pm ET with Eric
++ Fri 5:00–6:30 pm ET with Josh
++ Sun 10:30 am–12:00 pm ET with Davey
++ Sun 12:30–2:00 pm ET with Greg
 + Potentially by appointment -- ask your assigned TF
 
-[Discussion forum](https://vault.cs50.io/c38f1766-22d5-4120-9a9b-91f12a8dcfb3)
+[Discussion forum](https://cs50.harvard.edu/extension/business/2022/spring/ed/)
