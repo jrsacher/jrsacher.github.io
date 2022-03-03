@@ -13,8 +13,8 @@
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
-+ [Internet Technologies](#internet-technologies)
 -->
++ [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general_info)
@@ -111,7 +111,7 @@ Questions?
 ---
 
 ### Internet Technologies
-
+-->
 #### [Slides](https://docs.google.com/presentation/d/1d4cvm-vn-vnkFS8GiA3gcSw1ga3TR9gmqCeZuCjHrgI/edit?usp=sharing)
 
 #### General
@@ -169,7 +169,7 @@ Questions?
 
 
 ---
--->
+
 ### Programming Languages
 
 #### [Slides](https://docs.google.com/presentation/d/17FPoSh48OUpYkepCQHZkZalDrtdGZM8bzVVGSUk2KZA/edit?usp=sharing)
