@@ -78,6 +78,9 @@
 
 #### General
 
+**NOTE**
+CS50 IDE no longer exists. You can use the newer, better [VS Code for CS50](https://code.cs50.io/) instead.
+
 **Resources**
 
 + W3 Schools
