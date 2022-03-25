@@ -105,7 +105,7 @@ Questions?
 + Look things up online!
 + Be sure to use relative links so that it works on the Staff's computers
 + The Sandbox environment doesn't have a lot of the useful features of code editors. Alternatives:
-  + Full [CS50 IDE](ide.cs50.io) for online use
+  + ~Full CS50 IDE for online use~ Now [VS Code for CS50](https://code.cs50.io/)
   + [VS Code](https://code.visualstudio.com/)
   + [Atom](https://atom.io)
   + [SublimeText](https://sublimetext.com)
