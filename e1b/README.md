@@ -11,8 +11,8 @@
 ---
 
 + [Cloud Computing](#cloud-computing)
-+ [Technology Stacks](#technology-stacks)
 -->
++ [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
@@ -40,16 +40,16 @@
 + What is the difference between vertical and horizontal scaling?
 
 ---
-
+-->
 ### Technology Stacks
 
 #### [Slides](https://docs.google.com/presentation/d/1yLhjVmpji3eKwtwwtIIJSfHoJBWFaOtuVPBE7YH5bI0/edit?usp=sharing)
 
 #### General
 
-+ Assignment due Sunday, April 18
++ Assignment due Sunday, April 17
   + As always, look things up online!
-+ *Cloud Computing* released Monday, April 19
++ *Cloud Computing* released Monday, April 18
 + Exam details coming soon
 + Questions?
 
@@ -69,7 +69,7 @@
   + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
 
 ---
--->
+
 ### Web Development
 
 #### [Slides](https://docs.google.com/presentation/d/1TwSFrqmcP2U0ArFhpXlCjBE8KIdxWjt_AGOydRhwNNA/edit?usp=sharing)
