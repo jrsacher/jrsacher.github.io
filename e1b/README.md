@@ -3,13 +3,13 @@
 ## Spring 2022
 
 ## http://jrsacher.github.io/e1b
-<!--  
+<!--  -->
 ---
 
 ### [Review Session Topics](review.md)
 
 ---
--->
+
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
