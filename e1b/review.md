@@ -18,7 +18,12 @@
 + Abstraction
 + Pseudocode
 + Algorithms
-  + Complexity of algorithms
+  + Complexity of algorithms, e.g.
+    + *n*
+    + *n²*
+    + *log(n)*
+  + Need for clarity
+    + If you have to write one, pick something VERY simple  
 
 ### Dealing with data
 
@@ -28,7 +33,13 @@
   + Linked lists
   + Hash tables
 + Sorting
+  + Bubble sort
+  + Selection sort
+  + Others 
 + Searching
+  + Linear
+  + Binary
+  
 
 ## Programming Languages
 
@@ -51,12 +62,15 @@
 + Interpreted languages
   + text --> interpreter --> byte code --> virtual machine
   + Generally easier to work with, especially for prototyping
-
++ In reality, this is an oversimplification -- nothing is black and white
 
 ## Internet Technologies
 
 ### Protocols that make the internet work
 
++ IP - Internet Protocol
+  + Your unique address on the internet
+  + IPv4 vs IPv6 
 + DHCP - Dynamic Host Configuration Protocol
   + Assigns your device an _IP address_ (ex: 10.75.234.190)
 + DNS - Domain Name Service
@@ -91,7 +105,6 @@
   + Tags can have _attributes_
     + `class`
     + `id`
-
 + CSS - Cascading Style Sheets
   + Provides robust control over style, layout, formatting, etc.
   + Uses _selectors_ to choose HTML elements
@@ -101,15 +114,18 @@
   + Many different `attribute: parameter;` combinations
     + `text-align: center;`
     + `color: darkred;`
-
 + JavaScript
   + Makes websites more interactive and responsive
   + Code runs in the client's web browser
   + Uses the Document Object Model (DOM) to interact with the HTML page
     + Tree-like hierarchy of HTML elements
++ Separation of concerns
+  + Likely better to keep different languages in different files 
 
 
 ## Technology Stacks
+
++ Combination of all languages, tools, frameworks, databases, etc. used to build an app or service
 
 ### Front end vs. Back end
 
@@ -137,10 +153,17 @@
   + Organizes data into tables
     + Think spreadsheet-like organization
   + _Relational_ database
-    + Uses _primary_ and _foreign keys_ to join data across multiple tables
+    + Uses _primary_ and _foreign keys_ to join data across multiple tables -- normalization
     + Avoids duplication of data and means changes only need to be made in one place
   + Columns must be assigned a _data type_
     + Specific names depent on database software, but include some form of text, number, and date fields, among others
+    + Common types
+      + CHAR
+      + VARCHAR
+      + INT
+      + REAL or FLOAT
+      + DATETIME
+      + etc.  
 + NoSQL
   + Non-tabular data storage
     + More like a document than a spreadsheet
@@ -150,6 +173,9 @@
   + Read
   + Update
   + Delete
++ Tradeoff: representation of floating point numbers
+  + More accuracy (numbers after the decimal), more space needed
+  + Less accuracy, less space needed 
   
 ### Mobile development
 
@@ -170,6 +196,7 @@
 + Vertical scaling -- get bigger, faster hardware
 + Horizontal scaling -- get MORE hardware
   + Can become complex, as servers and load balancers are needed
+    + Hardware must check in with each other to make sure everything is OK
   + Offers elasticity, as you can turn off a server if it isn't needed anymore
 + Database scaling
   + Sharding -- dividing data across DBs
