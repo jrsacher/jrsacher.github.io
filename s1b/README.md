@@ -1,14 +1,15 @@
 # CSCI S-1b
 
-## Summer 2021
+## Summer 2022
 
 ## http://jrsacher.github.io/s1b
 
 ---
-
+<!--
 ### [Review Session Topics](review.md)
 
 ---
+-->
 
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
@@ -19,7 +20,7 @@
 + [General Info](#general-info)
 
 ---
-
+<!--
 ### Cloud Computing
 
 #### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
@@ -27,8 +28,8 @@
 #### General
 
 + Additional exam details will likely go out soon
-  + Released 8/3
-  + Due 8/6 @ 11:59 PM EDT
+  + Released Tuesday, August 2
+  + Due Friday, August 5 @ 11:59 PM EDT
   + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu). Other staff will not reply
 + Questions/comments/concerns?
  
@@ -39,17 +40,17 @@
 + What is the difference between vertical and horizontal scaling?
 
 ---
-
+-->
+<!--
 ### Technology Stacks
 
 #### [Slides](https://docs.google.com/presentation/d/1yLhjVmpji3eKwtwwtIIJSfHoJBWFaOtuVPBE7YH5bI0/edit?usp=sharing)
 
 #### General
 
-+ Assignment due Sun, Jul 25
-  + As always, look things up online!
-+ Exam August 3-6 
-  + details likely coming soon
++ As always, look things up online!
+  + But don't copy answers -- I can Google, too.
++ Exam August 2-5 
   + Generally, like a bigger assignment
 + Questions?
 
@@ -69,7 +70,8 @@
   + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
 
 ---
-
+-->
+<!--
 ### Web Development
 
 #### [Slides](https://docs.google.com/presentation/d/1TwSFrqmcP2U0ArFhpXlCjBE8KIdxWjt_AGOydRhwNNA/edit?usp=sharing)
@@ -108,7 +110,8 @@ Questions?
   + [SublimeText](https://sublimetext.com)
   
 ---
-
+-->
+<!--
 ### Internet Technologies
 
 #### [Slides](https://docs.google.com/presentation/d/1d4cvm-vn-vnkFS8GiA3gcSw1ga3TR9gmqCeZuCjHrgI/edit?usp=sharing)
@@ -118,8 +121,8 @@ Questions?
 + Homework reminders
   + Start early!
   + Late work:  
-    + Late policy is 1% off per minute
-    + See the [syllabus](https://cs50.harvard.edu/summer/business/2021/syllabus/#extension-policy) for the extension policy
+    + Late policy is 0.1% off per minute
+    + See the [syllabus](https://cs50.harvard.edu/summer/business/2022/syllabus/#extension-policy) for the extension policy
     + _If there are extenuating circumstances, contact business@cs50.harvard.edu_
 + Questions from the first homework assignment?
 + I'm grading assignment 2 -- hope to have it done tomorrow night or Thursday morning
@@ -169,7 +172,8 @@ Questions?
 
 
 ---
-
+-->
+<!--
 ### Programming Languages
 
 #### [Slides](https://docs.google.com/presentation/d/17FPoSh48OUpYkepCQHZkZalDrtdGZM8bzVVGSUk2KZA/edit?usp=sharing)
@@ -204,14 +208,14 @@ Questions?
 [Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY to much time on!
 
 ---
-
+-->
 ### Computational Thinking
 
 #### [Slides](https://docs.google.com/presentation/d/19fXVejCYs1TPLwi5zQknJwwHWs1PBsLjOM3ZimbwKzI/edit?usp=sharing)
 
 #### Housekeeping
 
-+ Read the [syllabus](https://cs50.harvard.edu/summer/business/2021/syllabus/)!
++ Read the [syllabus](https://cs50.harvard.edu/summer/business/2022/syllabus/)!
 + General questions, comments, or concerns?
 
 #### Topics
@@ -240,22 +244,22 @@ Questions?
 
 ### General Info
 
-[Course Website](https://cs50.harvard.edu/summer/business/2021/)
+[Course Website](https://cs50.harvard.edu/summer/business/2022/)
 
 Contact [Josh](mailto:josh@cs50.harvard.edu) or [all course staff](mailto:business@cs50.harvard.edu)
 
 Sections (_feel free to attend whichever is convenient_):
-+ [Zoom link](https://vault.cs50.io/197494c6-35ec-428d-8de2-602eeb2a5717) -- the same for all sections
-+ Tues 7:00 – 8:30 pm ET with Josh
-+ Wed 6:00 – 7:30 pm ET with Greg
-+ Wed 9:00 – 10:30 pm ET with Eric
++ [Zoom link](https://vault.cs50.io/8065524e-cb23-4e6d-90ed-a8316454ec0c) -- the same for all sections
++ Tue 6:00 - 7:30 pm ET with Mario
++ Wed 6:30 – 8:00 pm ET with Greg
++ Thur 6:00 - 7:30 pm ET with Josh
 
 
 Office hours:
-+ [Office hours link](https://vault.cs50.io/ab9370a8-8662-4e81-955f-c6e4eb88c77f)
-+ Thur 9:00 – 10:30 pm ET with Eric
++ [Office hours link](https://vault.cs50.io/b974dbc9-05be-4e8d-acab-837814351f3f)
 + Fri 7:00 – 8:30 pm ET with Josh
 + Sun 11:00 am – 12:30 pm ET with Greg
++ Sun 6:00 - 7:30 pm ET with Mario
 + Potentially by appointment -- ask your assigned TF
 
-[Discussion forum](https://edstem.org/us/courses/5047/discussion/)
+[Discussion forum](https://edstem.org/us/courses/20692/discussion/)
