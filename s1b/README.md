@@ -9,13 +9,12 @@
 ### [Review Session Topics](review.md)
 
 ---
--->
 
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
-+ [Programming Languages](#programming-languages)
++ [Programming Languages](#programming-languages) -->
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
 
