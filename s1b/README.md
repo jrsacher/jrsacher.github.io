@@ -255,8 +255,8 @@ Sections (_feel free to attend whichever is convenient_):
 
 Office hours:
 + [Office hours link](https://vault.cs50.io/b974dbc9-05be-4e8d-acab-837814351f3f)
-+ Fri 7:00 – 8:30 pm ET with Josh
-+ Sun 11:00 am – 12:30 pm ET with Greg
++ Fri 7:00 – 8:00 pm ET with Josh
++ Sun 11:00 am – 12:00 pm ET with Greg
 + Potentially by appointment -- ask your assigned TF
 
 [Discussion forum](https://edstem.org/us/courses/20692/discussion/)
