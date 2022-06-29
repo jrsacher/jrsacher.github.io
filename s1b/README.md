@@ -249,7 +249,6 @@ Contact [Josh](mailto:josh@cs50.harvard.edu) or [all course staff](mailto:busine
 
 Sections (_feel free to attend whichever is convenient_):
 + [Zoom link](https://vault.cs50.io/8065524e-cb23-4e6d-90ed-a8316454ec0c) -- the same for all sections
-+ Tue 6:00 - 7:30 pm ET with Mario
 + Wed 6:30 – 8:00 pm ET with Greg
 + Thur 6:00 - 7:30 pm ET with Josh
 
@@ -258,7 +257,6 @@ Office hours:
 + [Office hours link](https://vault.cs50.io/b974dbc9-05be-4e8d-acab-837814351f3f)
 + Fri 7:00 – 8:30 pm ET with Josh
 + Sun 11:00 am – 12:30 pm ET with Greg
-+ Sun 6:00 - 7:30 pm ET with Mario
 + Potentially by appointment -- ask your assigned TF
 
 [Discussion forum](https://edstem.org/us/courses/20692/discussion/)
