@@ -12,8 +12,8 @@
 
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
-+ [Web Development](#web-development)
-+ [Internet Technologies](#internet-technologies) -->
++ [Web Development](#web-development) -->
++ [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
@@ -110,7 +110,7 @@ Questions?
   
 ---
 -->
-<!--
+<!-- -->
 ### Internet Technologies
 
 #### [Slides](https://docs.google.com/presentation/d/1d4cvm-vn-vnkFS8GiA3gcSw1ga3TR9gmqCeZuCjHrgI/edit?usp=sharing)
@@ -121,6 +121,7 @@ Questions?
   + Start early!
   + Late work:  
     + Late policy is 0.1% off per minute
+    + We only see the answers (and time stamp) from your last submission. Edits after the deadline will be considered late.
     + See the [syllabus](https://cs50.harvard.edu/summer/business/2022/syllabus/#extension-policy) for the extension policy
     + _If there are extenuating circumstances, contact business@cs50.harvard.edu_
 + Questions from the first homework assignment?
@@ -148,7 +149,7 @@ Questions?
 #### Questions from Previous Years
 
 + _How do you know what protocol is being used?_
-  + You can see all of your computer's internet connections by opening up a terminal (Mac) or command prompt (Windows) and running `netstat`. I was able to see a whole bunch of TCP and UDP connections and identify what some of them (but not all) were.
+  + You can see all of your computer's internet connections by opening up a terminal (Mac) or command prompt (Windows) and running `netstat`. I was able to see a whole bunch of TCP and UDP connections and identify what some of them (but not all) were. You can shorten the list to just IPv4 using `netstat -f inet` (and just IPv6 using `netstat -f inet6`)
   + There may be ways to more directly see what's happening for a specific application, etc., but I don't know them
 + _DNS hijacking and HTTPS?_
   + It turns out security is only as good as its weakest link. If you're able to redirect traffic to your site _and_ get a valid certificate that says your site is "real," HTTPS won't protect you. ([Source](https://krebsonsecurity.com/2019/02/a-deep-dive-on-the-recent-widespread-dns-hijacking-attacks/))
@@ -171,7 +172,7 @@ Questions?
 
 
 ---
--->
+
 <!-- -->
 ### Programming Languages
 
