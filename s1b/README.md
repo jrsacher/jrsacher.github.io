@@ -125,7 +125,7 @@ Questions?
     + See the [syllabus](https://cs50.harvard.edu/summer/business/2022/syllabus/#extension-policy) for the extension policy
     + _If there are extenuating circumstances, contact business@cs50.harvard.edu_
 + Questions from the first homework assignment?
-+ I'm grading assignment 2 -- hope to have it done tomorrow night or Thursday morning
++ I'm grading assignment 2 -- scores will hopefully be released soon
 + Other questions or concerns?
 
 #### Topics
