@@ -73,9 +73,9 @@
 <!-- -->
 ### Web Development
 
-#### A note on the homework
+#### A note on homework #3
 
-Many people seem to have missed the definition of a TCP __*port*__. The port number is used to indicate the *type* of TCP traffic, such as HTTP (80), HTTPS (443), SSH (22), etc.
+Many people seem to have missed the definition of a TCP __*port*__ in question 1. The port number is used to indicate the *type* of TCP traffic, such as HTTP (80), HTTPS (443), SSH (22), etc.
 
 #### [Slides](https://docs.google.com/presentation/d/1TwSFrqmcP2U0ArFhpXlCjBE8KIdxWjt_AGOydRhwNNA/edit?usp=sharing)
 
