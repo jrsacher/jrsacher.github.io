@@ -10,8 +10,8 @@
 
 ---
 
-+ [Cloud Computing](#cloud-computing)
-+ [Technology Stacks](#technology-stacks) -->
++ [Cloud Computing](#cloud-computing) -->
++ [Technology Stacks](#technology-stacks) 
 + [Web Development](#web-development) 
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
@@ -40,7 +40,7 @@
 
 ---
 -->
-<!--
+<!-- -->
 ### Technology Stacks
 
 #### [Slides](https://docs.google.com/presentation/d/1yLhjVmpji3eKwtwwtIIJSfHoJBWFaOtuVPBE7YH5bI0/edit?usp=sharing)
@@ -51,6 +51,7 @@
   + But don't copy answers -- I can Google, too.
 + Exam August 2-5 
   + Generally, like a bigger assignment
+  + No late work will be accepted!
 + Questions?
 
 #### Mini-quiz
@@ -69,7 +70,7 @@
   + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
 
 ---
--->
+
 <!-- -->
 ### Web Development
 
