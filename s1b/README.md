@@ -49,7 +49,7 @@
 
 + As always, look things up online!
   + But don't copy answers -- I can Google, too.
-+ Exam August 2-5 
++ Exam August 3-5 
   + Generally, like a bigger assignment
   + No late work will be accepted!
 + Questions?
