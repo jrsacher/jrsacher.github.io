@@ -5,12 +5,12 @@
 ## http://jrsacher.github.io/s1b
 
 ---
-<!--
+<!-- -->
 ### [Review Session Topics](review.md)
 
 ---
 
-+ [Cloud Computing](#cloud-computing) -->
++ [Cloud Computing](#cloud-computing) 
 + [Technology Stacks](#technology-stacks) 
 + [Web Development](#web-development) 
 + [Internet Technologies](#internet-technologies)
@@ -19,17 +19,19 @@
 + [General Info](#general-info)
 
 ---
-<!--
+<!-- -->
 ### Cloud Computing
 
 #### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
 
 #### General
 
-+ Additional exam details will likely go out soon
-  + Released Tuesday, August 2
++ Exam info:
+  + Released Wednesday, August 3 @ 12:00 AM EDT
   + Due Friday, August 5 @ 11:59 PM EDT
   + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu). Other staff will not reply
++ Review sessions Monday (Josh) and Tuesday (Greg) @ 6:00 PM EDT
+  + Use the link in the `Sections` page 
 + Questions/comments/concerns?
  
 #### Mini-quiz
@@ -39,7 +41,7 @@
 + What is the difference between vertical and horizontal scaling?
 
 ---
--->
+
 <!-- -->
 ### Technology Stacks
 
