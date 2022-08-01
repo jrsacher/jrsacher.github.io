@@ -39,7 +39,12 @@
 + Abstraction
 + Pseudocode
 + Algorithms
-  + Complexity of algorithms
+  + Complexity of algorithms, e.g.
+    + *n*
+    + *n²*
+    + *log(n)*
+  + Need for clarity
+    + If you have to write one, pick something VERY simple  
 
 ### Dealing with data
 
@@ -49,7 +54,12 @@
   + Linked lists
   + Hash tables
 + Sorting
+  + Bubble sort
+  + Selection sort
+  + Others 
 + Searching
+  + Linear
+  + Binary
 
 ## Programming Languages
 
@@ -72,6 +82,7 @@
 + Interpreted languages
   + text (source code) --> interpreter --> byte code --> virtual machine
   + Generally easier to work with, especially for prototyping
++ In reality, this is an oversimplification -- nothing is black and white
 
 ### Algorithms again
 + If you have to create one, be _EXTREMELY_ precise
@@ -83,6 +94,9 @@
 
 ### Protocols that make the internet work
 
++ IP - Internet Protocol
+  + Your unique address on the internet
+  + IPv4 vs IPv6 
 + DHCP - Dynamic Host Configuration Protocol
   + Assigns your device an _IP address_ (ex: 10.75.234.190)
 + DNS - Domain Name Service
@@ -134,8 +148,12 @@
   + Uses the Document Object Model (DOM) to interact with the HTML page
     + Tree-like hierarchy of HTML elements
 
++ Separation of concerns
+  + Likely better to keep different languages in different files 
 
 ## Technology Stacks
+
++ Combination of all languages, tools, frameworks, databases, etc. used to build an app or service
 
 ### Front end vs. Back end
 
@@ -180,6 +198,9 @@
   + Read
   + Update
   + Delete
++ Tradeoff: representation of floating point numbers
+  + More accuracy (numbers after the decimal), more space needed
+  + Less accuracy, less space needed 
   
 ### Mobile development
 
@@ -200,6 +221,7 @@
 + Vertical scaling -- get bigger, faster hardware
 + Horizontal scaling -- get MORE hardware
   + Can become complex, as servers and load balancers are needed
+    + Hardware must check in with each other to make sure everything is OK
   + Offers elasticity, as you can turn off a server if it isn't needed anymore
 + Database scaling
   + Sharding -- dividing data across DBs
