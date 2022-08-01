@@ -64,6 +64,11 @@
   + Generally easier to work with, especially for prototyping
 + In reality, this is an oversimplification -- nothing is black and white
 
+### Algorithms again
++ If you have to create one, be _EXTREMELY_ precise
+  + Note: "precise" does not equal verbose
++ Simple is generally better/easier
+
 ## Internet Technologies
 
 ### Protocols that make the internet work
