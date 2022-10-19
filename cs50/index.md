@@ -77,6 +77,15 @@
 
 [Slides](https://docs.google.com/presentation/d/1F2fm4BKXKPCg_HTDK9pK0OA1FT8UgjKWapsorvG1ADQ/edit?usp=sharing)
 
+#### Topics
+
++ The course in general
++ Binary
++ ASCII and Unicode
++ RGB
++ Algorithms and algorithmic complexity
++ Pseudocode
++ Scratch
 
 ---
 
