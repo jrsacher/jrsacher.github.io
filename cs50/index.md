@@ -83,6 +83,7 @@
 + Binary
 + ASCII and Unicode
 + RGB
++ Abstraction
 + Algorithms and algorithmic complexity
 + Pseudocode
 + Scratch
@@ -93,12 +94,12 @@
 
 ### Resources
 
-* [Course website](https://cs50.harvard.edu/indonesia/2023/)
-* [Office hours](https://cs50.harvard.edu/indonesia/2023/hours/)
-* [Manual pages](https://manual.cs50.io/)
-* [Discussion forum](https://cs50.harvard.edu/indonesia/2023/ed/)
-* [CS50 Shorts](https://cs50.harvard.edu/indonesia/2023/shorts/)
-* [Google](https://www.google.com) and [Stack Overflow](https://www.stackoverflow.com)
++ [Course website](https://cs50.harvard.edu/indonesia/2023/)
++ [Office hours](https://cs50.harvard.edu/indonesia/2023/hours/)
++ [Manual pages](https://manual.cs50.io/)
++ [Discussion forum](https://cs50.harvard.edu/indonesia/2023/ed/)
++ [CS50 Shorts](https://cs50.harvard.edu/indonesia/2023/shorts/)
++ [Google](https://www.google.com) and [Stack Overflow](https://www.stackoverflow.com)
 
 ### Contact Josh
 
@@ -106,17 +107,18 @@
 
 ### About Josh
 
-* CS50 experience
-  * CS50 student in Fall 2016 -- first CS class at 32 years old!
-  * Teaching fellow/course assistant for CS50 and related classes since 2017
-    * Last taught CS50 in 2019 
-* Work
-  * Drug discovery scientist at Photys therapeutics
-  * Company focuses on new treatments for cancer, other diseases 
-* Education
-  * B.S. in biochemistry (2005)
-  * Ph.D. in chemistry (2012)
-  * Certificate in bioinformatics (2018)
-* Location
-  * Currently living in Dallas, Texas, United States
-  * Originally from Wilmington, Delaware, United States
++ CS50 experience
+  + CS50 student in Fall 2016 -- first CS class at 32 years old!
+  + Teaching fellow/course assistant for CS50 and related classes since 2017
+    + Last taught CS50 in 2019 
++ Work
+  + Drug discovery scientist at Photys therapeutics
+    + Cheminformatician/computational chemist -- the intersection of chemistry and data science
+  + Company focuses on new treatments for cancer, other diseases 
++ Education
+  + B.S. in biochemistry, University of Delaware (2005)
+  + Ph.D. in chemistry, Penn State University (2012)
+  + Certificate in bioinformatics, Harvard Extension School (2018)
++ Location
+  + Currently living in Dallas, Texas, United States
+  + Originally from Wilmington, Delaware, United States (home of President Joe Biden)
