@@ -14,8 +14,8 @@
 * [Week 5](#week-5)
 * [Week 4](#week-4)
 * [Week 3](#week-3)
-* [Week 2](#week-2)
-* [Week 1](#week-1) -->
+* [Week 2](#week-2) -->
+* [Week 1](#week-1)
 * [Week 0](#week-0)
 
 ## [Other Stuff](#other-stuff)
@@ -65,15 +65,47 @@
 
 ## Week 2
 
----
+---  -->
 
 ## Week 1
 
---- -->
+### Introduction to `C`
+
+[Slides](https://docs.google.com/presentation/d/1t43WQ7vsfRzfog0XPh2QiBpVIlVgTqsG7-zeQT0cTfA/edit?usp=sharing)
+[Code examples]()
+
+#### Topics
+
++ Review of general CS concepts and implementation in C
+  + Variables
+  + Conditionals
+  + Loops
+  + Functions
+    + Creating your own functions
++ Operators
++ Data types
++ code.cs50.io environment
++ Linux and the command line
+  + Common commands
++ `help50` and `check50`
+Note -- Topics with more detail next week:
++ Compiling
++ Debugging
+
+#### Useful shorts
+
++ [Command Line](https://cs50.harvard.edu/indonesia/2023/shorts/command_line/)
++ [Conditional Statements](https://cs50.harvard.edu/indonesia/2023/shorts/conditional_statements/)
++ [Data Types](https://cs50.harvard.edu/indonesia/2023/shorts/data_types/)
++ [Functions](https://cs50.harvard.edu/indonesia/2023/shorts/functions/)
++ [Loops](https://cs50.harvard.edu/indonesia/2023/shorts/loops/)
++ [Operators](https://cs50.harvard.edu/indonesia/2023/shorts/operators/)
+
+---
 
 ## Week 0
 
-### Introduction
+### Introduction & Scratch
 
 [Slides](https://docs.google.com/presentation/d/1F2fm4BKXKPCg_HTDK9pK0OA1FT8UgjKWapsorvG1ADQ/edit?usp=sharing)
 
