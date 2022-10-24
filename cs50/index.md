@@ -72,7 +72,7 @@
 ### Introduction to `C`
 
 [Slides](https://docs.google.com/presentation/d/1t43WQ7vsfRzfog0XPh2QiBpVIlVgTqsG7-zeQT0cTfA/edit?usp=sharing)
-[Code examples]()
+[Code examples](https://github.com/jrsacher/jrsacher.github.io/tree/master/cs50/sections/section1)
 
 #### Topics
 
