@@ -89,6 +89,7 @@
 + Linux and the command line
   + Common commands
 + `help50` and `check50`
+
 Note -- Topics with more detail next week:
 + Compiling
 + Debugging
