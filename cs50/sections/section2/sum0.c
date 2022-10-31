@@ -4,10 +4,9 @@
 #include <cs50.h>
 #include <stdio.h>
 
-const int N = 20
+const int N = 20;
 
-    int
-    main(void)
+int main(void)
 {
     // declare the array, and store some values
     int values[N];
