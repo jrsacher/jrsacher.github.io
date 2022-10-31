@@ -13,8 +13,8 @@
 * [Week 6](#week-6)
 * [Week 5](#week-5)
 * [Week 4](#week-4)
-* [Week 3](#week-3)
-* [Week 2](#week-2) -->
+* [Week 3](#week-3) -->
+* [Week 2](#week-2)
 * [Week 1](#week-1)
 * [Week 0](#week-0)
 
@@ -61,18 +61,39 @@
 
 ## Week 3
 
----
+---  -->
 
 ## Week 2
 
----  -->
+### Arrays in `C`
+
+[Slides](https://docs.google.com/presentation/d/139Esj1_BsgrVhrizB9vQWRfYl57a4EPE8mqhbi_bOy0/edit?usp=sharing)
+
+[Code examples]()
+
+#### Topics
+
++ Compiling
++ Debugging
++ Review: data types
++ Arrays
++ Strings
++ Command-line arguments
+
+#### Useful shorts
+
++ [Arrays](https://cs50.harvard.edu/indonesia/2023/shorts/arrays/)
++ [Command line arguments](https://cs50.harvard.edu/indonesia/2023/shorts/command_line_arguments/)
+
+--- 
 
 ## Week 1
 
 ### Introduction to `C`
 
 [Slides](https://docs.google.com/presentation/d/1t43WQ7vsfRzfog0XPh2QiBpVIlVgTqsG7-zeQT0cTfA/edit?usp=sharing)
-[Code examples]()
+
+[Code examples](https://github.com/jrsacher/jrsacher.github.io/tree/master/cs50/sections/section1)
 
 #### Topics
 
@@ -88,6 +109,7 @@
 + Linux and the command line
   + Common commands
 + `help50` and `check50`
+
 Note -- Topics with more detail next week:
 + Compiling
 + Debugging
