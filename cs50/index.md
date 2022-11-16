@@ -12,8 +12,8 @@
 * [Week 7](#week-7)
 * [Week 6](#week-6)
 * [Week 5](#week-5)
-* [Week 4](#week-4)
-* [Week 3](#week-3) -->
+* [Week 4](#week-4) -->
+* [Week 3](#week-3)
 * [Week 2](#week-2)
 * [Week 1](#week-1)
 * [Week 0](#week-0)
@@ -57,11 +57,37 @@
 
 ## Week 4
 
----
+--- -->
 
 ## Week 3
 
----  -->
+[Slides](https://docs.google.com/presentation/d/1QBTcoGd53wty4HPfJrAHquI5OcPGKmQNcbgJmJj8t50/edit?usp=sharing)
+
+[Code examples](https://github.com/jrsacher/jrsacher.github.io/tree/master/cs50/sections/section3)
+
+#### Topics
+
++ Big O notation
++ Searching
+  + Linear search
+  + Binary search
++ Sorting
+  + Selection sort
+  + Bubble sort
+  + Merge Sort
++ Recursion
++ Data structures
+
+#### Useful shorts
+
++ [Binary search](https://cs50.harvard.edu/indonesia/2023/shorts/binary_search/)
++ [Bubble sort](https://cs50.harvard.edu/indonesia/2023/shorts/bubble_sort/)
++ [Linear search](https://cs50.harvard.edu/indonesia/2023/shorts/linear_search/)
++ [Merge sort](https://cs50.harvard.edu/indonesia/2023/shorts/merge_sort/)
++ [Recursion](https://cs50.harvard.edu/indonesia/2023/shorts/recursion/)
++ [Selection sort](https://cs50.harvard.edu/indonesia/2023/shorts/selection_sort/)
+
+---
 
 ## Week 2
 
@@ -69,7 +95,7 @@
 
 [Slides](https://docs.google.com/presentation/d/139Esj1_BsgrVhrizB9vQWRfYl57a4EPE8mqhbi_bOy0/edit?usp=sharing)
 
-[Code examples]()
+[Code examples](https://github.com/jrsacher/jrsacher.github.io/tree/master/cs50/sections/section2)
 
 #### Topics
 
