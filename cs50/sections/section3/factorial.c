@@ -1,3 +1,5 @@
+// calculate n! -- product of all integers from 1 to n
+
 #include <cs50.h>
 #include <stdio.h>
 

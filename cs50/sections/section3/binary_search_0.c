@@ -18,18 +18,22 @@ int main(void)
     while (low <= high)
     {
         steps += 1;
+        // get midpoint, check if number at that position matches
         mid = (high + low) / 2;
         if (query == numbers[mid])
         {
             printf("Found in %i steps!\n", steps);
             return 0;
         }
+        // if not ...
         else if (query > numbers[mid])
         {
+            // search right half with new "low" value
             low = mid + 1;
         }
         else
         {
+            // search left half with new "high" value
             high = mid - 1;
         }
     }
