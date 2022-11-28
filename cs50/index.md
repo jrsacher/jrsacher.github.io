@@ -11,8 +11,8 @@
 * [Week 8](#week-8)
 * [Week 7](#week-7)
 * [Week 6](#week-6)
-* [Week 5](#week-5)
-* [Week 4](#week-4) -->
+* [Week 5](#week-5) -->
+* [Week 4](#week-4)
 * [Week 3](#week-3)
 * [Week 2](#week-2)
 * [Week 1](#week-1)
@@ -53,11 +53,41 @@
 
 ## Week 5
 
----
+--- -->
 
 ## Week 4
 
---- -->
+[Slides](https://docs.google.com/presentation/d/1nyDnQZ53BUv-BKxv678f9aR7aG5dkA0gSV5RujU_PUA/edit?usp=sharing)
+
+[Code examples](https://github.com/jrsacher/jrsacher.github.io/tree/master/cs50/sections/section4)
+
+#### Topics
+
++ Hexadecimal
++ Memory addresses
++   `*` operator
++   `&` operator
++ Pointers
++ The truth about `string`s
+  + Why we need `string.h`
++ Memory manipulation and issues
+  + allocation (`malloc`)
+  + `free`ing
+  + Error checking with `valgrind`
+  + Overflows
++ `scanf`
++ Intro to file handling
+
+#### Useful shorts
+
++ [Hexadecimal](https://cs50.harvard.edu/indonesia/2023/shorts/hexadecimal/)
++ [Pointers](https://cs50.harvard.edu/indonesia/2023/shorts/pointers/)
++ [Defining Custom Types](https://cs50.harvard.edu/indonesia/2023/shorts/defining_custom_types/)
++ [Dynamic Memory Allocation](https://cs50.harvard.edu/indonesia/2023/shorts/dynamic_memory_allocation/)
++ [Call Stacks](https://cs50.harvard.edu/indonesia/2023/shorts/call_stacks/)
++ [File Pointers](https://cs50.harvard.edu/indonesia/2023/shorts/file_pointers/)
+
+---
 
 ## Week 3
 
