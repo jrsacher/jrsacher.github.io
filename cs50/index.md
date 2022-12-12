@@ -10,8 +10,8 @@
 * [Week 9](#week-9)
 * [Week 8](#week-8)
 * [Week 7](#week-7)
-* [Week 6](#week-6)
-* [Week 5](#week-5) -->
+* [Week 6](#week-6) -->
+* [Week 5](#week-5)
 * [Week 4](#week-4)
 * [Week 3](#week-3)
 * [Week 2](#week-2)
@@ -32,28 +32,114 @@
 <!--
 ## Week 10
 
+[Slides]()
+
+[Code examples]()
+
+#### Topics
+
++
+
+#### Useful shorts
+
++
+
 ---
 
 
 ## Week 9
 
+[Slides]()
+
+[Code examples]()
+
+#### Topics
+
++
+
+#### Useful shorts
+
++
+
 ---
 
 ## Week 8
+
+[Slides]()
+
+[Code examples]()
+
+#### Topics
+
++
+
+#### Useful shorts
+
++
 
 ---
 
 ## Week 7
 
+[Slides]()
+
+[Code examples]()
+
+#### Topics
+
++
+
+#### Useful shorts
+
++
+
 ---
 
 ## Week 6
 
----
+[Slides]()
+
+[Code examples]()
+
+#### Topics
+
++
+
+#### Useful shorts
+
++
+
+--- -->
 
 ## Week 5
 
---- -->
+[Slides](https://docs.google.com/presentation/d/1jqrfVC7fFxNsECA9SvGvcbb5dt-a8h55oVkCOvGPl9Q/edit?usp=sharing)
+
+[Code examples](https://github.com/jrsacher/jrsacher.github.io/tree/master/cs50/sections/section5)
+
+#### Topics
+
++ Linked lists
+  + Nodes
+  + -> operator
+  + Comparison with arrays
++ Stacks, queues
++ Hash tables
++ Trees
++ Tries
+
+#### Useful shorts
+
++ [Queues](https://cs50.harvard.edu/indonesia/2023/shorts/queues)
++ [Stacks](https://cs50.harvard.edu/indonesia/2023/shorts/stacks)
++ [Data Structures](https://cs50.harvard.edu/indonesia/2023/shorts/data_structures/)
++ [Structures](https://cs50.harvard.edu/indonesia/2023/shorts/structures/)
++ [Singly-Linked Lists](https://cs50.harvard.edu/indonesia/2023/shorts/singly_linked_lists/)
++ [Doubly-Linked Lists](https://cs50.harvard.edu/indonesia/2023/shorts/doubly_linked_lists/)
++ [Hash Tables](https://cs50.harvard.edu/indonesia/2023/shorts/hash_tables/)
++ [Tries](https://cs50.harvard.edu/indonesia/2023/shorts/tries/)
+
+---
 
 ## Week 4
 
