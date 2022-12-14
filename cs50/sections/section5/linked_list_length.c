@@ -1,10 +1,9 @@
 /* Write a function that returns the length of a singly linked list.
  * Expected output:
- *     Making sure the list length is indeed 10...
+ *     Making sure the list length is 10...
  *     9 8 7 6 5 4 3 2 1 0
  *     good!
  */
-// Josh's note: how do you know that DJM wrote this problem?
 
 #include <stdbool.h>
 #include <stdio.h>
@@ -20,24 +19,12 @@ typedef struct node
     struct node *next;
 } node;
 
-node *head = NULL;
-
-int length(void)
-{
-    int counter = 0;
-    node *temp = head;
-    while (temp != NULL)
-    {
-        printf("%i ", temp->n);
-        temp = temp->next;
-        counter++;
-    }
-    printf("\n");
-    return counter;
-}
+int length(node *head);
+void free_list(node *head);
 
 int main(void)
 {
+    node *head = NULL;
     // create linked list
     for (int i = 0; i < SIZE; i++)
     {
@@ -54,10 +41,10 @@ int main(void)
         head = new;
     }
 
-    printf("Making sure that list length is indeed %i...\n", SIZE);
+    printf("Making sure that list length is %i...\n", SIZE);
 
     // test length function
-    if (length() == SIZE)
+    if (length(head) == SIZE)
     {
         printf("good!\n");
     }
@@ -65,4 +52,32 @@ int main(void)
     {
         printf("...uh oh\n");
     }
+
+    free_list(head);
+}
+
+int length(node *head)
+{
+    int counter = 0;
+    node *temp = head;
+    while (temp != NULL)
+    {
+        printf("%i ", temp->n);
+        temp = temp->next;
+        counter++;
+    }
+    printf("\n");
+    return counter;
+}
+
+void free_list(node *head)
+{
+    // If the list is empty, we're done!
+    if (head == NULL)
+    {
+        return;
+    }
+    // Free the next element in the chain, then free this one
+    free_list(head->next);
+    free(head);
 }

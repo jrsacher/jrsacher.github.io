@@ -40,10 +40,12 @@ void enqueue(queue *q, int value)
         return;
     }
 
+    // Create a new node and set values
     node *tmp = malloc(sizeof(node));
     tmp->value = value;
     tmp->next = NULL;
 
+    // Add the new node to the queue
     if (!isempty(q))
     {
         q->rear->next = tmp;
@@ -77,13 +79,14 @@ void display(node *head)
     }
     else
     {
-        printf("%d\n", head->value);
+        printf("%i\n", head->value);
         display(head->next);
     }
 }
 
 int main()
 {
+    // Make a queue
     queue *q = malloc(sizeof(queue));
     initialize(q);
     // Add a few items
@@ -98,5 +101,13 @@ int main()
     printf("%i was dequeued\n", n);
     printf("Queue after dequeue contains %i items:\n", q->count);
     display(q->front);
+
+    // free up memory
+    while (q->front != NULL)
+    {
+        dequeue(q);
+    }
+    free(q);
+
     return 0;
 }
