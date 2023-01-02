@@ -9,8 +9,8 @@
 * [Week 10](#week-10)
 * [Week 9](#week-9)
 * [Week 8](#week-8)
-* [Week 7](#week-7)
-* [Week 6](#week-6) -->
+* [Week 7](#week-7) -->
+* [Week 6](#week-6)
 * [Week 5](#week-5)
 * [Week 4](#week-4)
 * [Week 3](#week-3)
@@ -93,23 +93,29 @@
 
 +
 
----
+--- -->
 
 ## Week 6
 
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/11wmAqqQrSn3qcOfYfObnLu0tAn9ZQj7xCxQyVgripfw/edit?usp=sharing)
 
-[Code examples]()
+[Code examples](https://github.com/jrsacher/jrsacher.github.io/tree/master/cs50/sections/section6)
 
 #### Topics
 
-+
++ Python data types
++ Variables, loops, and conditionals
++ Object-oriented programming
++ Command-line arguments
++ Libraries
+  + CSV
+  + re  
 
 #### Useful shorts
 
-+
++ [Python](https://cs50.harvard.edu/indonesia/2023/shorts/python/)
 
---- -->
+---
 
 ## Week 5
 
