@@ -1,8 +1,8 @@
 def get_int(prompt):
     while True:
-        x = input(prompt)
+        s = input(prompt)
         try:
-            n = int(x)
+            n = int(s)
         except ValueError:
             continue
         return n
