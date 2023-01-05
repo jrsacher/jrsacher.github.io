@@ -49,9 +49,9 @@
 
 ## Week 9
 
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1l9uOufNNWRYI4_R0RPzCjUc2Ay6wcoynL3Ua4gNTn9E/edit?usp=sharing)
 
-[Code examples]()
+[Code examples](https://github.com/jrsacher/jrsacher.github.io/tree/master/cs50/sections/section9)
 
 #### Topics
 
@@ -65,9 +65,9 @@
 
 ## Week 8
 
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1UcE_5oNI-6WTXZNOCwl5qAviwA-G1j2KP6yKjBZIHFg/edit?usp=sharing)
 
-[Code examples]()
+[Code examples](https://github.com/jrsacher/jrsacher.github.io/tree/master/cs50/sections/section8)
 
 #### Topics
 
@@ -81,9 +81,9 @@
 
 ## Week 7
 
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1WrI0Ej9zFjb9tnJ8AYe7XJovRK4pSXdA7HJlZGuIC00/edit?usp=sharing)
 
-[Code examples]()
+[Code examples](https://github.com/jrsacher/jrsacher.github.io/tree/master/cs50/sections/section7)
 
 #### Topics
 
