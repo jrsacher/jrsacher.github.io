@@ -8,8 +8,8 @@
 <!--
 * [Week 10](#week-10)
 * [Week 9](#week-9)
-* [Week 8](#week-8)
-* [Week 7](#week-7) -->
+* [Week 8](#week-8) --> 
+* [Week 7](#week-7)
 * [Week 6](#week-6)
 * [Week 5](#week-5)
 * [Week 4](#week-4)
@@ -77,7 +77,7 @@
 
 +
 
----
+--- -->
 
 ## Week 7
 
@@ -87,13 +87,25 @@
 
 #### Topics
 
-+
++ Python
+  + Working with flat files (CSVs)
+  + Lambda functions
++ Relational databases and SQL
+  + CRUD
+  + SQL commands
+  + Data types
+  + Database structure, joins
++ `sqlite3`
+  + Alternative: `phpliteadmin`
++ SQL in Python
++ Race conditions
++ SQL injection attacks
 
 #### Useful shorts
 
-+
++ [SQL](https://cs50.harvard.edu/indonesia/2023/shorts/sql/)
 
---- -->
+---
 
 ## Week 6
 
