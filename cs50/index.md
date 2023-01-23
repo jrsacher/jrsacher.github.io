@@ -7,8 +7,8 @@
 ## [Sections](#sections)
 <!--
 * [Week 10](#week-10)
-* [Week 9](#week-9)
-* [Week 8](#week-8) --> 
+* [Week 9](#week-9) --> 
+* [Week 8](#week-8)
 * [Week 7](#week-7)
 * [Week 6](#week-6)
 * [Week 5](#week-5)
@@ -61,7 +61,7 @@
 
 +
 
----
+--- -->
 
 ## Week 8
 
@@ -71,13 +71,26 @@
 
 #### Topics
 
-+
++ TCP/IP
++ DNS
++ HTTP/HTTPS
++ HTML
++ CSS
++ Frameworks
++ Javascript
 
 #### Useful shorts
 
-+
++ [Internet Primer] (https://cs50.harvard.edu/indonesia/2023/shorts/internet_primer/)
++ [IP] (https://cs50.harvard.edu/indonesia/2023/shorts/ip/)
++ [TCP] (https://cs50.harvard.edu/indonesia/2023/shorts/tcp/)
++ [HTTP] (https://cs50.harvard.edu/indonesia/2023/shorts/http/)
++ [HTML] (https://cs50.harvard.edu/indonesia/2023/shorts/html/)
++ [CSS] (https://cs50.harvard.edu/indonesia/2023/shorts/css/)
++ [JavaScript] (https://cs50.harvard.edu/indonesia/2023/shorts/javascript/)
++ [DOM] (https://cs50.harvard.edu/indonesia/2023/shorts/dom/)
 
---- -->
+---
 
 ## Week 7
 
