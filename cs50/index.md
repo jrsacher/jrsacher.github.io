@@ -6,8 +6,8 @@
 
 ## [Sections](#sections)
 <!--
-* [Week 10](#week-10)
-* [Week 9](#week-9) --> 
+* [Week 10](#week-10) --> 
+* [Week 9](#week-9)
 * [Week 8](#week-8)
 * [Week 7](#week-7)
 * [Week 6](#week-6)
@@ -44,7 +44,7 @@
 
 +
 
----
+--- -->
 
 
 ## Week 9
@@ -55,13 +55,18 @@
 
 #### Topics
 
-+
++ Flask
++ Flask + SQL
++ Sessions
++ AJAX
++ JSON
 
 #### Useful shorts
 
-+
++ [Flask](https://cs50.harvard.edu/indonesia/2023/shorts/flask/)
++ [AJAX](https://cs50.harvard.edu/indonesia/2023/shorts/ajax/)
 
---- -->
+---
 
 ## Week 8
 
