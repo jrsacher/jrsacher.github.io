@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Table</title>
+</head>
+
+<body>
+    <table>
+        {# "|int" below is a Jinja FILTER that converts a string to an integer #}
+        {# https://jinja.palletsprojects.com/en/3.1.x/templates/#builtin-filters #}
+        {% for i in range(dim|int) %}
+        <tr>
+            {% for j in range(dim|int) %}
+            <td>
+                {{ (i + 1) * (j + 1) }}
+            </td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+
+</html>
