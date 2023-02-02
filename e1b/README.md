@@ -1,9 +1,9 @@
 # CSCI E-1b
 
-## Spring 2022
+## Spring 2023
 
 ## http://jrsacher.github.io/e1b
-<!--  -->
+<!--  
 ---
 
 ### [Review Session Topics](review.md)
@@ -14,12 +14,12 @@
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
-+ [Programming Languages](#programming-languages)
++ [Programming Languages](#programming-languages) -->
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
 
 ---
-<!-- -->
+<!-- 
 ### Cloud Computing
 
 #### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
@@ -27,8 +27,8 @@
 #### General
 
 + Additional exam details will likely go out soon
-  + Released Fri 5/6
-  + Due Wed 5/11 @ 11:59 PM EDT
+  + Released Fri 5/5
+  + Due Wed 5/10 @ 11:59 PM EDT
   + Use any and all _non-human_ resources (but don't copy directly!)
   + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu). Other staff will not reply
 + Questions/comments/concerns?
@@ -47,9 +47,9 @@
 
 #### General
 
-+ Assignment due Sunday, April 17
++ Assignment due Sunday, April 16
   + As always, look things up online!
-+ *Cloud Computing* released Monday, April 18
++ *Cloud Computing* released Monday, April 17
 + Exam details coming soon
 + Questions?
 
@@ -206,7 +206,7 @@ Questions?
 
 [Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY to much time on!
 
----
+--- -->
 
 ### Computational Thinking
 
@@ -214,7 +214,7 @@ Questions?
 
 #### Housekeeping
 
-+ Read the [syllabus](https://cs50.harvard.edu/extension/business/2022/spring/syllabus/)!
++ Read the [syllabus](https://cs50.harvard.edu/extension/business/2023/spring/syllabus/)!
 + General questions, comments, or concerns?
 
 #### Topics
@@ -243,24 +243,20 @@ Questions?
 
 ### General Info
 
-[Course Website](https://cs50.harvard.edu/extension/business/2022/spring/)
+[Course Website](https://cs50.harvard.edu/extension/business/2023/spring/)
 
 Contact [Josh](mailto:josh@cs50.harvard.edu) or [all course staff](mailto:business@cs50.harvard.edu)
 
 Sections (_feel free to attend whichever is convenient_):
 + [Zoom link](https://vault.cs50.io/8065524e-cb23-4e6d-90ed-a8316454ec0c) -- the same for all sections
-+ Tue 4:30–6:00 pm ET with Davey
-+ Wed 6:00–7:30 pm ET with Greg
-+ Wed 9:30–11 pm ET with Eric
-+ Thur 6:00–7:30 pm ET with Josh
++ Tues 6:00 – 7:30 pm ET with Greg
++ Thur 7:00 – 8:30 pm ET with Josh
 
 
 Office hours:
 + [Office hours link](https://vault.cs50.io/b974dbc9-05be-4e8d-acab-837814351f3f)
-+ Wed 7:30–9:00 pm ET with Eric
-+ Fri 5:00–6:30 pm ET with Josh
-+ Sun 10:30 am–12:00 pm ET with Davey
-+ Sun 12:30–2:00 pm ET with Greg
++ Fri 7:00 pm – 8:30 pm ET with Josh
++ Sun 10:30 am – 12:00 pm ET with Greg
 + Potentially by appointment -- ask your assigned TF
 
-[Discussion forum](https://cs50.harvard.edu/extension/business/2022/spring/ed/)
+[Discussion forum](https://cs50.harvard.edu/extension/business/2023/spring/ed/)
