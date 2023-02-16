@@ -1,0 +1,65 @@
+  0           0 RESUME                   0
+
+  5           2 LOAD_CONST               0 (0)
+              4 LOAD_CONST               1 (('time',))
+              6 IMPORT_NAME              0 (time)
+              8 IMPORT_FROM              0 (time)
+             10 STORE_NAME               0 (time)
+             12 POP_TOP
+
+  8          14 PUSH_NULL
+             16 LOAD_NAME                0 (time)
+             18 PRECALL                  0
+             22 CALL                     0
+             32 STORE_NAME               1 (start)
+
+ 10          34 LOAD_CONST               2 (10000000)
+             36 STORE_NAME               2 (n)
+
+ 12          38 PUSH_NULL
+             40 LOAD_NAME                3 (range)
+             42 LOAD_NAME                2 (n)
+             44 PRECALL                  1
+             48 CALL                     1
+             58 GET_ITER
+        >>   60 FOR_ITER                25 (to 112)
+             62 STORE_NAME               4 (i)
+
+ 14          64 LOAD_NAME                4 (i)
+             66 LOAD_NAME                2 (n)
+             68 LOAD_CONST               3 (10)
+             70 BINARY_OP               11 (/)
+             74 BINARY_OP                6 (%)
+             78 LOAD_CONST               0 (0)
+             80 COMPARE_OP               2 (==)
+             86 POP_JUMP_FORWARD_IF_FALSE    11 (to 110)
+
+ 16          88 PUSH_NULL
+             90 LOAD_NAME                5 (print)
+             92 LOAD_NAME                4 (i)
+             94 PRECALL                  1
+             98 CALL                     1
+            108 POP_TOP
+        >>  110 JUMP_BACKWARD           26 (to 60)
+
+ 18     >>  112 PUSH_NULL
+            114 LOAD_NAME                0 (time)
+            116 PRECALL                  0
+            120 CALL                     0
+            130 STORE_NAME               6 (end)
+
+ 20         132 PUSH_NULL
+            134 LOAD_NAME                5 (print)
+            136 LOAD_CONST               4 ('Time in Python: ')
+            138 LOAD_NAME                6 (end)
+            140 LOAD_NAME                1 (start)
+            142 BINARY_OP               10 (-)
+            146 LOAD_CONST               5 ('.4')
+            148 FORMAT_VALUE             4 (with format)
+            150 LOAD_CONST               6 (' seconds')
+            152 BUILD_STRING             3
+            154 PRECALL                  1
+            158 CALL                     1
+            168 POP_TOP
+            170 LOAD_CONST               7 (None)
+            172 RETURN_VALUE
