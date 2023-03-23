@@ -11,8 +11,8 @@
 ---
 
 + [Cloud Computing](#cloud-computing)
-+ [Technology Stacks](#technology-stacks)
-+ [Web Development](#web-development) -->
++ [Technology Stacks](#technology-stacks) -->
++ [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
@@ -68,7 +68,7 @@
   + Not really "database frameworks," but there are [persistence frameworks](https://en.wikipedia.org/wiki/Persistence_framework) that help applications communicate with databases.
   + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
 
----
+--- -->
 
 ### Web Development
 
@@ -104,14 +104,14 @@ Questions?
 + **Start ASAP**
 + Look things up online!
 + Be sure to use relative links so that it works on the Staff's computers
-+ The Sandbox environment doesn't have a lot of the useful features of code editors. Alternatives:
++ Alternatices to working online
   + ~Full CS50 IDE for online use~ Now [VS Code for CS50](https://code.cs50.io/)
   + [VS Code](https://code.visualstudio.com/)
   + [Atom](https://atom.io)
   + [SublimeText](https://sublimetext.com)
   
 
---- -->
+---
 
 ### Internet Technologies
 
