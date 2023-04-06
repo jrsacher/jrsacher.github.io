@@ -10,8 +10,8 @@
 
 ---
 
-+ [Cloud Computing](#cloud-computing)
-+ [Technology Stacks](#technology-stacks) -->
++ [Cloud Computing](#cloud-computing) -->
++ [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
@@ -39,7 +39,7 @@
 + Distinguish between IaaS, PaaS, and SaaS.
 + What is the difference between vertical and horizontal scaling?
 
----
+--- -->
 
 ### Technology Stacks
 
@@ -50,7 +50,11 @@
 + Assignment due Sunday, April 16
   + As always, look things up online!
 + *Cloud Computing* released Monday, April 17
-+ Exam details coming soon
++ Exam planning
+  + Released Friday, 5/5
+  + Due Wedesday, 5/10
+  + Like a normal assignment but longer, a few questions from each lecture
+  + Will likely have a review session and/or office hours before exam
 + Questions?
 
 #### Mini-quiz
@@ -62,13 +66,14 @@
 #### **Questions from previous Sections**
 
 + Examples of cross-platform mobile apps?
+  + The [Flutter](https://flutter.dev/) framework uses the [Dart programming language](https://dart.dev/) to build unified apps. [Examples](https://flutter.dev/showcase) include Ebay, Toyota, and various Google apps.
   + The Xamarin framework lets you build platform-independent mobile apps using C#. [Examples from their site](https://dotnet.microsoft.com/apps/xamarin/customers) include UPS, Alaska Airlines, and the American Cancer Society.
   + React Native lets you develop in JavaScript for both iOS and Android. [Some React apps include](https://reactnative.dev/showcase) things Facebook owns (can't believe I didn't think of that!) -- Facebook, Instagram and more; Tesla; Pinterest; Delivery.com; etc.
 + Are there database "frameworks?"
   + Not really "database frameworks," but there are [persistence frameworks](https://en.wikipedia.org/wiki/Persistence_framework) that help applications communicate with databases.
   + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
 
---- -->
+---
 
 ### Web Development
 
