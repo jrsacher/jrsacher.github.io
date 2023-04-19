@@ -8,9 +8,9 @@
 
 ### [Review Session Topics](review.md)
 
----
+---   -->
 
-+ [Cloud Computing](#cloud-computing) -->
++ [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
@@ -19,7 +19,7 @@
 + [General Info](#general-info)
 
 ---
-<!-- 
+<!--  -->
 ### Cloud Computing
 
 #### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
@@ -39,7 +39,7 @@
 + Distinguish between IaaS, PaaS, and SaaS.
 + What is the difference between vertical and horizontal scaling?
 
---- -->
+---
 
 ### Technology Stacks
 
