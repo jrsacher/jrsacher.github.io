@@ -10,7 +10,9 @@
 ### Building from the ground up
 
 + Binary
+  + Know how to convert to and from decimal
 + ASCII
+  + Know how to convert to and from binary 
 + Colors
 
 ### Core concepts
@@ -23,7 +25,7 @@
     + *n²*
     + *log(n)*
   + Need for clarity
-    + If you have to write one, pick something VERY simple  
+    + If you have to write an algorithm, pick something **VERY** simple  
 
 ### Dealing with data
 
@@ -35,11 +37,14 @@
 + Sorting
   + Bubble sort
   + Selection sort
-  + Others 
+  + Others -- look up if needed!
 + Searching
   + Linear
+    + *O(n)*
+    + No need to sort data  
   + Binary
-  
+    + *O(log(n))
+    + Data must be sorted -- upfront cost
 
 ## Programming Languages
 
@@ -53,6 +58,7 @@
   + `while` loops: repeat while some Boolean expression is true
 + Functions
   + Reusable pieces of code that do a specific task
+  + Abstraction -- don't need to know how it was implemented to use it
 
 ### Programming
 
@@ -65,9 +71,9 @@
 + In reality, this is an oversimplification -- nothing is black and white
 
 ### Algorithms again
-+ If you have to create one, be _EXTREMELY_ precise
++ Again, if you have to create one, be _EXTREMELY_ precise
   + Note: "precise" does not equal verbose
-+ Simple is generally better/easier
+  + Simple is generally better/easier
 
 ## Internet Technologies
 
@@ -75,7 +81,8 @@
 
 + IP - Internet Protocol
   + Your unique address on the internet
-  + IPv4 vs IPv6 
+  + IPv4 vs IPv6
+    + 32-bit vs 128-bit
 + DHCP - Dynamic Host Configuration Protocol
   + Assigns your device an _IP address_ (ex: 10.75.234.190)
 + DNS - Domain Name Service
@@ -103,6 +110,7 @@
 ## Web Development
 
 + HTML - Hypertext Markup Language
+  + Markup language vs. programming language
   + Tells us what to display and some basics about how to do it
   + Uses _tags_ to do this
     + Tags use angle brackets: `<body>`
@@ -160,11 +168,12 @@
   + _Relational_ database
     + Uses _primary_ and _foreign keys_ to join data across multiple tables -- normalization
     + Avoids duplication of data and means changes only need to be made in one place
+    + Needs additional tables to bridge multiple smaller tables
   + Columns must be assigned a _data type_
     + Specific names depent on database software, but include some form of text, number, and date fields, among others
     + Common types
-      + CHAR
-      + VARCHAR
+      + CHAR -- fixed length, always uses full amount of space
+      + VARCHAR -- variable length
       + INT
       + REAL or FLOAT
       + DATETIME
@@ -201,7 +210,7 @@
 + Vertical scaling -- get bigger, faster hardware
 + Horizontal scaling -- get MORE hardware
   + Can become complex, as servers and load balancers are needed
-    + Hardware must check in with each other to make sure everything is OK
+    + Hardware must check in with each other to make sure everything is OK -- "heartbeats"
   + Offers elasticity, as you can turn off a server if it isn't needed anymore
 + Database scaling
   + Sharding -- dividing data across DBs
