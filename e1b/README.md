@@ -265,3 +265,7 @@ Office hours:
 + Potentially by appointment -- ask your assigned TF
 
 [Discussion forum](https://cs50.harvard.edu/extension/business/2023/fall/ed/)
+
+Grading - contact the correct TF for questions about the assignment or grading
++ Greg: Assignments 1, 4, 6
++ Josh: Assignments 2, 3, 5
