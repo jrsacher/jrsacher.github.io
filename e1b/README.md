@@ -219,7 +219,7 @@ Questions?
 
 #### Housekeeping
 
-+ Read the [syllabus](https://cs50.harvard.edu/extension/business/2023/spring/syllabus/)!
++ Read the [syllabus](https://cs50.harvard.edu/extension/business/2023/fall/syllabus/)!
 + General questions, comments, or concerns?
 
 #### Topics
