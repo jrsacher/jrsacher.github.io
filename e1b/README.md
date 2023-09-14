@@ -1,9 +1,9 @@
 # CSCI E-1b
 
-## Spring 2023
+## Fall 2023
 
 ## http://jrsacher.github.io/e1b
-<!--    -->
+<!--    
 ---
 
 ### [Review Session Topics](review.md)
@@ -14,12 +14,12 @@
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
-+ [Programming Languages](#programming-languages)
++ [Programming Languages](#programming-languages) -->
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
 
 ---
-<!--  -->
+<!--  
 ### Cloud Computing
 
 #### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
@@ -211,7 +211,7 @@ Questions?
 
 [Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY to much time on!
 
----
+---  -->
 
 ### Computational Thinking
 
@@ -248,20 +248,20 @@ Questions?
 
 ### General Info
 
-[Course Website](https://cs50.harvard.edu/extension/business/2023/spring/)
+[Course Website](https://cs50.harvard.edu/extension/business/2023/fall/)
 
 Contact [Josh](mailto:josh@cs50.harvard.edu) or [all course staff](mailto:business@cs50.harvard.edu)
 
 Sections (_feel free to attend whichever is convenient_):
-+ [Zoom link](https://vault.cs50.io/8065524e-cb23-4e6d-90ed-a8316454ec0c) -- the same for all sections
-+ Tues 6:00 – 7:30 pm ET with Greg
++ [Zoom link](https://vault.cs50.io/57d4206e-ef62-42b0-a4fb-970437b7ebd8) -- the same for all sections
++ Wed 6:00 – 7:30 pm ET with Greg
 + Thur 7:00 – 8:30 pm ET with Josh
 
 
 Office hours:
 + [Office hours link](https://vault.cs50.io/b974dbc9-05be-4e8d-acab-837814351f3f)
-+ Fri 7:00 pm – 8:30 pm ET with Josh
++ Thur 7:00 pm – 8:30 pm ET with Josh
 + Sun 10:30 am – 12:00 pm ET with Greg
 + Potentially by appointment -- ask your assigned TF
 
-[Discussion forum](https://cs50.harvard.edu/extension/business/2023/spring/ed/)
+[Discussion forum](https://cs50.harvard.edu/extension/business/2023/fall/ed/)
