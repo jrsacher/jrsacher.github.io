@@ -116,7 +116,7 @@ Questions?
   + [SublimeText](https://sublimetext.com)
   
 
----
+---  -->
 
 ### Internet Technologies
 
@@ -128,7 +128,7 @@ Questions?
   + Start early!
   + Late work may be penalized (see policy in the syllabus)
     + _If there are extenuating circumstances, contact business@cs50.harvard.edu_
-+ No sections/office hours for "Spring Break" (week of 3/13)
+<!-- + No sections/office hours for "Spring Break" (week of 3/13) -->
 + Questions from the first homework assignment?
 + I'm grading assignment 2 -- hope to have it done this weekend!
 + Other questions or concerns?
@@ -176,7 +176,7 @@ Questions?
   + David Malan on [security in general](https://youtu.be/QQmFyybzon0); Brian Yu with some [more in-depth details](https://youtu.be/bR1AZMk7SNs)
 
 
----  -->
+---
 
 ### Programming Languages
 
