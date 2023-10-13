@@ -1,4 +1,4 @@
-# CS50 Indonesia 2022-2023
+# CS50 Indonesia 2023-2024
 
 ### Joshua Sacher
 
@@ -6,7 +6,7 @@
 
 ## [Sections](#sections)
 <!--
-* [Week 10](#week-10) --> 
+* [Week 10](#week-10)
 * [Week 9](#week-9)
 * [Week 8](#week-8)
 * [Week 7](#week-7)
@@ -14,7 +14,7 @@
 * [Week 5](#week-5)
 * [Week 4](#week-4)
 * [Week 3](#week-3)
-* [Week 2](#week-2)
+* [Week 2](#week-2) --> 
 * [Week 1](#week-1)
 * [Week 0](#week-0)
 
@@ -44,7 +44,7 @@
 
 +
 
---- -->
+---
 
 
 ## Week 9
@@ -63,8 +63,8 @@
 
 #### Useful shorts
 
-+ [Flask](https://cs50.harvard.edu/indonesia/2023/shorts/flask/)
-+ [AJAX](https://cs50.harvard.edu/indonesia/2023/shorts/ajax/)
++ [Flask](https://cs50.harvard.edu/indonesia/2024/shorts/flask/)
++ [AJAX](https://cs50.harvard.edu/indonesia/2024/shorts/ajax/)
 
 ---
 
@@ -86,14 +86,14 @@
 
 #### Useful shorts
 
-+ [Internet Primer] (https://cs50.harvard.edu/indonesia/2023/shorts/internet_primer/)
-+ [IP] (https://cs50.harvard.edu/indonesia/2023/shorts/ip/)
-+ [TCP] (https://cs50.harvard.edu/indonesia/2023/shorts/tcp/)
-+ [HTTP] (https://cs50.harvard.edu/indonesia/2023/shorts/http/)
-+ [HTML] (https://cs50.harvard.edu/indonesia/2023/shorts/html/)
-+ [CSS] (https://cs50.harvard.edu/indonesia/2023/shorts/css/)
-+ [JavaScript] (https://cs50.harvard.edu/indonesia/2023/shorts/javascript/)
-+ [DOM] (https://cs50.harvard.edu/indonesia/2023/shorts/dom/)
++ [Internet Primer] (https://cs50.harvard.edu/indonesia/2024/shorts/internet_primer/)
++ [IP] (https://cs50.harvard.edu/indonesia/2024/shorts/ip/)
++ [TCP] (https://cs50.harvard.edu/indonesia/2024/shorts/tcp/)
++ [HTTP] (https://cs50.harvard.edu/indonesia/2024/shorts/http/)
++ [HTML] (https://cs50.harvard.edu/indonesia/2024/shorts/html/)
++ [CSS] (https://cs50.harvard.edu/indonesia/2024/shorts/css/)
++ [JavaScript] (https://cs50.harvard.edu/indonesia/2024/shorts/javascript/)
++ [DOM] (https://cs50.harvard.edu/indonesia/2024/shorts/dom/)
 
 ---
 
@@ -121,7 +121,7 @@
 
 #### Useful shorts
 
-+ [SQL](https://cs50.harvard.edu/indonesia/2023/shorts/sql/)
++ [SQL](https://cs50.harvard.edu/indonesia/2024/shorts/sql/)
 
 ---
 
@@ -143,7 +143,7 @@
 
 #### Useful shorts
 
-+ [Python](https://cs50.harvard.edu/indonesia/2023/shorts/python/)
++ [Python](https://cs50.harvard.edu/indonesia/2024/shorts/python/)
 
 ---
 
@@ -166,14 +166,14 @@
 
 #### Useful shorts
 
-+ [Queues](https://cs50.harvard.edu/indonesia/2023/shorts/queues)
-+ [Stacks](https://cs50.harvard.edu/indonesia/2023/shorts/stacks)
-+ [Data Structures](https://cs50.harvard.edu/indonesia/2023/shorts/data_structures/)
-+ [Structures](https://cs50.harvard.edu/indonesia/2023/shorts/structures/)
-+ [Singly-Linked Lists](https://cs50.harvard.edu/indonesia/2023/shorts/singly_linked_lists/)
-+ [Doubly-Linked Lists](https://cs50.harvard.edu/indonesia/2023/shorts/doubly_linked_lists/)
-+ [Hash Tables](https://cs50.harvard.edu/indonesia/2023/shorts/hash_tables/)
-+ [Tries](https://cs50.harvard.edu/indonesia/2023/shorts/tries/)
++ [Queues](https://cs50.harvard.edu/indonesia/2024/shorts/queues)
++ [Stacks](https://cs50.harvard.edu/indonesia/2024/shorts/stacks)
++ [Data Structures](https://cs50.harvard.edu/indonesia/2024/shorts/data_structures/)
++ [Structures](https://cs50.harvard.edu/indonesia/2024/shorts/structures/)
++ [Singly-Linked Lists](https://cs50.harvard.edu/indonesia/2024/shorts/singly_linked_lists/)
++ [Doubly-Linked Lists](https://cs50.harvard.edu/indonesia/2024/shorts/doubly_linked_lists/)
++ [Hash Tables](https://cs50.harvard.edu/indonesia/2024/shorts/hash_tables/)
++ [Tries](https://cs50.harvard.edu/indonesia/2024/shorts/tries/)
 
 ---
 
@@ -202,12 +202,12 @@
 
 #### Useful shorts
 
-+ [Hexadecimal](https://cs50.harvard.edu/indonesia/2023/shorts/hexadecimal/)
-+ [Pointers](https://cs50.harvard.edu/indonesia/2023/shorts/pointers/)
-+ [Defining Custom Types](https://cs50.harvard.edu/indonesia/2023/shorts/defining_custom_types/)
-+ [Dynamic Memory Allocation](https://cs50.harvard.edu/indonesia/2023/shorts/dynamic_memory_allocation/)
-+ [Call Stacks](https://cs50.harvard.edu/indonesia/2023/shorts/call_stacks/)
-+ [File Pointers](https://cs50.harvard.edu/indonesia/2023/shorts/file_pointers/)
++ [Hexadecimal](https://cs50.harvard.edu/indonesia/2024/shorts/hexadecimal/)
++ [Pointers](https://cs50.harvard.edu/indonesia/2024/shorts/pointers/)
++ [Defining Custom Types](https://cs50.harvard.edu/indonesia/2024/shorts/defining_custom_types/)
++ [Dynamic Memory Allocation](https://cs50.harvard.edu/indonesia/2024/shorts/dynamic_memory_allocation/)
++ [Call Stacks](https://cs50.harvard.edu/indonesia/2024/shorts/call_stacks/)
++ [File Pointers](https://cs50.harvard.edu/indonesia/2024/shorts/file_pointers/)
 
 ---
 
@@ -232,12 +232,12 @@
 
 #### Useful shorts
 
-+ [Binary search](https://cs50.harvard.edu/indonesia/2023/shorts/binary_search/)
-+ [Bubble sort](https://cs50.harvard.edu/indonesia/2023/shorts/bubble_sort/)
-+ [Linear search](https://cs50.harvard.edu/indonesia/2023/shorts/linear_search/)
-+ [Merge sort](https://cs50.harvard.edu/indonesia/2023/shorts/merge_sort/)
-+ [Recursion](https://cs50.harvard.edu/indonesia/2023/shorts/recursion/)
-+ [Selection sort](https://cs50.harvard.edu/indonesia/2023/shorts/selection_sort/)
++ [Binary search](https://cs50.harvard.edu/indonesia/2024/shorts/binary_search/)
++ [Bubble sort](https://cs50.harvard.edu/indonesia/2024/shorts/bubble_sort/)
++ [Linear search](https://cs50.harvard.edu/indonesia/2024/shorts/linear_search/)
++ [Merge sort](https://cs50.harvard.edu/indonesia/2024/shorts/merge_sort/)
++ [Recursion](https://cs50.harvard.edu/indonesia/2024/shorts/recursion/)
++ [Selection sort](https://cs50.harvard.edu/indonesia/2024/shorts/selection_sort/)
 
 ---
 
@@ -260,10 +260,10 @@
 
 #### Useful shorts
 
-+ [Arrays](https://cs50.harvard.edu/indonesia/2023/shorts/arrays/)
-+ [Command line arguments](https://cs50.harvard.edu/indonesia/2023/shorts/command_line_arguments/)
++ [Arrays](https://cs50.harvard.edu/indonesia/2024/shorts/arrays/)
++ [Command line arguments](https://cs50.harvard.edu/indonesia/2024/shorts/command_line_arguments/)
 
---- 
+---  -->
 
 ## Week 1
 
@@ -294,12 +294,12 @@ Note -- Topics with more detail next week:
 
 #### Useful shorts
 
-+ [Command Line](https://cs50.harvard.edu/indonesia/2023/shorts/command_line/)
-+ [Conditional Statements](https://cs50.harvard.edu/indonesia/2023/shorts/conditional_statements/)
-+ [Data Types](https://cs50.harvard.edu/indonesia/2023/shorts/data_types/)
-+ [Functions](https://cs50.harvard.edu/indonesia/2023/shorts/functions/)
-+ [Loops](https://cs50.harvard.edu/indonesia/2023/shorts/loops/)
-+ [Operators](https://cs50.harvard.edu/indonesia/2023/shorts/operators/)
++ [Command Line](https://cs50.harvard.edu/indonesia/2024/shorts/command_line/)
++ [Conditional Statements](https://cs50.harvard.edu/indonesia/2024/shorts/conditional_statements/)
++ [Data Types](https://cs50.harvard.edu/indonesia/2024/shorts/data_types/)
++ [Functions](https://cs50.harvard.edu/indonesia/2024/shorts/functions/)
++ [Loops](https://cs50.harvard.edu/indonesia/2024/shorts/loops/)
++ [Operators](https://cs50.harvard.edu/indonesia/2024/shorts/operators/)
 
 ---
 
@@ -326,11 +326,11 @@ Note -- Topics with more detail next week:
 
 ### Resources
 
-+ [Course website](https://cs50.harvard.edu/indonesia/2023/)
-+ [Office hours](https://cs50.harvard.edu/indonesia/2023/hours/)
++ [Course website](https://cs50.harvard.edu/indonesia/2024/)
++ [Office hours](https://cs50.harvard.edu/indonesia/2024/hours/)
 + [Manual pages](https://manual.cs50.io/)
-+ [Discussion forum](https://cs50.harvard.edu/indonesia/2023/ed/)
-+ [CS50 Shorts](https://cs50.harvard.edu/indonesia/2023/shorts/)
++ [Discussion forum](https://cs50.harvard.edu/indonesia/2024/ed/)
++ [CS50 Shorts](https://cs50.harvard.edu/indonesia/2024/shorts/)
 + [Google](https://www.google.com) and [Stack Overflow](https://www.stackoverflow.com)
 
 ### Contact Josh
@@ -342,7 +342,7 @@ Note -- Topics with more detail next week:
 + CS50 experience
   + CS50 student in Fall 2016 -- first CS class at 32 years old!
   + Teaching fellow/course assistant for CS50 and related classes since 2017
-    + Last taught CS50 in 2019 
+    + 2nd time with CS50 Indonesia 
 + Work
   + Drug discovery scientist at Photys therapeutics
     + Cheminformatician/computational chemist -- the intersection of chemistry and data science
