@@ -11,8 +11,8 @@
 ---
 
 + [Cloud Computing](#cloud-computing)
-+ [Technology Stacks](#technology-stacks)
-+ [Web Development](#web-development)  -->
++ [Technology Stacks](#technology-stacks)  -->
++ [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
@@ -73,7 +73,7 @@
   + Not really "database frameworks," but there are [persistence frameworks](https://en.wikipedia.org/wiki/Persistence_framework) that help applications communicate with databases.
   + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
 
----
+---  -->
 
 ### Web Development
 
@@ -116,7 +116,7 @@ Questions?
   + [SublimeText](https://sublimetext.com)
   
 
----  -->
+---
 
 ### Internet Technologies
 
