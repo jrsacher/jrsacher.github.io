@@ -79,7 +79,7 @@
 
 #### [Slides](https://docs.google.com/presentation/d/1TwSFrqmcP2U0ArFhpXlCjBE8KIdxWjt_AGOydRhwNNA/edit?usp=sharing)
 
-#### [Example Files](WebDev/)
+#### [Example Files](https://github.com/jrsacher/jrsacher.github.io/tree/master/e1b/WebDev)
 
 #### General
 
