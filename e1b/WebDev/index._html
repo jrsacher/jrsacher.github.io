@@ -1,63 +1,66 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="styles.css">
-    <script src="script.js"></script>
-    <title>Demo Page!</title>
-  </head>
-  <body>
-    <div style="text-align: center;">
-      <h1>Hello, Section!</h1>
-      <h2>Here's a <span id=switch class=pretty>not-so-pretty</span> example webpage</h2>
-    </div>
-    <div>
-      <h3>Here's a table</h3>
-      <table>
-        <thead>
-          <tr>
-            <th>Row</th>
-            <th>Col 1</th>
-            <th>Col 2</td>
-            <th>Col 3</td>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th>1</th>
-            <td>1.1</td>
-            <td>1.2</td>
-            <td>1.3</td>
-          </tr>
-          <tr>
-            <th>2</th>
-            <td>2.1</td>
-            <td>2.2</td>
-            <td>2.3</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    <div>
-      <h3>A list of lists</h3>
-      <ol>
-        <li>Item 1</li>
-        <li> Item 2
-          <ul>
-            <li>Item 2a</li>
-            <li>Item 2b</li>
-            <li>Item 2c</li>
-          </ul>
-        </li>
-        <li>Item 3</li>
-      </ol>
-    </div>
-    <div>
-      <h3>And an image</h3>
-      <h4>(that's also a link)</h4>
-      <a href="https://www.jif.com/JIFvsGIF" target="blank">
-        <img src="gif_or_jif.jpg" alt='hard "g" all the way'/>
-      </a>
-    </div>
-  </body>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js"></script>
+  <title>Demo Page!</title>
+</head>
+
+<body>
+  <div style="text-align: center;">
+    <h1>Hello, Section!</h1>
+    <h2>Here's a <span id=switch class=pretty>not-so-pretty</span> example webpage</h2>
+  </div>
+  <div>
+    <h3>Here's a table</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Row</th>
+          <th>Col 1</th>
+          <th>Col 2</td>
+          <th>Col 3</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>1</th>
+          <td>1.1</td>
+          <td>1.2</td>
+          <td>1.3</td>
+        </tr>
+        <tr>
+          <th>2</th>
+          <td>2.1</td>
+          <td>2.2</td>
+          <td>2.3</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div>
+    <h3>A list of lists</h3>
+    <ol>
+      <li>Item 1</li>
+      <li> Item 2
+        <ul>
+          <li>Item 2a</li>
+          <li>Item 2b</li>
+          <li>Item 2c</li>
+        </ul>
+      </li>
+      <li>Item 3</li>
+    </ol>
+  </div>
+  <div>
+    <h3>And an image</h3>
+    <h4>(that's also a link)</h4>
+    <a href="https://www.jif.com/JIFvsGIF" target="blank">
+      <img src="gif_or_jif.jpg" alt='hard "g" all the way' />
+    </a>
+  </div>
+</body>
+
 </html>
