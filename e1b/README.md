@@ -50,6 +50,7 @@
 + Assignment due Sunday, November 19
   + As always, look things up online!
 + *Cloud Computing* released Monday, November 20
++ Last Section will be *FRIDAY*, November 24 due to Thanksgiving
 + Exam planning
   + Released Friday, 12/8
   + Due Wedesday, 12/13
