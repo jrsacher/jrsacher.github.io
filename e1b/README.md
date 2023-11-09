@@ -10,8 +10,8 @@
 
 ---
 
-+ [Cloud Computing](#cloud-computing)
-+ [Technology Stacks](#technology-stacks)  -->
++ [Cloud Computing](#cloud-computing)  -->
++ [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
@@ -27,8 +27,8 @@
 #### General
 
 + Additional exam details will likely go out soon
-  + Released Fri 5/5
-  + Due Wed 5/10 @ 11:59 PM EDT
+  + Released Fri 12/8
+  + Due Wed 12/13 @ 11:59 PM EST
   + Use any and all _non-human_ resources (but don't copy directly!)
   + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu). Other staff will not reply
 + Questions/comments/concerns?
@@ -39,7 +39,7 @@
 + Distinguish between IaaS, PaaS, and SaaS.
 + What is the difference between vertical and horizontal scaling?
 
----
+---  -->
 
 ### Technology Stacks
 
@@ -47,12 +47,12 @@
 
 #### General
 
-+ Assignment due Sunday, April 16
++ Assignment due Sunday, November 19
   + As always, look things up online!
-+ *Cloud Computing* released Monday, April 17
++ *Cloud Computing* released Monday, November 20
 + Exam planning
-  + Released Friday, 5/5
-  + Due Wedesday, 5/10
+  + Released Friday, 12/8
+  + Due Wedesday, 12/13
   + Like a normal assignment but longer, a few questions from each lecture
   + Will likely have a review session and/or office hours before exam
 + Questions?
@@ -73,7 +73,7 @@
   + Not really "database frameworks," but there are [persistence frameworks](https://en.wikipedia.org/wiki/Persistence_framework) that help applications communicate with databases.
   + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
 
----  -->
+---
 
 ### Web Development
 
