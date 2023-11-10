@@ -3,11 +3,11 @@
 ## Fall 2023
 
 ## http://jrsacher.github.io/e1b
-<!--    
+  
 ---
 
 ### [Review Session Topics](review.md)
-
+<!--  
 ---
 
 + [Cloud Computing](#cloud-computing)  -->
