@@ -53,7 +53,7 @@
 + Last Section will be *FRIDAY*, November 24 due to Thanksgiving
 + Exam planning
   + Released Friday, 12/8
-  + Due Wedesday, 12/13
+  + Due Wednesday, 12/13
   + Like a normal assignment but longer, a few questions from each lecture
   + Will likely have a review session and/or office hours before exam
 + Questions?
