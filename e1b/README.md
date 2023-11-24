@@ -7,10 +7,10 @@
 ---
 
 ### [Review Session Topics](review.md)
-<!--  
+<!--    -->
 ---
 
-+ [Cloud Computing](#cloud-computing)  -->
++ [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
@@ -19,7 +19,7 @@
 + [General Info](#general-info)
 
 ---
-<!--  
+<!--  -->
 ### Cloud Computing
 
 #### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
@@ -55,7 +55,7 @@
   + Released Friday, 12/8
   + Due Wednesday, 12/13
   + Like a normal assignment but longer, a few questions from each lecture
-  + Will likely have a review session and/or office hours before exam
+  + May have a review session and/or office hours before exam
 + Questions?
 
 #### Mini-quiz
