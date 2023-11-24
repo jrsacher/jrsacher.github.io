@@ -43,7 +43,7 @@
     + *O(n)*
     + No need to sort data  
   + Binary
-    + *O(log(n))
+    + *O(log(n))*
     + Data must be sorted -- upfront cost
 
 ## Programming Languages
