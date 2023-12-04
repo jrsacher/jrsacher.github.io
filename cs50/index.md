@@ -175,9 +175,9 @@
 + [Hash Tables](https://cs50.harvard.edu/indonesia/2024/shorts/hash_tables/)
 + [Tries](https://cs50.harvard.edu/indonesia/2024/shorts/tries/)
 
----
+---  -->
 
-## Week 4  -->
+## Week 4
 
 [Slides](https://docs.google.com/presentation/d/1nyDnQZ53BUv-BKxv678f9aR7aG5dkA0gSV5RujU_PUA/edit?usp=sharing)
 
