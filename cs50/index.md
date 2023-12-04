@@ -11,8 +11,8 @@
 * [Week 8](#week-8)
 * [Week 7](#week-7)
 * [Week 6](#week-6)
-* [Week 5](#week-5)
-* [Week 4](#week-4) --> 
+* [Week 5](#week-5) -->
+* [Week 4](#week-4) 
 * [Week 3](#week-3)
 * [Week 2](#week-2)
 * [Week 1](#week-1)
@@ -177,7 +177,7 @@
 
 ---
 
-## Week 4
+## Week 4  -->
 
 [Slides](https://docs.google.com/presentation/d/1nyDnQZ53BUv-BKxv678f9aR7aG5dkA0gSV5RujU_PUA/edit?usp=sharing)
 
@@ -209,7 +209,7 @@
 + [Call Stacks](https://cs50.harvard.edu/indonesia/2024/shorts/call_stacks/)
 + [File Pointers](https://cs50.harvard.edu/indonesia/2024/shorts/file_pointers/)
 
----  -->
+---
 
 ## Week 3
 
