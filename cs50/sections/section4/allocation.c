@@ -40,7 +40,7 @@ int main(void)
     int *m = calloc(NUM_VALUES, sizeof(int));
     for (int i = 0; i < NUM_VALUES; i++)
     {
-        if (*(n + i) != 0)
+        if (*(m + i) != 0)
         {
             printf("%i\n", *(m + i));
         }
