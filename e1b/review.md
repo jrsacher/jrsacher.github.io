@@ -6,6 +6,9 @@
 + Same format as the assignments
 + No large problems (e.g. Scratch program, web page)
 + Most problems can be answered in a few sentences -- NOT paragraphs!
++ Not allowed to get help from humans (or relatively intelligent chatbots). All other sources are yours to use!
++ No communication with the staff about the exam
+  + Exception: post to Ed for clarifications or administrative questions
 
 ## Overall themes
 
