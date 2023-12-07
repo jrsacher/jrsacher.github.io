@@ -12,7 +12,7 @@
 + **Tradeoffs!** Everything comes at some kind of cost
 + It's all about layers of abstraction and building on them
 
-## Computational Thinking
+## 1. Computational Thinking
 
 ### Building from the ground up
 
@@ -53,7 +53,7 @@
     + *O(log(n))*
     + Data must be sorted -- upfront cost
 
-## Programming Languages
+## 2. Programming Languages
 
 ### Constructs
 
@@ -82,9 +82,9 @@
   + Note: "precise" does not equal verbose
   + Simple is generally better/easier
 
-## Internet Technologies
+## 3. Internet Technologies
 
-### Protocols that make the internet work
+### Protocols that make the Internet work
 
 + IP - Internet Protocol
   + Your unique address on the internet
@@ -114,7 +114,7 @@
     + 200: OK
     + 404: Not found
 
-## Web Development
+## 4. Web Development
 
 + HTML - Hypertext Markup Language
   + Markup language vs. programming language
@@ -143,7 +143,7 @@
   + Likely better to keep different languages in different files 
 
 
-## Technology Stacks
+## 5. Technology Stacks
 
 + Combination of all languages, tools, frameworks, databases, etc. used to build an app or service
 
@@ -210,7 +210,7 @@
   + Tools available for writing code in JavaScript, C#
   + May not perform as well or look the same as native applications
 
-## Cloud Computing
+## 6. Cloud Computing
 
 ### Scalability
 
