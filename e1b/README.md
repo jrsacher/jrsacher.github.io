@@ -10,6 +10,8 @@
 <!--    -->
 ---
 
+### Sections
+
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
