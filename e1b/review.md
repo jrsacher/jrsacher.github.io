@@ -1,5 +1,12 @@
 # Exam Review
 
+## Exam details
+
++ 23 questions with material from each of the 6 lectures
++ Same format as the assignments
++ No large problems (e.g. Scratch program, web page)
++ Most problems can be answered in a few sentences -- NOT paragraphs!
+
 ## Overall themes
 
 + **Tradeoffs!** Everything comes at some kind of cost
