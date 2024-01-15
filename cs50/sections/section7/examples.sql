@@ -1,10 +1,12 @@
 SELECT *
 FROM shows;
 
+
 SELECT title,
     year
 FROM shows
 WHERE year > 2000;
+
 
 SELECT shows.title,
     ratings.rating AS user_rating
@@ -17,10 +19,12 @@ SELECT title,
 FROM shows
     JOIN ratings ON shows.id = ratings.show_id;
 
+
 -- Building a complex query:
 SELECT id
 FROM people
 WHERE name = 'Danny DeVito';
+
 
 SELECT show_id
 FROM stars
@@ -29,6 +33,7 @@ WHERE person_id = (
         FROM people
         WHERE name = 'Danny DeVito'
     );
+
 
 SELECT name
 FROM people
@@ -42,6 +47,7 @@ WHERE stars.show_id IN (
                 WHERE name = 'Danny DeVito'
             )
     );
+
 
 SELECT name,
     title,
@@ -62,6 +68,7 @@ ORDER BY year DESC,
     title,
     name;
 
+
 -- What are the best-rated, highly-watched, recent shows?
 SELECT *
 FROM shows
@@ -81,6 +88,7 @@ GROUP BY people.name
 HAVING total_shows > 50
 ORDER BY total_shows DESC;
 
+
 -- What has Snoop Dogg starred in?
 SELECT shows.title,
     shows.year,
@@ -92,6 +100,7 @@ FROM shows
     JOIN ratings ON ratings.show_id = shows.id
 WHERE people.name = 'Snoop Dogg'
 ORDER BY rating DESC;
+
 
 -- What shows star Snoop Dogg and Martha Stewart?
 SELECT *
