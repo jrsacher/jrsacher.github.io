@@ -4,9 +4,11 @@ import csv
 
 with open("staff_2024.csv", "r") as f:
     reader = csv.DictReader(f)
-    staff = []
-    for row in reader:
-        staff.append(row["name"])
+    staff = [row["name"] for row in reader]
+    # Same as:
+    # staff = []
+    # for row in reader:
+    #     staff.append(row["name"])
 
 # Print staff list as-is
 for name in staff:
