@@ -115,6 +115,9 @@
   + Database structure, joins
 + `sqlite3`
   + Alternative: `phpliteadmin`
+  + Offline:
+    + [SQLite Browser](https://sqlitebrowser.org/)
+    + [DBeaver](https://dbeaver.io/) (handles multiple database formats)
 + SQL in Python
 + Race conditions
 + SQL injection attacks
