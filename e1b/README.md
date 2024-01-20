@@ -5,9 +5,10 @@
 ## http://jrsacher.github.io/e1b
   
 ---
-
+<!--
 ### [Review Session Topics](review.md)
-<!--    -->
+-->
+<!--    
 ---
 
 ### Sections
@@ -16,12 +17,12 @@
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
-+ [Programming Languages](#programming-languages)
++ [Programming Languages](#programming-languages) -->
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
 
 ---
-<!--  -->
+<!--  
 ### Cloud Computing
 
 #### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
@@ -41,7 +42,7 @@
 + Distinguish between IaaS, PaaS, and SaaS.
 + What is the difference between vertical and horizontal scaling?
 
----  -->
+---  
 
 ### Technology Stacks
 
@@ -87,7 +88,7 @@
 #### General
 
 **NOTE**
-CS50 IDE no longer exists. You can use the newer, better [VS Code for CS50](https://code.cs50.io/) instead.
+CS50 IDE no longer exists. You can use the newer, better [VS Code for CS50](https://cs50.dev/) instead.
 
 **Resources**
 
@@ -131,7 +132,7 @@ Questions?
   + Start early!
   + Late work may be penalized (see policy in the syllabus)
     + _If there are extenuating circumstances, contact business@cs50.harvard.edu_
-<!-- + No sections/office hours for "Spring Break" (week of 3/13) -->
++ No sections/office hours for "Spring Break" (week of 3/10)
 + Questions from the first homework assignment?
 + I'm grading assignment 2 -- hope to have it done this weekend!
 + Other questions or concerns?
@@ -214,7 +215,7 @@ Questions?
 
 [Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY to much time on!
 
----
+--- -->
 
 ### Computational Thinking
 
@@ -222,7 +223,7 @@ Questions?
 
 #### Housekeeping
 
-+ Read the [syllabus](https://cs50.harvard.edu/extension/business/2023/fall/syllabus/)!
++ Read the [syllabus](https://cs50.harvard.edu/extension/business/2024/spring/syllabus/)!
 + General questions, comments, or concerns?
 
 #### Topics
