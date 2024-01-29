@@ -86,14 +86,14 @@
 
 #### Useful shorts
 
-+ [Internet Primer] (https://cs50.harvard.edu/indonesia/2024/shorts/internet_primer/)
-+ [IP] (https://cs50.harvard.edu/indonesia/2024/shorts/ip/)
-+ [TCP] (https://cs50.harvard.edu/indonesia/2024/shorts/tcp/)
-+ [HTTP] (https://cs50.harvard.edu/indonesia/2024/shorts/http/)
-+ [HTML] (https://cs50.harvard.edu/indonesia/2024/shorts/html/)
-+ [CSS] (https://cs50.harvard.edu/indonesia/2024/shorts/css/)
-+ [JavaScript] (https://cs50.harvard.edu/indonesia/2024/shorts/javascript/)
-+ [DOM] (https://cs50.harvard.edu/indonesia/2024/shorts/dom/)
++ [Internet Primer](https://cs50.harvard.edu/indonesia/2024/shorts/internet_primer/)
++ [IP](https://cs50.harvard.edu/indonesia/2024/shorts/ip/)
++ [TCP](https://cs50.harvard.edu/indonesia/2024/shorts/tcp/)
++ [HTTP](https://cs50.harvard.edu/indonesia/2024/shorts/http/)
++ [HTML](https://cs50.harvard.edu/indonesia/2024/shorts/html/)
++ [CSS](https://cs50.harvard.edu/indonesia/2024/shorts/css/)
++ [JavaScript](https://cs50.harvard.edu/indonesia/2024/shorts/javascript/)
++ [DOM](https://cs50.harvard.edu/indonesia/2024/shorts/dom/)
 
 ---
 
