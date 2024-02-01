@@ -30,8 +30,8 @@
 #### General
 
 + Additional exam details will likely go out soon
-  + Released Fri 12/8
-  + Due Wed 12/13 @ 11:59 PM EST
+  + Released Friday, 5/3 @ 12:00 AM ET
+  + Due Wednesday, 5/8 @ 11:59 PM ET
   + Use any and all _non-human_ resources (but don't copy directly!)
   + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu). Other staff will not reply
 + Questions/comments/concerns?
@@ -50,15 +50,12 @@
 
 #### General
 
-+ Assignment due Sunday, November 19
-  + As always, look things up online!
-+ *Cloud Computing* released Monday, November 20
-+ Last Section will be *FRIDAY*, November 24 due to Thanksgiving
++ As always, look things up online for assignments!
 + Exam planning
-  + Released Friday, 12/8
-  + Due Wednesday, 12/13
+  + Released Friday, 5/3 @ 12:00 AM ET
+  + Due Wednesday, 5/8 @ 11:59 PM ET
   + Like a normal assignment but longer, a few questions from each lecture
-  + May have a review session and/or office hours before exam
+  + May have a review session and/or office hours before the exam
 + Questions?
 
 #### Mini-quiz
@@ -114,7 +111,7 @@ Questions?
 + Look things up online!
 + Be sure to use relative links so that it works on the Staff's computers
 + Alternatices to working online
-  + ~Full CS50 IDE for online use~ Now [VS Code for CS50](https://code.cs50.io/)
+  + ~Full CS50 IDE for online use~ Now [VS Code for CS50](https://cs50.dev/)
   + [VS Code](https://code.visualstudio.com/)
   + [Atom](https://atom.io)
   + [SublimeText](https://sublimetext.com)
@@ -213,7 +210,7 @@ Questions?
 
 #### Bonus
 
-[Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY to much time on!
+[Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY too much time on!
 
 --- -->
 
@@ -259,11 +256,11 @@ Contact [Josh](mailto:josh@cs50.harvard.edu) or [all course staff](mailto:busine
 Sections (_feel free to attend whichever is convenient_):
 + [Zoom link](https://vault.cs50.io/57d4206e-ef62-42b0-a4fb-970437b7ebd8) -- the same for all sections
 + Wed 6:00 – 7:30 pm ET with Greg
-+ Thur 7:00 – 8:30 pm ET with Josh
++ Thur 6:30 – 8:00 pm ET with Josh
 
 
 Office hours:
-+ [Office hours link](https://vault.cs50.io/b974dbc9-05be-4e8d-acab-837814351f3f)
++ [Office hours link](https://vault.cs50.io/b974dbc9-05be-4e8d-acab-837814351f3f) 
 + Thur 7:00 pm – 8:30 pm ET with Josh
 + Sun 10:30 am – 12:00 pm ET with Greg
 + Potentially by appointment -- ask your assigned TF
@@ -271,5 +268,9 @@ Office hours:
 [Discussion forum](https://cs50.harvard.edu/extension/business/2023/fall/ed/)
 
 Grading - contact the correct TF for questions about the assignment or grading
-+ Greg: Assignments 1, 4, 6
-+ Josh: Assignments 2, 3, 5
++ Greg:
+  + Quizzes 2, 3, 5
+  + Assignments 1, 4, 6
++ Josh:
+  + Quizzes 1, 4, 6
+  + Assignments 2, 3, 5
