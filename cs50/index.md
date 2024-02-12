@@ -6,8 +6,8 @@
 
 ## [Sections](#sections)
 <!--
-* [Week 10](#week-10)
-* [Week 9](#week-9) -->
+* [Week 10](#week-10)  -->
+* [Week 9](#week-9)
 * [Week 8](#week-8)
 * [Week 7](#week-7)
 * [Week 6](#week-6)
@@ -44,10 +44,14 @@
 
 +
 
----
+---  -->
 
 
 ## Week 9
+
+### The last section
+
+Thanks so much for attending!
 
 [Slides](https://docs.google.com/presentation/d/1l9uOufNNWRYI4_R0RPzCjUc2Ay6wcoynL3Ua4gNTn9E/edit?usp=sharing)
 
@@ -66,7 +70,7 @@
 + [Flask](https://cs50.harvard.edu/indonesia/2024/shorts/flask/)
 + [AJAX](https://cs50.harvard.edu/indonesia/2024/shorts/ajax/)
 
----  -->
+---
 
 ## Week 8
 
