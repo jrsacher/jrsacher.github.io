@@ -183,7 +183,7 @@ Questions?
 
 #### [Slides](https://docs.google.com/presentation/d/17FPoSh48OUpYkepCQHZkZalDrtdGZM8bzVVGSUk2KZA/edit?usp=sharing)
 
-#### [Example files](examples/) for compiled vs. interpreted languages (`C` and `Python`)
+#### [Example files](https://github.com/jrsacher/jrsacher.github.io/tree/master/e1b/examples) for compiled vs. interpreted languages (`C` and `Python`)
 
 #### General
 
