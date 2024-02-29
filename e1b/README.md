@@ -15,8 +15,8 @@
 
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
-+ [Web Development](#web-development)
-+ [Internet Technologies](#internet-technologies) -->
++ [Web Development](#web-development) -->
++ [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
@@ -36,12 +36,6 @@
   + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu). Other staff will not reply
 + Questions/comments/concerns?
  
-#### Mini-quiz
-
-+ Provide some examples of "single points of failure".
-+ Distinguish between IaaS, PaaS, and SaaS.
-+ What is the difference between vertical and horizontal scaling?
-
 ---  
 
 ### Technology Stacks
@@ -99,12 +93,6 @@ CS50 IDE no longer exists. You can use the newer, better [VS Code for CS50](http
   
 Questions?
 
-#### Mini-quiz
-
-+ Uses for the inspector tab in your browser?
-+ Purpose of CSS Selectors?
-+ Why might you want to use JavaScript?
-
 #### Assignment
 
 + **Start ASAP**
@@ -116,8 +104,7 @@ Questions?
   + [Atom](https://atom.io)
   + [SublimeText](https://sublimetext.com)
   
-
----
+---  -->
 
 ### Internet Technologies
 
@@ -139,15 +126,6 @@ Questions?
 + Internet Alphabet Soup!
 + See slides
 
-#### Mini Quiz
-
-+ Difference between TCP and UDP?
-+ Why might entries show as " *\** " during `traceroute`?
-+ HTTP "response codes" that David shows?
-  + 200 "OK"
-  + 301 "Moved Permanently"
-  + 404 "Not Found"
-  
 #### Assignment
 
 + Questions?
@@ -177,7 +155,7 @@ Questions?
   + David Malan on [security in general](https://youtu.be/QQmFyybzon0); Brian Yu with some [more in-depth details](https://youtu.be/bR1AZMk7SNs)
 
 
---- -->
+---
 
 ### Programming Languages
 
@@ -196,12 +174,6 @@ Questions?
 + Loops
 + Functions
 + Compiled vs Interpreted languages
-
-#### Mini Quiz
-
-1. What is a sprite?
-1. What is a Boolean expression?
-1. What is bytecode?
 
 #### Assignment
 
@@ -239,12 +211,6 @@ Questions?
   + Linked lists
   + Hash tables
   
-#### Mini Quiz
-
-1. With what actual form of input is a modern computer storing the 0s and 1s of binary?
-1. What is pseudocode?
-1. As described in lecture, a hash table is typically a combination of what two other data structures?
-
 ---
 
 ### General Info
