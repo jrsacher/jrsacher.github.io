@@ -13,8 +13,8 @@
 
 ### Sections
 
-+ [Cloud Computing](#cloud-computing)
-+ [Technology Stacks](#technology-stacks) -->
++ [Cloud Computing](#cloud-computing) -->
++ [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
@@ -36,7 +36,7 @@
   + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu). Other staff will not reply
 + Questions/comments/concerns?
  
----  
+---  -->
 
 ### Technology Stacks
 
@@ -52,12 +52,6 @@
   + May have a review session and/or office hours before the exam
 + Questions?
 
-#### Mini-quiz
-
-+ What are CRUD operations?
-+ In a few sentences, distinguish between a website's front end and its back end.
-+ Distinguish between when one might use a SQL versus a NoSQL database.
-
 #### **Questions from previous Sections**
 
 + Examples of cross-platform mobile apps?
@@ -68,7 +62,7 @@
   + Not really "database frameworks," but there are [persistence frameworks](https://en.wikipedia.org/wiki/Persistence_framework) that help applications communicate with databases.
   + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
 
----  -->
+---
 
 ### Web Development
 
