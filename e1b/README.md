@@ -5,15 +5,14 @@
 ## http://jrsacher.github.io/e1b
   
 ---
-<!--
+<!--  -->
 ### [Review Session Topics](review.md)
--->
-<!--    
+  
 ---
 
 ### Sections
-
-+ [Cloud Computing](#cloud-computing) -->
+<!--   -->
++ [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
