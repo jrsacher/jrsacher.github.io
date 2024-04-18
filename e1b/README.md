@@ -21,7 +21,7 @@
 + [General Info](#general-info)
 
 ---
-<!--  
+<!--    -->
 ### Cloud Computing
 
 #### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
@@ -35,7 +35,7 @@
   + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu). Other staff will not reply
 + Questions/comments/concerns?
  
----  -->
+---
 
 ### Technology Stacks
 
