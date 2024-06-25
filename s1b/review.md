@@ -1,37 +1,27 @@
 # Exam Review
 
-+ [Overall themes](#overall-themes)
-+ [Computational Thinking](#computational-thinking)
-  + [Building from the ground up](#building-from-the-ground-up)
-  + [Core concepts](#core-concepts)
-  + [Dealing with data](#dealing-with-data)
-+ [Programming Languages](#programming-languages)
-  + [Constructs](#constructs)
-  + [Programming](#programming)
-  + [Algorithms again!](#algorithms-again)
-+ [Internet Technologies](#internet-technologies)
-  + [Protocols that make the internet work](#protocols-that-make-the-internet-work)
-+ [Web Development](#web-development)
-+ [Technology Stacks](#technology-stacks)
-  + [Front end vs. Back end](#front-end-vs-back-end)
-  + [Frameworks](#frameworks)
-  + [Databases](#databases)
-  + [Mobile development](#mobile-development)
-+ [Cloud Computing](#cloud-computing)
-  + [Scalability](#scalability)
-  + [[X] as a Service](#x-as-a-service)
+## Exam details
+
++ 24 questions (100 points) with material from each of the 6 lectures
++ Same format as the assignments
++ No large problems (e.g. Scratch program, web page)
++ Most problems can be answered in a few sentences -- NOT paragraphs!
++ Not allowed to get help from humans (or relatively intelligent chatbots). All other sources are yours to use!
++ No communication with the staff about the exam
 
 ## Overall themes
 
 + **Tradeoffs!** Everything comes at some kind of cost
 + It's all about layers of abstraction and building on them
 
-## Computational Thinking
+## 1. Computational Thinking
 
 ### Building from the ground up
 
 + Binary
+  + Know how to convert to and from decimal
 + ASCII
+  + Know how to convert to and from binary 
 + Colors
 
 ### Core concepts
@@ -44,7 +34,7 @@
     + *n²*
     + *log(n)*
   + Need for clarity
-    + If you have to write one, pick something VERY simple  
+    + If you have to write an algorithm, pick something **VERY** simple  
 
 ### Dealing with data
 
@@ -56,12 +46,16 @@
 + Sorting
   + Bubble sort
   + Selection sort
-  + Others 
+  + Others -- look up if needed!
 + Searching
   + Linear
+    + *O(n)*
+    + No need to sort data  
   + Binary
+    + *O(log(n))*
+    + Data must be sorted -- upfront cost
 
-## Programming Languages
+## 2. Programming Languages
 
 ### Constructs
 
@@ -73,30 +67,31 @@
   + `while` loops: repeat while some Boolean expression is true
 + Functions
   + Reusable pieces of code that do a specific task
+  + Abstraction -- don't need to know how it was implemented to use it
 
 ### Programming
 
 + Compiled languages
-  + text (source code) --> compiler --> machine code
-  + Generally better performing, consumer does not have access to source code
+  + text --> compiler --> machine code
+  + Generally better performing
 + Interpreted languages
-  + text (source code) --> interpreter --> byte code --> virtual machine
+  + text --> interpreter --> byte code --> virtual machine
   + Generally easier to work with, especially for prototyping
 + In reality, this is an oversimplification -- nothing is black and white
 
 ### Algorithms again
-+ If you have to create one, be _EXTREMELY_ precise
++ Again, if you have to create one, be _EXTREMELY_ precise
   + Note: "precise" does not equal verbose
-+ Simple is generally better/easier
+  + Simple is generally better/easier
 
+## 3. Internet Technologies
 
-## Internet Technologies
-
-### Protocols that make the internet work
+### Protocols that make the Internet work
 
 + IP - Internet Protocol
   + Your unique address on the internet
-  + IPv4 vs IPv6 
+  + IPv4 vs IPv6
+    + 32-bit vs 128-bit
 + DHCP - Dynamic Host Configuration Protocol
   + Assigns your device an _IP address_ (ex: 10.75.234.190)
 + DNS - Domain Name Service
@@ -121,9 +116,10 @@
     + 200: OK
     + 404: Not found
 
-## Web Development
+## 4. Web Development
 
 + HTML - Hypertext Markup Language
+  + Markup language vs. programming language
   + Tells us what to display and some basics about how to do it
   + Uses _tags_ to do this
     + Tags use angle brackets: `<body>`
@@ -131,7 +127,6 @@
   + Tags can have _attributes_
     + `class`
     + `id`
-
 + CSS - Cascading Style Sheets
   + Provides robust control over style, layout, formatting, etc.
   + Uses _selectors_ to choose HTML elements
@@ -141,17 +136,16 @@
   + Many different `attribute: parameter;` combinations
     + `text-align: center;`
     + `color: darkred;`
-
 + JavaScript
   + Makes websites more interactive and responsive
   + Code runs in the client's web browser
   + Uses the Document Object Model (DOM) to interact with the HTML page
     + Tree-like hierarchy of HTML elements
-
 + Separation of concerns
   + Likely better to keep different languages in different files 
 
-## Technology Stacks
+
+## 5. Technology Stacks
 
 + Combination of all languages, tools, frameworks, databases, etc. used to build an app or service
 
@@ -181,14 +175,18 @@
   + Organizes data into tables
     + Think spreadsheet-like organization
   + _Relational_ database
-    + Uses _primary_ and _foreign keys_ to join data across multiple tables -- NORMALIZATION
+    + Uses _primary_ and _foreign keys_ to join data across multiple tables -- normalization
     + Avoids duplication of data and means changes only need to be made in one place
+    + Needs additional tables to bridge multiple smaller tables
   + Columns must be assigned a _data type_
-    + Specific names depent on database software, but include some form of:
-      + text (`CHAR`, `VARCHAR`)
-      + number (`INT`, `REAL`)
-      + date (`date`, `time`, `datetime`) 
-      + etc.
+    + Specific names depent on database software, but include some form of text, number, and date fields, among others
+    + Common types
+      + CHAR -- fixed length, always uses full amount of space
+      + VARCHAR -- variable length
+      + INT
+      + REAL or FLOAT
+      + DATETIME
+      + etc.  
 + NoSQL
   + Non-tabular data storage
     + More like a document than a spreadsheet
@@ -214,21 +212,21 @@
   + Tools available for writing code in JavaScript, C#
   + May not perform as well or look the same as native applications
 
-## Cloud Computing
+## 6. Cloud Computing
 
 ### Scalability
 
 + Vertical scaling -- get bigger, faster hardware
 + Horizontal scaling -- get MORE hardware
   + Can become complex, as servers and load balancers are needed
-    + Hardware must check in with each other to make sure everything is OK
+    + Hardware must check in with each other to make sure everything is OK -- "heartbeats"
   + Offers elasticity, as you can turn off a server if it isn't needed anymore
 + Database scaling
   + Sharding -- dividing data across DBs
   + Replication -- multiple copies of the data
 + If possible, design to avoid having a _single point of failure_
   
-### [X] as a Service
+### \_\_\_\_\_ as a Service
 
 + Infrastructure (IaaS)
   + Purchase time/space on someone else's hardware
@@ -239,4 +237,5 @@
 + Software (SaaS)
   + Don't even worry about making the software, just use it!
   + Gmail, Google Docs, Office 365, etc.
+
 

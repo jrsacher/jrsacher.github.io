@@ -6,15 +6,18 @@
 #include <stdio.h>
 #include <time.h>
 
-int main(void) {
+int main(void)
+{
     // Record the start time
     clock_t start = clock();
     // Set our max number for counting
     int n = 10000000;
     // Loop through each number between 1 and n
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++)
+    {
         // "%" is "modulo" -- the remainder after division
-        if (i % (n / 10) == 0) {
+        if (i % (n / 10) == 0)
+        {
             // Show us where we are in the loop
             printf("%i\n", i);
         }

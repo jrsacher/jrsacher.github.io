@@ -1,70 +1,60 @@
-# CSCI S-1b
+# CSCI E-1b
 
-## Summer 2022
+## Spring 2024
 
-## http://jrsacher.github.io/s1b
-
+## http://jrsacher.github.io/e1b
+  
 ---
-<!-- -->
+<!--  -->
 ### [Review Session Topics](review.md)
-
+  
 ---
 
-+ [Cloud Computing](#cloud-computing) 
-+ [Technology Stacks](#technology-stacks) 
-+ [Web Development](#web-development) 
+### Sections
+<!--   -->
++ [Cloud Computing](#cloud-computing)
++ [Technology Stacks](#technology-stacks)
++ [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
 
 ---
-<!-- -->
+<!--    -->
 ### Cloud Computing
 
 #### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
 
 #### General
 
-+ Exam info:
-  + Released Wednesday, August 3 @ 12:00 AM EDT
-  + Due Friday, August 5 @ 11:59 PM EDT
++ Additional exam details will likely go out soon
+  + Released Friday, 5/3 @ 12:00 AM ET
+  + Due Wednesday, 5/8 @ 11:59 PM ET
+  + Use any and all _non-human_ resources (but don't copy directly!)
   + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu). Other staff will not reply
-+ Review sessions Monday (Josh) and Tuesday (Greg) @ 6:00 PM EDT
-  + Use the link in the `Sections` page 
 + Questions/comments/concerns?
  
-#### Mini-quiz
-
-+ Provide some examples of "single points of failure".
-+ Distinguish between IaaS, PaaS, and SaaS.
-+ What is the difference between vertical and horizontal scaling?
-
 ---
 
-<!-- -->
 ### Technology Stacks
 
 #### [Slides](https://docs.google.com/presentation/d/1yLhjVmpji3eKwtwwtIIJSfHoJBWFaOtuVPBE7YH5bI0/edit?usp=sharing)
 
 #### General
 
-+ As always, look things up online!
-  + But don't copy answers -- I can Google, too.
-+ Exam August 3-5 
-  + Generally, like a bigger assignment
-  + No late work will be accepted!
++ As always, look things up online for assignments!
++ Exam planning
+  + Released Friday, 5/3 @ 12:00 AM ET
+  + Due Wednesday, 5/8 @ 11:59 PM ET
+  + Like a normal assignment but longer, a few questions from each lecture
+  + May have a review session and/or office hours before the exam
 + Questions?
-
-#### Mini-quiz
-
-+ What are CRUD operations?
-+ In a few sentences, distinguish between a website's front end and its back end.
-+ Distinguish between when one might use a SQL versus a NoSQL database.
 
 #### **Questions from previous Sections**
 
 + Examples of cross-platform mobile apps?
+  + The [Flutter](https://flutter.dev/) framework uses the [Dart programming language](https://dart.dev/) to build unified apps. [Examples](https://flutter.dev/showcase) include Ebay, Toyota, and various Google apps.
   + The Xamarin framework lets you build platform-independent mobile apps using C#. [Examples from their site](https://dotnet.microsoft.com/apps/xamarin/customers) include UPS, Alaska Airlines, and the American Cancer Society.
   + React Native lets you develop in JavaScript for both iOS and Android. [Some React apps include](https://reactnative.dev/showcase) things Facebook owns (can't believe I didn't think of that!) -- Facebook, Instagram and more; Tesla; Pinterest; Delivery.com; etc.
 + Are there database "frameworks?"
@@ -73,16 +63,11 @@
 
 ---
 
-<!-- -->
 ### Web Development
-
-#### A note on homework #3
-
-Many people seem to have missed the definition of a TCP __*port*__ in question 1. The port number is used to indicate the *type* of TCP traffic, such as HTTP (80), HTTPS (443), SSH (22), etc.
 
 #### [Slides](https://docs.google.com/presentation/d/1TwSFrqmcP2U0ArFhpXlCjBE8KIdxWjt_AGOydRhwNNA/edit?usp=sharing)
 
-#### [Sandbox](https://bit.ly/2QFKVoG) with example webpage
+#### [Example Files](https://github.com/jrsacher/jrsacher.github.io/tree/master/e1b/WebDev)
 
 #### General
 
@@ -98,26 +83,19 @@ Many people seem to have missed the definition of a TCP __*port*__ in question 1
   
 Questions?
 
-#### Mini-quiz
-
-+ Uses for the inspector tab in your browser?
-+ Purpose of CSS Selectors?
-+ Why might you want to use JavaScript?
-
 #### Assignment
 
 + **Start ASAP**
 + Look things up online!
 + Be sure to use relative links so that it works on the Staff's computers
-+ The Sandbox environment doesn't have a lot of the useful features of code editors. Alternatives:
-  + Full [CS50 IDE](ide.cs50.io) for online use
++ Alternatices to working in the environment provided
+  + [VS Code for CS50](https://cs50.io/) (online)
   + [VS Code](https://code.visualstudio.com/)
   + [Atom](https://atom.io)
   + [SublimeText](https://sublimetext.com)
   
 ---
 
-<!-- -->
 ### Internet Technologies
 
 #### [Slides](https://docs.google.com/presentation/d/1d4cvm-vn-vnkFS8GiA3gcSw1ga3TR9gmqCeZuCjHrgI/edit?usp=sharing)
@@ -126,13 +104,11 @@ Questions?
 
 + Homework reminders
   + Start early!
-  + Late work:  
-    + Late policy is 0.1% off per minute
-    + We only see the answers (and time stamp) from your last submission. Edits after the deadline will be considered late.
-    + See the [syllabus](https://cs50.harvard.edu/summer/business/2022/syllabus/#extension-policy) for the extension policy
+  + Late work may be penalized (see policy in the syllabus)
     + _If there are extenuating circumstances, contact business@cs50.harvard.edu_
++ No sections/office hours for "Spring Break" (week of 3/10)
 + Questions from the first homework assignment?
-+ I'm grading assignment 2 -- scores will hopefully be released soon
++ I'm grading assignment 2 -- hope to have it done this weekend!
 + Other questions or concerns?
 
 #### Topics
@@ -140,15 +116,6 @@ Questions?
 + Internet Alphabet Soup!
 + See slides
 
-#### Mini Quiz
-
-+ Difference between TCP and UDP?
-+ Why might entries show as " *\** " during `traceroute`?
-+ HTTP "response codes" that David shows?
-  + 200 "OK"
-  + 301 "Moved Permanently"
-  + 404 "Not Found"
-  
 #### Assignment
 
 + Questions?
@@ -156,7 +123,7 @@ Questions?
 #### Questions from Previous Years
 
 + _How do you know what protocol is being used?_
-  + You can see all of your computer's internet connections by opening up a terminal (Mac) or command prompt (Windows) and running `netstat`. I was able to see a whole bunch of TCP and UDP connections and identify what some of them (but not all) were. You can shorten the list to just IPv4 using `netstat -f inet` (and just IPv6 using `netstat -f inet6`)
+  + You can see all of your computer's internet connections by opening up a terminal (Mac) or command prompt (Windows) and running `netstat`. I was able to see a whole bunch of TCP and UDP connections and identify what some of them (but not all) were.
   + There may be ways to more directly see what's happening for a specific application, etc., but I don't know them
 + _DNS hijacking and HTTPS?_
   + It turns out security is only as good as its weakest link. If you're able to redirect traffic to your site _and_ get a valid certificate that says your site is "real," HTTPS won't protect you. ([Source](https://krebsonsecurity.com/2019/02/a-deep-dive-on-the-recent-widespread-dns-hijacking-attacks/))
@@ -180,12 +147,11 @@ Questions?
 
 ---
 
-<!-- -->
 ### Programming Languages
 
 #### [Slides](https://docs.google.com/presentation/d/17FPoSh48OUpYkepCQHZkZalDrtdGZM8bzVVGSUk2KZA/edit?usp=sharing)
 
-#### [Sandbox](http://bit.ly/2SIisQs) example of compiled vs. interpreted languages
+#### [Example files](https://github.com/jrsacher/jrsacher.github.io/tree/master/e1b/examples) for compiled vs. interpreted languages (`C` and `Python`)
 
 #### General
 
@@ -199,12 +165,6 @@ Questions?
 + Functions
 + Compiled vs Interpreted languages
 
-#### Mini Quiz
-
-1. What is a sprite?
-1. What is a Boolean expression?
-1. What is bytecode?
-
 #### Assignment
 
 + [Scratch](https://scratch.mit.edu/)
@@ -212,7 +172,7 @@ Questions?
 
 #### Bonus
 
-[Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY to much time on!
+[Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY too much time on!
 
 ---
 
@@ -222,7 +182,7 @@ Questions?
 
 #### Housekeeping
 
-+ Read the [syllabus](https://cs50.harvard.edu/summer/business/2022/syllabus/)!
++ Read the [syllabus](https://cs50.harvard.edu/extension/business/2024/spring/syllabus/)!
 + General questions, comments, or concerns?
 
 #### Topics
@@ -241,30 +201,32 @@ Questions?
   + Linked lists
   + Hash tables
   
-#### Mini Quiz
-
-1. With what actual form of input is a modern computer storing the 0s and 1s of binary?
-1. What is pseudocode?
-1. As described in lecture, a hash table is typically a combination of what two other data structures?
-
 ---
 
 ### General Info
 
-[Course Website](https://cs50.harvard.edu/summer/business/2022/)
+[Course Website](https://cs50.harvard.edu/extension/business/2023/fall/)
 
 Contact [Josh](mailto:josh@cs50.harvard.edu) or [all course staff](mailto:business@cs50.harvard.edu)
 
 Sections (_feel free to attend whichever is convenient_):
-+ [Zoom link](https://vault.cs50.io/8065524e-cb23-4e6d-90ed-a8316454ec0c) -- the same for all sections
-+ Wed 6:30 – 8:00 pm ET with Greg
-+ Thur 6:00 - 7:30 pm ET with Josh
++ [Zoom link](https://vault.cs50.io/57d4206e-ef62-42b0-a4fb-970437b7ebd8) -- the same for all sections
++ Wed 6:00 – 7:30 pm ET with Greg
++ Thur 6:30 – 8:00 pm ET with Josh
 
 
 Office hours:
-+ [Office hours link](https://vault.cs50.io/b974dbc9-05be-4e8d-acab-837814351f3f)
-+ Fri 7:00 – 8:00 pm ET with Josh
-+ Sun 11:00 am – 12:00 pm ET with Greg
++ [Office hours link](https://vault.cs50.io/b974dbc9-05be-4e8d-acab-837814351f3f) 
++ Thur 7:00 pm – 8:30 pm ET with Josh
++ Sun 10:30 am – 12:00 pm ET with Greg
 + Potentially by appointment -- ask your assigned TF
 
-[Discussion forum](https://edstem.org/us/courses/20692/discussion/)
+[Discussion forum](https://cs50.harvard.edu/extension/business/2023/fall/ed/)
+
+Grading - contact the correct TF for questions about the assignment or grading
++ Greg:
+  + Quizzes 2, 3, 5
+  + Assignments 1, 4, 6
++ Josh:
+  + Quizzes 1, 4, 6
+  + Assignments 2, 3, 5
