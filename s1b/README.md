@@ -153,6 +153,7 @@ Questions?
 
 #### General
 
++ Note: no office hours July 4th. Contact Josh to set up alternative times if you'd like.
 + Questions, comments, or concerns?
 
 #### Topics
