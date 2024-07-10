@@ -14,8 +14,8 @@
 <!--   
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
-+ [Web Development](#web-development)
-+ [Internet Technologies](#internet-technologies)  -->
++ [Web Development](#web-development)  -->
++ [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
@@ -93,7 +93,7 @@ Questions?
   + [Atom](https://atom.io)
   + [SublimeText](https://sublimetext.com)
   
----
+---  -->
 
 ### Internet Technologies
 
@@ -143,7 +143,7 @@ Questions?
   + David Malan on [security in general](https://youtu.be/QQmFyybzon0); Brian Yu with some [more in-depth details](https://youtu.be/bR1AZMk7SNs)
 
 
----  -->
+---
 
 ### Programming Languages
 
