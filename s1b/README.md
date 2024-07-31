@@ -28,7 +28,7 @@
 
 #### General
 
-+ Additional exam details will likely go out soon
++ Additional exam details [have been posted](https://cs50.harvard.edu/summer/business/2024/exam/)
   + Released Wednesday, 8/7 @ 12:00 AM ET
   + Due Friday, 8/9 @ 11:59 PM ET
   + Use any and all _non-human_ resources (but don't copy directly!)
