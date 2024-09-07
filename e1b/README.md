@@ -1,27 +1,27 @@
 # CSCI E-1b
 
-## Spring 2024
+## Fall 2024
 
 ## http://jrsacher.github.io/e1b
   
 ---
-<!--  -->
+<!--  
 ### [Review Session Topics](review.md)
-  
+-->  
 ---
 
 ### Sections
-<!--   -->
+<!--   
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
-+ [Programming Languages](#programming-languages)
++ [Programming Languages](#programming-languages)  -->
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
 
 ---
-<!--    -->
+<!--  
 ### Cloud Computing
 
 #### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
@@ -174,7 +174,7 @@ Questions?
 
 [Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY too much time on!
 
----
+---  -->
 
 ### Computational Thinking
 
@@ -182,7 +182,7 @@ Questions?
 
 #### Housekeeping
 
-+ Read the [syllabus](https://cs50.harvard.edu/extension/business/2024/spring/syllabus/)!
++ Read the [syllabus](https://cs50.harvard.edu/extension/business/2024/fall/syllabus/)!
 + General questions, comments, or concerns?
 
 #### Topics
@@ -205,14 +205,14 @@ Questions?
 
 ### General Info
 
-[Course Website](https://cs50.harvard.edu/extension/business/2023/fall/)
+[Course Website](https://cs50.harvard.edu/extension/business/2024/fall/)
 
-Contact [Josh](mailto:josh@cs50.harvard.edu) or [all course staff](mailto:business@cs50.harvard.edu)
+Contact [Josh](mailto:josh@cs50.harvard.edu). Other staff info can be found [here](https://cs50.harvard.edu/extension/business/2024/fall/staff/).
 
 Sections (_feel free to attend whichever is convenient_):
 + [Zoom link](https://vault.cs50.io/57d4206e-ef62-42b0-a4fb-970437b7ebd8) -- the same for all sections
-+ Wed 6:00 – 7:30 pm ET with Greg
-+ Thur 6:30 – 8:00 pm ET with Josh
++ Tuesday 6:00 – 7:30 pm ET with Greg
++ Thursday 7:00 – 8:30 pm ET with Josh
 
 
 Office hours:
@@ -221,7 +221,7 @@ Office hours:
 + Sun 10:30 am – 12:00 pm ET with Greg
 + Potentially by appointment -- ask your assigned TF
 
-[Discussion forum](https://cs50.harvard.edu/extension/business/2023/fall/ed/)
+[Discussion forum](https://cs50.harvard.edu/extension/business/2024/fall/ed/)
 
 Grading - contact the correct TF for questions about the assignment or grading
 + Greg:
