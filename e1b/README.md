@@ -105,7 +105,7 @@ Questions?
 + Homework reminders
   + Start early!
   + Late work may be penalized (see policy in the syllabus)
-    + _If there are extenuating circumstances, contact business@cs50.harvard.edu_
+    + _If there are extenuating circumstances, contact the staff_
 + Questions from the first homework assignment?
 + I'm grading assignment 2 -- hope to have it done this weekend!
 + Other questions or concerns?
