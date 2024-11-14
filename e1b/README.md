@@ -13,7 +13,7 @@
 ### Sections
 <!--   
 + [Cloud Computing](#cloud-computing)  -->
-+ [Technology Stacks](#technology-stacks)
++ [Technology Stacks](#technology-stacks-and-databases)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
