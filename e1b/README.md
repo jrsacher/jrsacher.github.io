@@ -1,6 +1,6 @@
 # CSCI E-1b
 
-## Fall 2024
+## Spring 2025
 
 ## http://jrsacher.github.io/e1b
   
