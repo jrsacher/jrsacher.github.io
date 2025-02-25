@@ -14,8 +14,8 @@
 <!--     
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks-and-databases)
-+ [Web Development](#web-development)
-+ [Internet Technologies](#internet-technologies) -->
++ [Web Development](#web-development) -->
++ [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
@@ -94,7 +94,7 @@ Questions?
   + [Atom](https://atom.io)
   + [SublimeText](https://sublimetext.com)
   
----
+--- -->
 
 ### Internet Technologies
 
@@ -122,7 +122,7 @@ Questions?
 #### Questions from Previous Years
 
 + _How do you know what protocol is being used?_
-  + You can see all of your computer's internet connections by opening up a terminal (Mac) or command prompt (Windows) and running `netstat`. I was able to see a whole bunch of TCP and UDP connections and identify what some of them (but not all) were.
+  + You can see all of your computer's internet connections by opening up a terminal (Mac/Linux) or command prompt (Windows) and running `netstat`. I was able to see a whole bunch of TCP and UDP connections and identify what some of them (but not all) were.
   + There may be ways to more directly see what's happening for a specific application, etc., but I don't know them
 + _DNS hijacking and HTTPS?_
   + It turns out security is only as good as its weakest link. If you're able to redirect traffic to your site _and_ get a valid certificate that says your site is "real," HTTPS won't protect you. ([Source](https://krebsonsecurity.com/2019/02/a-deep-dive-on-the-recent-widespread-dns-hijacking-attacks/))
@@ -144,7 +144,7 @@ Questions?
   + David Malan on [security in general](https://youtu.be/QQmFyybzon0); Brian Yu with some [more in-depth details](https://youtu.be/bR1AZMk7SNs)
 
 
---- -->
+---
 
 ### Programming Languages
 
