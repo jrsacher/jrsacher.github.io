@@ -41,6 +41,12 @@
 
 #### [Slides](https://docs.google.com/presentation/d/1yLhjVmpji3eKwtwwtIIJSfHoJBWFaOtuVPBE7YH5bI0/edit?usp=sharing)
 
+#### Example database
+
+The software used during the demo was [DBeaver community edition](https://dbeaver.io/download/), a free, open-source database tool. To use it with the `movies.db` file, you will need to download the `SQLite` driver when prompted.
+
+The `movies.db` file is part of a CS50 problem set. You can learn how to access it [here](https://cs50.harvard.edu/x/2025/psets/7/movies/).
+
 #### General
 
 + As always, look things up online for assignments!
