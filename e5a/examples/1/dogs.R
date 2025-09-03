@@ -26,7 +26,19 @@ View(dogs)
 dogs$Weight_lbs <- round(dogs$Weight_lbs, 1)
 View(dogs)
 
+# What is the average weight of all dogs in the data set?
+mean(dogs$Weight_kg)
+mean(dogs$Weight_lbs)
+
 # What is the average weight of Golden Retrievers?
 goldens <- dogs[dogs$Breed == "Golden Retriever", ]
 mean(goldens$Weight_kg)
 mean(goldens$Weight_lbs)
+
+# Or we could do it in one line without creating a new data frame
+mean(dogs$Weight_kg[dogs$Breed == "Golden Retriever"])
+mean(dogs$Weight_lbs[dogs$Breed == "Golden Retriever"])
+
+# How about chihuahuas?
+mean(dogs$Weight_kg[dogs$Breed == "Chihuahua"])
+mean(dogs$Weight_lbs[dogs$Breed == "Chihuahua"])
