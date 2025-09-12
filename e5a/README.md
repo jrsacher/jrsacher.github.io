@@ -84,7 +84,7 @@
 
 #### [Slides](https://docs.google.com/presentation/d/1xXQ5CdjVPUgyo5BM1WKF2ahesf00AS3lDHjochqIcXM/edit?usp=sharing)
 
-#### [Example files](examples/1) 
+#### [Example files](https://github.com/jrsacher/jrsacher.github.io/tree/master/e5a/examples/1))
 
 #### General
 
