@@ -69,22 +69,35 @@
 #### General
 
 ---
-
+-->
 ### Transforming Data
 
-#### [Slides]()
+#### [Slides](https://docs.google.com/presentation/d/1MGLXagcar4dKjokC8kzErpSD3ukOBShcPAoBIBa_GY4/edit?usp=sharing)
 
-#### Example files
+#### [Example files](https://github.com/jrsacher/jrsacher.github.io/tree/master/e5a/examples/2)
 
 #### General
 
++ Grades released for Check 1
+  + Reminder: 2/3 is a good answer; 3/3 is a "bonus point"
++ Will start grading Problem Set 1 shortly
+  + Your assigned TF will grade your assignment
++ Questions, comments, or concerns?
+
+#### Topics
+
++ Logical operators and expressions
++ Conditionals
++ Subsetting data
++ Combining data
+
 ---  
--->
+
 ### Representing Data
 
 #### [Slides](https://docs.google.com/presentation/d/1xXQ5CdjVPUgyo5BM1WKF2ahesf00AS3lDHjochqIcXM/edit?usp=sharing)
 
-#### [Example files](https://github.com/jrsacher/jrsacher.github.io/tree/master/e5a/examples/1))
+#### [Example files](https://github.com/jrsacher/jrsacher.github.io/tree/master/e5a/examples/1)
 
 #### General
 
