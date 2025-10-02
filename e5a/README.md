@@ -11,8 +11,8 @@
 + [Packaging Programs](#packaging-programs)
 + [Testing Programs](#testing-programs)
 + [Visualizing Data](#visualizing-data)
-+ [Tidying Data](#tidying-data)
-+ [Applying Functions](#applying-functions) -->
++ [Tidying Data](#tidying-data) -->
++ [Applying Functions](#applying-functions)
 + [Transforming Data](#transforming-data)
 + [Representing Data](#representing-data)
 + [General Information](#general-information)
