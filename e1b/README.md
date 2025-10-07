@@ -15,8 +15,8 @@
 + [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks-and-databases)
 + [Web Development](#web-development)
-+ [Internet Technologies](#internet-technologies)
-+ [Programming Languages](#programming-languages)      -->
++ [Internet Technologies](#internet-technologies)      -->
++ [Programming Languages](#programming-languages)
 + [Computational Thinking](#computational-thinking)
 + [General Info](#general-info)
 
@@ -100,7 +100,7 @@ Questions?
   + [Atom](https://atom.io)
   + [SublimeText](https://sublimetext.com)
   
----
+---  -->
 
 ### Internet Technologies
 
@@ -179,7 +179,7 @@ Questions?
 
 [Here's a Scratch game](https://scratch.mit.edu/projects/173019982/) I spent WAY too much time on!
 
----  -->
+---
 
 ### Computational Thinking
 
