@@ -1,0 +1,91 @@
+Student,Major,Semester,Course,Grade
+Alice,Mathematics,Fall 2023,Intro Bio,57.8
+Alice,Mathematics,Fall 2023,Organic Chem,53.0
+Alice,Mathematics,Fall 2023,Data Structures,80.0
+Alice,Mathematics,Fall 2023,Linear Algebra,51.0
+Alice,Mathematics,Fall 2023,World History,91.5
+Bob,Computer Science,Fall 2023,Intro Bio,93.0
+Bob,Computer Science,Fall 2023,Organic Chem,72.5
+Bob,Computer Science,Fall 2023,Linear Algebra,78.2
+Bob,Computer Science,Fall 2023,World History,50.7
+Carlos,History,Fall 2023,Intro Bio,94.8
+Carlos,  History  ,Fall 2023,Organic Chem,96.0
+Carlos,History,Fall 2023,Linear Algebra,52.2
+Carlos,History,Fall 2023,World History,69.5
+Diana  ,Computer Science,Fall 2023,Intro Bio,80.2
+Diana  ,Computer Science,Fall 2023,Organic Chem,82.5
+Diana  ,Computer Science,Fall 2023,Data Structures,92.5
+Diana  ,Computer Science,Fall 2023,Linear Algebra,54.8
+Diana  ,Computer Science,Fall 2023,World History,83.5
+Evelyn,chemistry,Fall 2023,Organic Chem,65.8
+Evelyn,chemistry,Fall 2023,Data Structures,95.5
+Evelyn,chemistry,Fall 2023,Linear Algebra,70.5
+Evelyn,chemistry,Fall 2023,World History,61.5
+Farid,Mathematics,Fall 2023,Intro Bio,82.5
+Farid,Mathematics,Fall 2023,Data Structures,65.2
+Farid,Mathematics,Fall 2023,Linear Algebra,76.8
+Farid,Mathematics,Fall 2023,World History,84.5
+Grace, history,Fall 2023,Intro Bio,75.2
+Grace,history,Fall 2023,Data Structures,95.5
+Grace,history,Fall 2023,Linear Algebra,57.2
+Grace,history,Fall 2023,World History,99.2
+Hiroshi,History,Fall 2023,Intro Bio,85.5
+Hiroshi,History,Fall 2023,Organic Chem,67.5
+Hiroshi,History,Fall 2023,Linear Algebra,70.0
+Hiroshi,History,Fall 2023,World History,92.0
+Isabella,History,Fall 2023,Intro Bio,67.5
+Isabella,History,Fall 2023,Organic Chem,94.8
+Isabella,History,Fall 2023,Data Structures,89.0
+Isabella,History,Fall 2023,Linear Algebra,54.2
+Isabella,History,Fall 2023,World History,95.0
+Jamal,biology,Fall 2023,Intro Bio,87.2
+Jamal,biology,Fall 2023,Organic Chem,65.5
+Jamal,biology,Fall 2023,Data Structures,75.5
+Jamal,biology,Fall 2023,Linear Algebra,62.5
+Jamal,biology,Fall 2023,World History,99.0
+Alice,mathematics ,Spring 2024,Intro Bio,65.2
+Alice,mathematics,Spring 2024,Organic Chem,71.5
+Alice,mathematics ,Spring 2024,Data Structures,80.5
+Alice,mathematics,Spring 2024,World History,68.2
+Bob,computer science,Spring 2024,Intro Bio,80.5
+Bob,computer science,Spring 2024,Organic Chem,58.8
+Bob,computer science,Spring 2024,Data Structures,59.0
+Bob,computer science,Spring 2024,Linear Algebra,71.2
+Bob,computer science,Spring 2024,World History,78.5
+Carlos,History,Spring 2024,Intro Bio,64.0
+Carlos,History,Spring 2024,Organic Chem,57.0
+Carlos,History,Spring 2024,Data Structures,53.8
+Carlos,History,Spring 2024,Linear Algebra,88.5
+Carlos,History,Spring 2024,World History,50.2
+Diana,Computer  Science,Spring 2024,Intro Bio,78.0
+Diana,Computer Science,Spring 2024,Organic Chem,98.5
+Diana,Computer Science,Spring 2024,Data Structures,86.0
+Diana,Computer Science,Spring 2024,Linear Algebra,62.7
+Evelyn  ,chemistry,Spring 2024,Intro Bio,96.5
+Evelyn  ,chemistry,Spring 2024,Organic Chem,81.8
+Evelyn  ,chemistry,Spring 2024,Data Structures,90.2
+Evelyn  ,chemistry,Spring 2024,Linear Algebra,94.8
+Evelyn  ,chemistry,Spring 2024,World History,90.2
+Farid,mathematics,Spring 2024,Intro Bio,61.0
+Farid,mathematics,Spring 2024,Organic Chem,70.2
+Farid,mathematics,Spring 2024,Linear Algebra,62.3
+Farid,mathematics,Spring 2024,World History,85.5
+Grace,History,Spring 2024,Intro Bio,62.0
+Grace,History,Spring 2024,Organic Chem,68.5
+Grace,History,Spring 2024,Data Structures,81.8
+Grace,History,Spring 2024,Linear Algebra,54.5
+Grace,History,Spring 2024,World History,66.0
+Hiroshi,History,Spring 2024,Intro Bio,77.0
+Hiroshi,History,Spring 2024,Organic Chem,61.5
+Hiroshi,History,Spring 2024,Data Structures,99.0
+Hiroshi,History,Spring 2024,Linear Algebra,63.0
+Hiroshi, History,Spring 2024,World History,98.2
+Isabella,history,Spring 2024,Organic Chem,50.2
+Isabella,history,Spring 2024,Data Structures,77.5
+Isabella,history,Spring 2024,Linear Algebra,82.5
+Isabella,history,Spring 2024,World History,85.5
+Jamal,Biology,Spring 2024,Intro Bio,67.5
+Jamal,Biology,Spring 2024,Organic Chem,83.5
+Jamal,Biology,Spring 2024,Data Structures,61.5
+Jamal,Biology,Spring 2024,Linear Algebra,78.5
+Jamal,Biology,Spring 2024,World History,52.2
