@@ -10,8 +10,8 @@
 <!--      
 + [Packaging Programs](#packaging-programs)
 + [Testing Programs](#testing-programs)
-+ [Visualizing Data](#visualizing-data)
-+ [Tidying Data](#tidying-data) -->
++ [Visualizing Data](#visualizing-data) -->
++ [Tidying Data](#tidying-data)
 + [Applying Functions](#applying-functions)
 + [Transforming Data](#transforming-data)
 + [Representing Data](#representing-data)
@@ -49,24 +49,36 @@
 #### General
 
 ---
-
+-->
 ### Tidying Data
 
-#### [Slides]()
+#### [Slides](https://docs.google.com/presentation/d/12kgZpl56yKUV-IaAecMNrDHeNYi6JdK9nka8ElYLErA/edit?usp=sharing)
 
-#### Example files
+#### [Example files](https://github.com/jrsacher/jrsacher.github.io/blob/master/e5a/examples/4/)
 
-#### General
+#### Topics
+
++ `R` pipe operator
++ Installing and using packages
++ The Tidyverse
+
+#### Tidyverse Resources
+
+[Tidyverse packages](https://tidyverse.org/packages/)
+
+"Cheat sheets" for
+
++ [dplyr](https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf)
++ [tidyr](https://github.com/rstudio/cheatsheets/blob/main/tidyr.pdf)
++ [stringr](https://github.com/rstudio/cheatsheets/blob/main/strings.pdf)
 
 ---
--->
+
 ### Applying Functions
 
 #### [Slides](https://docs.google.com/presentation/d/1LoBQSYVhCw_WEGlVmpQMSBPCAEZh0QVcd26Cgcobrio/edit?usp=sharing)
 
 #### [Example files](https://github.com/jrsacher/jrsacher.github.io/blob/master/e5a/examples/3/)
-
-#### General
 
 #### Topics
 
