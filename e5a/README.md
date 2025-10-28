@@ -9,8 +9,8 @@
 ### Sections
 <!--      
 + [Packaging Programs](#packaging-programs)
-+ [Testing Programs](#testing-programs)
-+ [Visualizing Data](#visualizing-data) -->
++ [Testing Programs](#testing-programs) -->
++ [Visualizing Data](#visualizing-data)
 + [Tidying Data](#tidying-data)
 + [Applying Functions](#applying-functions)
 + [Transforming Data](#transforming-data)
@@ -24,9 +24,9 @@
 
 #### [Slides]()
 
-#### Example files
+#### [Example files]()
 
-#### General
+#### Topics
 
 ---
 
@@ -34,22 +34,29 @@
 
 #### [Slides]()
 
-#### Example files
+#### [Example files](https://github.com/jrsacher/jrsacher.github.io/blob/master/e5a/examples/6/)
 
-#### General
-
----
-
-### Visualizing Data
-
-#### [Slides]()
-
-#### Example files
-
-#### General
+#### Topics
 
 ---
 -->
+### Visualizing Data
+
+#### [Slides](https://docs.google.com/presentation/d/1QD56tIcx11AfV1in-I-2ZxBEuLrM7-0sox7MiyYIGf8/edit?usp=sharing)
+
+#### [Example files](https://github.com/jrsacher/jrsacher.github.io/blob/master/e5a/examples/5/)
+
+#### Topics
+
++ Plotting (not the "evil" kind)
+
+#### Resources
+
++ [ggplot2 documentation](https://ggplot2.tidyverse.org/reference/index.html)
++ [ggplot2 Cheat Sheet](https://github.com/rstudio/cheatsheets/blob/master/data-visualization.pdf)
+
+---
+
 ### Tidying Data
 
 #### [Slides](https://docs.google.com/presentation/d/12kgZpl56yKUV-IaAecMNrDHeNYi6JdK9nka8ElYLErA/edit?usp=sharing)
