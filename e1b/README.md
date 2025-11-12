@@ -12,8 +12,8 @@
 
 ### Sections
 <!-- 
-+ [Cloud Computing](#cloud-computing)
-+ [Technology Stacks](#technology-stacks-and-databases)      -->
++ [Cloud Computing](#cloud-computing)  -->
++ [Technology Stacks](#technology-stacks-and-databases)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
 + [Programming Languages](#programming-languages)
@@ -35,7 +35,7 @@
   + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu). Other staff will not reply
 + Questions/comments/concerns?
  
---- 
+---  -->
 
 ### Technology Stacks (and Databases)
 
@@ -51,8 +51,8 @@ The `movies.db` file is part of a CS50 problem set. You can learn how to access 
 
 + As always, look things up online for assignments!
 + Exam planning
-  + Released Friday, May 9 @ 12:00 AM ET
-  + Due Wednesday, May 14 @ 11:59 PM ET
+  + Released Friday, December 12 @ 12:00 AM ET
+  + Due Wednesday, December 17 @ 11:59 PM ET
   + Like a normal assignment but longer, a few questions from each lecture
   + Will likely have a review session and/or office hours before the exam
 + Questions?
@@ -67,7 +67,7 @@ The `movies.db` file is part of a CS50 problem set. You can learn how to access 
   + Not really "database frameworks," but there are [persistence frameworks](https://en.wikipedia.org/wiki/Persistence_framework) that help applications communicate with databases.
   + [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) tools are [frameworks used *with* databases](https://www.killerphp.com/articles/what-are-orm-frameworks/), but not "database frameworks" themselves.
 
----  -->
+---
 
 ### Web Development
 
