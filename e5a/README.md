@@ -8,8 +8,8 @@
 
 ### Sections
 <!--      
-+ [Packaging Programs](#packaging-programs)
-+ [Testing Programs](#testing-programs) -->
++ [Packaging Programs](#packaging-programs) -->
++ [Testing Programs](#testing-programs)
 + [Visualizing Data](#visualizing-data)
 + [Tidying Data](#tidying-data)
 + [Applying Functions](#applying-functions)
@@ -28,18 +28,25 @@
 
 #### Topics
 
----
+---  -->
 
 ### Testing Programs
 
-#### [Slides]()
+#### [Slides](https://docs.google.com/presentation/d/1OkZHgxly9ZW_ZHeyMx4rJV9HKby1slJNlK_6rkt1UMI/edit?usp=sharing)
 
 #### [Example files](https://github.com/jrsacher/jrsacher.github.io/blob/master/e5a/examples/6/)
 
 #### Topics
 
++ Why testing?
++ Exceptions
++ `message`, `warning`, `stop`
++ `testthat`
++ Test-driven development (TDD) and behavior-driven development (BDD) philosophies
++ Test coverage (`covr`)
+
 ---
--->
+
 ### Visualizing Data
 
 #### [Slides](https://docs.google.com/presentation/d/1QD56tIcx11AfV1in-I-2ZxBEuLrM7-0sox7MiyYIGf8/edit?usp=sharing)
