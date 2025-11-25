@@ -17,8 +17,8 @@ describe("convert_temp", {
   it("handles vector input", {
     expect_equal(
       convert_temp(c(32, 100, 212), "C"),
-      c(0, 37.77, 100),
-      tolerance = 1e-2 # Needs to be set to 1e-3 to 1e-1 to pass
+      c(0, 37.78, 100),
+      tolerance = 1e-3 # Needs to be set to 1e-3 to 1e-1 to pass
     )
   })
 })

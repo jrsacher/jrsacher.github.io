@@ -16,7 +16,7 @@ h2 {
 }
 
 h4 {
-    color: darkgrey;
+    color: darkgray;
 }
 
 table {
@@ -61,7 +61,7 @@ img {
 
 .pretty {
     color: magenta;
-    text-shadow: 1px 1px 1px black, 3px 3px 10px lightskyblue;
+    text-shadow: 1px 1px 1px black, 3px 3px 10px darkblue;
 }
 
 .ugly {
