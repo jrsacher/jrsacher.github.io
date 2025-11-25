@@ -7,8 +7,8 @@
 ---
 
 ### Sections
-<!--      
-+ [Packaging Programs](#packaging-programs) -->
+<!--      -->
++ [Packaging Programs](#packaging-programs) 
 + [Testing Programs](#testing-programs)
 + [Visualizing Data](#visualizing-data)
 + [Tidying Data](#tidying-data)
@@ -19,16 +19,18 @@
 
 ---
 
-<!-- 
+<!--   -->
 ### Packaging Programs
 
-#### [Slides]()
+#### [Slides](https://docs.google.com/presentation/d/1vBqeUI7ehXA_YU_DGzmsa9R3wS9efADDrXgFHbJY1Iw/edit?usp=sharing)
 
-#### [Example files]()
+#### [Example files](https://github.com/jrsacher/jrsacher.github.io/blob/master/e5a/examples/7/)
 
 #### Topics
 
----  -->
++ Packages 📦
+
+---
 
 ### Testing Programs
 
