@@ -7,6 +7,8 @@
 #' @examples
 #' cat(turkeytalk("Gobble gobble!"))
 #' @export
+# Turkey ASCII art from: https://asciiart.website/art/1943
+# Manually formatted for use in R
 turkeytalk <- function(phrase = "Happy Thanksgiving!") {
   turkey <- paste(
     "            _______       _\"_",
