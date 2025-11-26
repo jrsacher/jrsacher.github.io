@@ -5,14 +5,14 @@
 ## http://jrsacher.github.io/e1b
   
 ---
-<!--  
+<!--    -->
 ### [Review Session Topics](review.md)
 
----  --> 
+--- 
 
 ### Sections
-<!-- 
-+ [Cloud Computing](#cloud-computing)  -->
+<!--   -->
++ [Cloud Computing](#cloud-computing)
 + [Technology Stacks](#technology-stacks-and-databases)
 + [Web Development](#web-development)
 + [Internet Technologies](#internet-technologies)
@@ -21,7 +21,7 @@
 + [General Info](#general-info)
 
 ---
-<!--    
+<!--      -->
 ### Cloud Computing
 
 #### [Slides](https://docs.google.com/presentation/d/1WRqmlBgDFjCx8b-9AC_1LPRB_Yh-zP9sDPcXH3TOuYI/edit?usp=sharing)
@@ -29,13 +29,13 @@
 #### General
 
 + Additional exam details will likely go out soon
-  + Released Friday, May 9 @ 12:00 AM ET
-  + Due Wednesday, May 14 @ 11:59 PM ET
+  + Released Friday, December 12 @ 12:00 AM ET
+  + Due Wednesday, December 17 @ 11:59 PM ET
   + Use any and all _non-human_ resources (but don't copy directly!)
   + Questions about the exam during that period need to be directed to Doug (lloyd@cs50.harvard.edu). Other staff will not reply
 + Questions/comments/concerns?
  
----  -->
+---
 
 ### Technology Stacks (and Databases)
 
